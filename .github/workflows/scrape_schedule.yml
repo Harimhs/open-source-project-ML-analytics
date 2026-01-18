@@ -1,0 +1,58 @@
+name: Daily Data Pipeline
+
+on:
+  schedule:
+    - cron: '30 20 * * *'  # 2 AM IST daily
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Run scraper
+        run: |
+          python run_scraper.py
+        continue-on-error: true
+      
+      - name: Train model
+        run: |
+          python -m ml_model.model_trainer
+      
+      - name: Check drift
+        run: |
+          python check_drift.py
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update: $(date '+%Y-%m-%d %H:%M')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Create issue if drift detected
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '⚠️ Model Drift Detected',
+              body: 'Automated drift check detected significant changes. Please review the model.'
+            })

@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Intelligence Engine</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: #010916;
+            min-height: 100vh;
+            padding: 2rem 1rem;
+            color: #2d3748;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Header */
+        .header {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            color: #1a202c;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: #718096;
+            font-size: 1rem;
+            font-weight: 400;
+        }
+
+        /* Main Grid */
+        .main-grid {
+            display: grid;
+            grid-template-columns: 380px 1fr;
+            gap: 2rem;
+        }
+
+        /* Input Panel */
+        .input-panel {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            height: fit-content;
+        }
+
+        .section-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: #1a202c;
+            margin-bottom: 1.5rem;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        label {
+            display: block;
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: #4a5568;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        select {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 0.9375rem;
+            color: #2d3748;
+            background: white;
+            transition: all 0.2s;
+            font-family: inherit;
+        }
+
+        select:hover {
+            border-color: #cbd5e0;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #3182ce;
+            box-shadow: 0 0 0 3px rgba(49, 130, 206, 0.1);
+        }
+
+        .range-input {
+            width: 100%;
+            margin-top: 0.5rem;
+        }
+
+        input[type="range"] {
+            width: 100%;
+            height: 6px;
+            border-radius: 3px;
+            background: #e2e8f0;
+            outline: none;
+            -webkit-appearance: none;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #3182ce;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        input[type="range"]::-webkit-slider-thumb:hover {
+            background: #2c5282;
+            transform: scale(1.1);
+        }
+
+        input[type="range"]::-moz-range-thumb {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #3182ce;
+            cursor: pointer;
+            border: none;
+        }
+
+        .range-value {
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #3182ce;
+            margin-top: 1rem;
+        }
+
+        button {
+            width: 100%;
+            background: #3182ce;
+            color: white;
+            border: none;
+            padding: 0.875rem 1.5rem;
+            font-size: 0.9375rem;
+            font-weight: 600;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+            font-family: inherit;
+        }
+
+        button:hover {
+            background: #2c5282;
+        }
+
+        button:active {
+            transform: translateY(1px);
+        }
+
+        button:disabled {
+            background: #cbd5e0;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .loading {
+            text-align: center;
+            color: #718096;
+            font-size: 0.875rem;
+            margin-top: 1rem;
+            display: none;
+        }
+
+        /* Results Panel */
+        .results-panel {
+            display: none;
+        }
+
+        .price-display {
+            background: linear-gradient(135deg, #2c5282 0%, #3182ce 100%);
+            padding: 2.5rem;
+            border-radius: 12px;
+            text-align: center;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 6px rgba(49, 130, 206, 0.2);
+        }
+
+        .price-label {
+            color: rgba(255,255,255,0.85);
+            font-size: 0.875rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .price-amount {
+            font-size: 4rem;
+            font-weight: 700;
+            color: white;
+            line-height: 1;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .metric-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border-left: 3px solid #e2e8f0;
+        }
+
+        .metric-label {
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: #718096;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .metric-value {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: #1a202c;
+        }
+
+        .status-badge {
+            background: white;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: 600;
+            font-size: 0.9375rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+
+        .status-budget {
+            border-left: 4px solid #48bb78;
+            color: #22543d;
+        }
+
+        .status-mid {
+            border-left: 4px solid #4299e1;
+            color: #2c5282;
+        }
+
+        .status-premium {
+            border-left: 4px solid #ed8936;
+            color: #7c2d12;
+        }
+
+        .chart-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+
+        .chart-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: #1a202c;
+            margin-bottom: 1.5rem;
+        }
+
+        .insights-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .insight-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+
+        .insight-label {
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: #718096;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .insight-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #3182ce;
+            margin-bottom: 0.25rem;
+        }
+
+        .insight-text {
+            font-size: 0.875rem;
+            color: #718096;
+        }
+
+        .info-card {
+            background: #ebf8ff;
+            border-left: 4px solid #3182ce;
+            padding: 1rem 1.25rem;
+            border-radius: 6px;
+            font-size: 0.9375rem;
+            line-height: 1.6;
+            color: #2c5282;
+        }
+
+        footer {
+            text-align: center;
+            color: #a0aec0;
+            margin-top: 3rem;
+            padding: 2rem;
+            font-size: 0.875rem;
+            border-top: 1px solid #e2e8f0;
+        }
+
+        footer strong {
+            color: #718096;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .main-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .input-panel {
+                margin-bottom: 2rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem 0.5rem;
+            }
+
+            .header {
+                padding: 1.5rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .input-panel, .chart-card, .insight-card {
+                padding: 1.5rem;
+            }
+
+            .price-amount {
+                font-size: 3rem;
+            }
+
+            .metrics-grid {
+                grid-template-columns: 1fr;
+                gap: 0.75rem;
+            }
+
+            .insights-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .price-amount {
+                font-size: 2.5rem;
+            }
+
+            .metric-value {
+                font-size: 1.5rem;
+            }
+
+            .insight-value {
+                font-size: 1.25rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>Ox.D.Haus Price Intelligence Engine</h1>
+            <p class="subtitle">ML-powered competitive pricing analysis for custom retail business</p>
+        </div>
+
+        <!-- Main Grid -->
+        <div class="main-grid">
+            <!-- Input Panel -->
+            <div class="input-panel">
+                <div class="section-title">Configure Product</div>
+
+                <div class="form-group">
+                    <label for="category">Product Category</label>
+                    <select id="category">
+                        {% for cat in categories %}
+                        <option value="{{ cat }}">{{ cat }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="brand">Brand</label>
+                    <select id="brand">
+                        {% for b in brands %}
+                        <option value="{{ b }}">{{ b }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="quality">Quality Rating</label>
+                    <div class="range-input">
+                        <input type="range" id="quality" min="1" max="5" step="0.5" value="4">
+                        <div class="range-value" id="qualityValue">4.0</div>
+                    </div>
+                </div>
+
+                <button onclick="getPrice()" id="analyzeBtn">Analyze Price</button>
+                <div class="loading" id="loading">Analyzing market data...</div>
+            </div>
+
+            <!-- Results Panel -->
+            <div class="results-panel" id="results">
+                <!-- Price Display -->
+                <div class="price-display">
+                    <div class="price-label">Recommended Price</div>
+                    <div class="price-amount" id="predictedPrice">₹0</div>
+                </div>
+
+                <!-- Metrics Grid -->
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <div class="metric-label">Market Low</div>
+                        <div class="metric-value" id="marketMin">₹0</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-label">Market Average</div>
+                        <div class="metric-value" id="marketAvg">₹0</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-label">Market High</div>
+                        <div class="metric-value" id="marketMax">₹0</div>
+                    </div>
+                </div>
+
+                <!-- Status Badge -->
+                <div id="statusBadge" class="status-badge"></div>
+
+                <!-- Chart -->
+                <div class="chart-card">
+                    <div class="chart-title">Market Price Distribution</div>
+                    <canvas id="priceChart"></canvas>
+                </div>
+
+                <!-- Insights Grid -->
+                <div class="insights-grid">
+                    <div class="insight-card">
+                        <div class="insight-label">Market Position</div>
+                        <div class="insight-value" id="percentileValue">0th</div>
+                        <div class="insight-text">Percentile ranking</div>
+                    </div>
+
+                    <div class="insight-card">
+                        <div class="insight-label">Products Analyzed</div>
+                        <div class="insight-value" id="productCount">0</div>
+                        <div class="insight-text">Similar competing products</div>
+                    </div>
+
+                    <div class="insight-card">
+                        <div class="insight-label">Price Variance</div>
+                        <div class="insight-value" id="priceDiff">₹0</div>
+                        <div class="insight-text" id="priceDiffText">vs market average</div>
+                    </div>
+
+                    <div class="insight-card">
+                        <div class="insight-label">Market Range</div>
+                        <div class="insight-value" id="priceRange">₹0</div>
+                        <div class="insight-text">Total price spread</div>
+                    </div>
+                </div>
+
+                <!-- Info Card -->
+                <div class="info-card" id="infoText"></div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <p><strong>Price Intelligence Engine</strong></p>
+            <p>824 Products • 162 Brands</p>
+        </footer>
+    </div>
+
+    <script>
+        let priceChart = null;
+
+        // Quality slider update
+        const qualitySlider = document.getElementById('quality');
+        const qualityValue = document.getElementById('qualityValue');
+        
+        qualitySlider.addEventListener('input', function() {
+            qualityValue.textContent = this.value;
+        });
+
+        async function getPrice() {
+            const category = document.getElementById('category').value;
+            const brand = document.getElementById('brand').value;
+            const quality = document.getElementById('quality').value;
+
+            // Show loading
+            document.getElementById('analyzeBtn').disabled = true;
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('results').style.display = 'none';
+
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({category, brand, quality})
+                });
+
+                const data = await response.json();
+
+                // Update price
+                document.getElementById('predictedPrice').textContent = '₹' + data.predicted_price;
+                
+                // Update metrics
+                document.getElementById('marketMin').textContent = '₹' + data.market_min;
+                document.getElementById('marketAvg').textContent = '₹' + data.market_avg;
+                document.getElementById('marketMax').textContent = '₹' + data.market_max;
+
+                // Status badge
+                const percentile = data.percentile;
+                const badge = document.getElementById('statusBadge');
+                
+                if (percentile < 35) {
+                    badge.className = 'status-badge status-budget';
+                    badge.textContent = 'Budget-Friendly Positioning';
+                } else if (percentile < 65) {
+                    badge.className = 'status-badge status-mid';
+                    badge.textContent = 'Competitive Mid-Range Pricing';
+                } else {
+                    badge.className = 'status-badge status-premium';
+                    badge.textContent = 'Premium Positioning';
+                }
+
+                // Update insights
+                document.getElementById('percentileValue').textContent = percentile + 'th';
+                document.getElementById('productCount').textContent = data.product_count;
+                
+                const diff = data.predicted_price - data.market_avg;
+                document.getElementById('priceDiff').textContent = (diff > 0 ? '+' : '') + '₹' + Math.abs(diff);
+                document.getElementById('priceDiffText').textContent = diff > 0 ? 'above market average' : 'below market average';
+
+                document.getElementById('priceRange').textContent = '₹' + (data.market_max - data.market_min);
+
+                // Info text
+                document.getElementById('infoText').innerHTML = 
+                    `Based on analysis of <strong>${data.product_count}</strong> similar products, the recommended price is <strong>₹${data.predicted_price}</strong>. ` +
+                    `This positions your product at the <strong>${percentile}th percentile</strong> in the market.`;
+
+                // Create chart
+                createChart(data.price_distribution, data.predicted_price);
+
+                // Show results
+                document.getElementById('results').style.display = 'block';
+
+            } catch (error) {
+                alert('Error analyzing price. Please try again.');
+                console.error(error);
+            } finally {
+                document.getElementById('analyzeBtn').disabled = false;
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
+        function createChart(prices, predictedPrice) {
+            if (priceChart) priceChart.destroy();
+
+            const bins = 25;
+            const min = Math.min(...prices);
+            const max = Math.max(...prices);
+            const binSize = (max - min) / bins;
+            
+            const histogram = new Array(bins).fill(0);
+            const labels = [];
+            
+            for (let i = 0; i < bins; i++) {
+                const binStart = min + (i * binSize);
+                labels.push('₹' + Math.round(binStart));
+                
+                prices.forEach(price => {
+                    if (price >= binStart && price < binStart + binSize) {
+                        histogram[i]++;
+                    }
+                });
+            }
+
+            const ctx = document.getElementById('priceChart').getContext('2d');
+            priceChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Products',
+                        data: histogram,
+                        backgroundColor: 'rgba(49, 130, 206, 0.6)',
+                        borderColor: 'rgba(49, 130, 206, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    aspectRatio: 2,
+                    plugins: {
+                        legend: {display: false},
+                        tooltip: {
+                            backgroundColor: 'rgba(26, 32, 44, 0.9)',
+                            padding: 12,
+                            titleFont: {size: 13, weight: '600'},
+                            bodyFont: {size: 12},
+                            callbacks: {
+                                label: function(context) {
+                                    return context.parsed.y + ' products';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: {color: 'rgba(226, 232, 240, 0.5)'},
+                            ticks: {font: {size: 11}, color: '#718096'}
+                        },
+                        x: {
+                            grid: {display: false},
+                            ticks: {
+                                font: {size: 10},
+                                color: '#718096',
+                                maxRotation: 45,
+                                minRotation: 45
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

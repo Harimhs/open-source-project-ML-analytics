@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.csv
+.env
+.venv
+.DS_Store
+data/raw/*.csv
+data/processed/*.csv
