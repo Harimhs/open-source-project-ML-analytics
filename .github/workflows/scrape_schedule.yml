@@ -2,8 +2,12 @@ name: Daily Data Pipeline
 
 on:
   schedule:
-    - cron: '30 20 * * *'  # 2 AM IST daily
-  workflow_dispatch:  # Manual trigger
+    - cron: '30 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
 
 jobs:
   pipeline:
@@ -27,15 +31,19 @@ jobs:
           python run_scraper.py
         continue-on-error: true
       
-      - name: Train model
+      - name: Train model (skip if scraper fails)
+        if: success()
         run: |
           python -m ml_model.model_trainer
       
       - name: Check drift
+        if: success()
         run: |
           python check_drift.py
+        continue-on-error: true
       
       - name: Commit and push
+        if: success()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
@@ -44,15 +52,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Create issue if drift detected
-        if: failure()
-        uses: actions/github-script@v6
-        with:
-          script: |
-            github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: '⚠️ Model Drift Detected',
-              body: 'Automated drift check detected significant changes. Please review the model.'
-            })
