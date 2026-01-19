@@ -9,5 +9,19 @@
     "model_name": "Lasso (L1)",
     "drift_detected": false,
     "alerts": []
+  },
+  {
+    "timestamp": "2026-01-19T20:50:50.012332",
+    "total_products": 100,
+    "avg_price": 554.14,
+    "price_std": 206.86012548374694,
+    "categories": 4,
+    "brands": 41,
+    "model_name": "Linear Regression",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Average price changed by 31.9%",
+      "\u26a0\ufe0f Product count changed by 33.3%"
+    ]
   }
 ]
