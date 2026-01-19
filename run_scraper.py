@@ -8,6 +8,12 @@ sys.path.append('.')
 from scraper.amazon_scraper import scrape_all_categories
 import pandas as pd
 
+import os
+
+# Ensure directories exist
+os.makedirs('data/raw', exist_ok=True)
+os.makedirs('data/processed', exist_ok=True)
+
 # T-SHIRT HEAVY categories (your friend's main business)
 categories = [
     # === MEN'S T-SHIRTS (Primary Focus) ===
