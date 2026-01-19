@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-01-19T04:09:17.664220",
+    "total_products": 75,
+    "avg_price": 420.2266666666667,
+    "price_std": 157.9907261504597,
+    "categories": 3,
+    "brands": 28,
+    "model_name": "Lasso (L1)",
+    "drift_detected": false,
+    "alerts": []
+  }
+]
