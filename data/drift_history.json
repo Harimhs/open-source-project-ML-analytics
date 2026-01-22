@@ -50,5 +50,18 @@
     "alerts": [
       "\u26a0\ufe0f Average price changed by 20.0%"
     ]
+  },
+  {
+    "timestamp": "2026-01-22T20:54:53.184139",
+    "total_products": 25,
+    "avg_price": 487.52,
+    "price_std": 221.56547564997575,
+    "categories": 1,
+    "brands": 15,
+    "model_name": "Ridge (L2)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Product count changed by 50.0%"
+    ]
   }
 ]

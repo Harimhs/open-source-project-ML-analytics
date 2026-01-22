@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-DEELMO,439,439.0,3.9,Amazon India,mens casual shirts,2026-01-21 20:59:46
-U TURN,359,359.0,3.6,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Majestic Man,469,469.0,4.0,Amazon India,mens casual shirts,2026-01-21 20:59:46
-The Indian Garage Co,472,472.0,4.0,Amazon India,mens casual shirts,2026-01-21 20:59:46
-TOPLOT,429,429.0,4.3,Amazon India,mens casual shirts,2026-01-21 20:59:46
-NexaFlair,379,379.0,3.0,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Majestic Man,563,563.0,4.0,Amazon India,mens casual shirts,2026-01-21 20:59:46
-DEELMO,439,439.0,4.0,Amazon India,mens casual shirts,2026-01-21 20:59:46
-TAGDO,349,349.0,3.8,Amazon India,mens casual shirts,2026-01-21 20:59:46
-TAGDO,369,369.0,3.9,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Highlander,485,485.0,4.2,Amazon India,mens casual shirts,2026-01-21 20:59:46
-CB-COLEBROOK,399,399.0,3.8,Amazon India,mens casual shirts,2026-01-21 20:59:46
-DEELMO,436,436.0,4.1,Amazon India,mens casual shirts,2026-01-21 20:59:46
-The Indian Garage Co,507,507.0,4.1,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Pinkmint,379,379.0,3.6,Amazon India,mens casual shirts,2026-01-21 20:59:46
-The Indian Garage Co,454,454.0,3.7,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Majestic Man,469,469.0,4.2,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Miraan,616,616.0,3.8,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Majestic Man,469,469.0,4.2,Amazon India,mens casual shirts,2026-01-21 20:59:46
-DEELMO,439,439.0,3.8,Amazon India,mens casual shirts,2026-01-21 20:59:46
-FUNKY RICH,363,363.0,4.0,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Allen Solly,684,684.0,3.9,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Majestic Man,469,469.0,3.9,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Allen Solly,649,649.0,4.2,Amazon India,mens casual shirts,2026-01-21 20:59:46
-Peter England,789,789.0,3.6,Amazon India,mens casual shirts,2026-01-21 20:59:46
-GoSriKi,649,649.0,3.7,Amazon India,womens dress,2026-01-21 21:00:15
-KLOSIA,729,729.0,4.0,Amazon India,womens dress,2026-01-21 21:00:15
-Shasmi,569,569.0,4.4,Amazon India,womens dress,2026-01-21 21:00:15
-KLOSIA,729,729.0,4.2,Amazon India,womens dress,2026-01-21 21:00:15
-GoSriKi,729,729.0,3.7,Amazon India,womens dress,2026-01-21 21:00:15
-GoSriKi,776,776.0,2.8,Amazon India,womens dress,2026-01-21 21:00:15
-GoSriKi,659,659.0,3.8,Amazon India,womens dress,2026-01-21 21:00:15
-PARTHVI,668,668.0,3.9,Amazon India,womens dress,2026-01-21 21:00:15
-GoSriKi,559,559.0,3.8,Amazon India,womens dress,2026-01-21 21:00:15
-Alvami,749,749.0,4.0,Amazon India,womens dress,2026-01-21 21:00:15
-Nermosa,739,739.0,4.0,Amazon India,womens dress,2026-01-21 21:00:15
-MOKOSH,"1,318",1318.0,4.3,Amazon India,womens dress,2026-01-21 21:00:15
-ROYALICA,579,579.0,3.6,Amazon India,womens dress,2026-01-21 21:00:15
-Sheetal Associates,300,300.0,4.1,Amazon India,womens dress,2026-01-21 21:00:15
-GRECIILOOKS,589,589.0,4.0,Amazon India,womens dress,2026-01-21 21:00:15
-LookMark,749,749.0,3.9,Amazon India,womens dress,2026-01-21 21:00:15
-Leriya Fashion,359,359.0,3.7,Amazon India,womens dress,2026-01-21 21:00:15
-ANNI DESIGNER,589,589.0,3.6,Amazon India,womens dress,2026-01-21 21:00:15
-ANNI DESIGNER,510,510.0,3.9,Amazon India,womens dress,2026-01-21 21:00:15
-KLOSIA,729,729.0,4.4,Amazon India,womens dress,2026-01-21 21:00:15
-LOUIS LUXE,617,617.0,4.0,Amazon India,womens dress,2026-01-21 21:00:15
-ANNI DESIGNER,529,529.0,3.6,Amazon India,womens dress,2026-01-21 21:00:15
-ANNI DESIGNER,699,699.0,3.8,Amazon India,womens dress,2026-01-21 21:00:15
-Sheetal Associates,337,337.0,4.2,Amazon India,womens dress,2026-01-21 21:00:15
-LITZO,649,649.0,3.8,Amazon India,womens dress,2026-01-21 21:00:15
+Amazon Brand - Symbol,549,549.0,4.1,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+LEOTUDE,329,329.0,3.6,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+Allen Solly,421,421.0,4.0,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+JUNEBERRY,379,379.0,4.1,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+Fabricorn,409,409.0,4.0,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+JUNEBERRY,395,395.0,3.9,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+JUNEBERRY,999,999.0,4.2,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+London Hills,321,321.0,3.8,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+JUNEBERRY,399,399.0,4.3,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+TWIN BIRDS,299,299.0,,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+FLEXIMAA,289,289.0,3.8,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+FABIOUS,369,369.0,4.3,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+JUNEBERRY,"1,253",1253.0,4.3,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+London Hills,459,459.0,3.9,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+Amazon Brand - Symbol,579,579.0,4.1,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+FLEXIMAA,269,269.0,4.0,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+JUNEBERRY,725,725.0,4.1,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+Jockey,549,549.0,4.2,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+Bewakoof,399,399.0,4.0,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+GRECIILOOKS,499,499.0,4.0,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+Ap'pulse,399,399.0,4.0,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+XENOVAURBAN,502,502.0,3.9,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+Jockey,549,549.0,4.2,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+Van Heusen,449,449.0,4.1,Amazon India,womens plain tshirt,2026-01-22 20:53:07
+JUNEBERRY,399,399.0,4.1,Amazon India,womens plain tshirt,2026-01-22 20:53:07
