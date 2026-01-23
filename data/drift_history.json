@@ -63,5 +63,18 @@
     "alerts": [
       "\u26a0\ufe0f Product count changed by 50.0%"
     ]
+  },
+  {
+    "timestamp": "2026-01-23T20:52:43.461140",
+    "total_products": 25,
+    "avg_price": 395.8,
+    "price_std": 109.11423677351488,
+    "categories": 1,
+    "brands": 18,
+    "model_name": "Linear Regression",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Average price changed by 18.8%"
+    ]
   }
 ]
