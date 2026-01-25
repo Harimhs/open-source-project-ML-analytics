@@ -89,5 +89,19 @@
     "alerts": [
       "\u26a0\ufe0f Product count changed by 200.0%"
     ]
+  },
+  {
+    "timestamp": "2026-01-25T20:50:20.718794",
+    "total_products": 50,
+    "avg_price": 523.48,
+    "price_std": 209.06314249771626,
+    "categories": 2,
+    "brands": 28,
+    "model_name": "Random Forest (Small)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Average price changed by 20.9%",
+      "\u26a0\ufe0f Product count changed by 33.3%"
+    ]
   }
 ]
