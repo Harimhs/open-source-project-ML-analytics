@@ -141,5 +141,18 @@
     "model_name": "Lasso (L1)",
     "drift_detected": false,
     "alerts": []
+  },
+  {
+    "timestamp": "2026-01-30T20:59:53.526324",
+    "total_products": 75,
+    "avg_price": 483.8,
+    "price_std": 190.25352928501854,
+    "categories": 3,
+    "brands": 33,
+    "model_name": "Random Forest (Small)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Product count changed by 50.0%"
+    ]
   }
 ]
