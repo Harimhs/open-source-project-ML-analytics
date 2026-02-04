@@ -189,5 +189,19 @@
     "model_name": "Random Forest (Small)",
     "drift_detected": false,
     "alerts": []
+  },
+  {
+    "timestamp": "2026-02-04T21:04:30.130524",
+    "total_products": 75,
+    "avg_price": 470.3333333333333,
+    "price_std": 282.2817422044543,
+    "categories": 3,
+    "brands": 42,
+    "model_name": "Ridge (L2)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Average price changed by 15.2%",
+      "\u26a0\ufe0f Product count changed by 25.0%"
+    ]
   }
 ]
