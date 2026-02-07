@@ -214,5 +214,18 @@
     "model_name": "Lasso (L1)",
     "drift_detected": false,
     "alerts": []
+  },
+  {
+    "timestamp": "2026-02-07T20:56:47.916917",
+    "total_products": 50,
+    "avg_price": 459.72,
+    "price_std": 208.71922747645303,
+    "categories": 2,
+    "brands": 22,
+    "model_name": "Ridge (L2)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Product count changed by 33.3%"
+    ]
   }
 ]
