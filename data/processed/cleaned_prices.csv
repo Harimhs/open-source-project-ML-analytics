@@ -1,26 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-U TURN,378,378.0,3.6,Amazon India,mens casual tshirt,2026-02-08 20:54:51,U,3.6,1,1,1,0,0,0,6,2,0,0,0,0,10,3
-CB-COLEBROOK,499,499.0,3.7,Amazon India,mens casual tshirt,2026-02-08 20:54:51,CB-COLEBROOK,3.7,1,1,1,0,0,0,12,1,0,0,0,0,0,2
-Zombom,459,459.0,3.8,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Zombom,3.8,1,1,1,0,0,0,6,1,0,0,0,0,12,1
-Pinkmint,399,399.0,3.7,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Pinkmint,3.7,1,1,1,0,0,0,8,1,0,0,0,0,7,2
-DEELMO,459,459.0,3.9,Amazon India,mens casual tshirt,2026-02-08 20:54:51,DEELMO,3.9,1,1,1,0,0,0,6,1,0,0,0,0,1,4
-DEELMO,459,459.0,4.1,Amazon India,mens casual tshirt,2026-02-08 20:54:51,DEELMO,4.1,1,1,1,0,0,0,6,1,0,0,0,0,1,4
-Majestic Man,599,599.0,4.0,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Majestic,4.0,1,1,1,0,0,0,12,2,0,0,0,0,5,3
-Pinkmint,399,399.0,3.5,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Pinkmint,3.5,1,1,1,0,0,0,8,1,0,0,0,0,7,2
-Majestic Man,499,499.0,4.2,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Majestic,4.2,1,1,1,0,0,0,12,2,0,0,0,0,5,3
-CB-COLEBROOK,499,499.0,3.8,Amazon India,mens casual tshirt,2026-02-08 20:54:51,CB-COLEBROOK,3.8,1,1,1,0,0,0,12,1,0,0,0,0,0,2
-Majestic Man,499,499.0,4.0,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Majestic,4.0,1,1,1,0,0,0,12,2,0,0,0,0,5,3
-U TURN,378,378.0,3.8,Amazon India,mens casual tshirt,2026-02-08 20:54:51,U,3.8,1,1,1,0,0,0,6,2,0,0,0,0,10,3
-The Indian Garage Co,454,454.0,4.0,Amazon India,mens casual tshirt,2026-02-08 20:54:51,The,4.0,1,1,1,0,0,0,20,4,0,0,0,0,9,2
-TAGDO,389,389.0,3.9,Amazon India,mens casual tshirt,2026-02-08 20:54:51,TAGDO,3.9,1,1,1,0,0,0,5,1,0,0,0,0,8,1
-Highlander,449,449.0,4.2,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Highlander,4.2,1,1,1,0,0,0,10,1,0,0,0,0,2,1
-Peter England,880,880.0,3.6,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Peter,3.6,1,1,1,0,0,0,13,2,0,0,0,0,6,3
-U TURN,378,378.0,3.6,Amazon India,mens casual tshirt,2026-02-08 20:54:51,U,3.6,1,1,1,0,0,0,6,2,0,0,0,0,10,3
-DEELMO,449,449.0,3.6,Amazon India,mens casual tshirt,2026-02-08 20:54:51,DEELMO,3.6,1,1,1,0,0,0,6,1,0,0,0,0,1,4
-The Indian Garage Co,454,454.0,3.7,Amazon India,mens casual tshirt,2026-02-08 20:54:51,The,3.7,1,1,1,0,0,0,20,4,0,0,0,0,9,2
-Peter England,839,839.0,3.9,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Peter,3.9,1,1,1,0,0,0,13,2,0,0,0,0,6,3
-MADHAVISTA,474,474.0,3.8,Amazon India,mens casual tshirt,2026-02-08 20:54:51,MADHAVISTA,3.8,1,1,1,0,0,0,10,1,0,0,0,0,4,1
-DEELMO,459,459.0,3.8,Amazon India,mens casual tshirt,2026-02-08 20:54:51,DEELMO,3.8,1,1,1,0,0,0,6,1,0,0,0,0,1,4
-Lymio,449,449.0,3.6,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Lymio,3.6,1,1,1,0,0,0,5,1,0,0,0,0,3,1
-Van Heusen,"1,199",1199.0,4.0,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,11,1
-Peter England,"1,023",1023.0,3.9,Amazon India,mens casual tshirt,2026-02-08 20:54:51,Peter,3.9,1,1,1,0,0,0,13,2,0,0,0,0,6,3
+LEOTUDE,286,286.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,4.0,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+LEOTUDE,286,286.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,4.0,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+LEOTUDE,749,749.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,3.8,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+BULLMER,519,519.0,3.6,Amazon India,mens printed tshirt,2026-02-10 21:12:08,BULLMER,3.6,1,1,1,0,1,0,7,1,0,0,0,0,2,2
+BULLMER,478,478.0,3.6,Amazon India,mens printed tshirt,2026-02-10 21:12:08,BULLMER,3.6,1,1,1,0,1,0,7,1,0,0,0,0,2,2
+THALASI,499,499.0,3.6,Amazon India,mens printed tshirt,2026-02-10 21:12:08,THALASI,3.6,1,1,1,0,1,0,7,1,0,0,0,0,9,2
+LEOTUDE,286,286.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,4.0,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+The Souled Store,899,899.0,4.4,Amazon India,mens printed tshirt,2026-02-10 21:12:08,The,4.4,1,1,1,0,1,0,16,3,0,0,0,0,10,2
+LEOTUDE,286,286.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,4.0,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+LEOTUDE,749,749.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,3.8,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+London Hills,299,299.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08,London,3.8,1,1,1,0,1,0,12,2,0,0,0,0,7,1
+The Souled Store,"1,049",1049.0,4.4,Amazon India,mens printed tshirt,2026-02-10 21:12:08,The,4.4,1,1,1,0,1,0,16,3,0,0,0,0,10,2
+LEOTUDE,749,749.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,4.0,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+LEOTUDE,286,286.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,3.8,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+AUSK,272,272.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08,AUSK,3.8,1,1,1,0,1,0,4,1,0,0,0,0,0,1
+LEOTUDE,286,286.0,4.2,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,4.2,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+Peter England,899,899.0,4.1,Amazon India,mens printed tshirt,2026-02-10 21:12:08,Peter,4.1,1,1,1,0,1,0,13,2,0,0,0,0,8,1
+Jump Cuts,269,269.0,3.7,Amazon India,mens printed tshirt,2026-02-10 21:12:08,Jump,3.7,1,1,1,0,1,0,9,2,0,0,0,0,4,1
+GAP,899,899.0,4.4,Amazon India,mens printed tshirt,2026-02-10 21:12:08,Gap,4.4,1,1,1,0,1,0,3,1,0,0,0,0,3,1
+Allen Solly,899,899.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08,Allen,4.0,1,1,1,0,1,0,11,2,0,0,0,0,1,1
+LEOTUDE,349,349.0,3.9,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,3.9,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+THALASI,392,392.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08,THALASI,3.8,1,1,1,0,1,0,7,1,0,0,0,0,9,2
+LEOTUDE,298,298.0,4.1,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,4.1,1,1,1,0,1,0,7,1,0,0,0,0,6,12
+KRYPTIC,449,449.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08,KRYPTIC,3.8,1,1,1,0,1,0,7,1,0,0,0,0,5,1
+LEOTUDE,298,298.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08,LEOTUDE,3.8,1,1,1,0,1,0,7,1,0,0,0,0,6,12
