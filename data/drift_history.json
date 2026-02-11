@@ -252,5 +252,18 @@
     "model_name": "Linear Regression",
     "drift_detected": false,
     "alerts": []
+  },
+  {
+    "timestamp": "2026-02-11T21:09:41.876718",
+    "total_products": 100,
+    "avg_price": 529.14,
+    "price_std": 248.30679215499327,
+    "categories": 4,
+    "brands": 48,
+    "model_name": "Random Forest (Small)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Product count changed by 300.0%"
+    ]
   }
 ]

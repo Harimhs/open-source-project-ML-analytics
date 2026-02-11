@@ -1,26 +1,101 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-LEOTUDE,286,286.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,286,286.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,749,749.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-BULLMER,519,519.0,3.6,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-BULLMER,478,478.0,3.6,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-THALASI,499,499.0,3.6,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,286,286.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-The Souled Store,899,899.0,4.4,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,286,286.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,749,749.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-London Hills,299,299.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-The Souled Store,"1,049",1049.0,4.4,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,749,749.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,286,286.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-AUSK,272,272.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,286,286.0,4.2,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-Peter England,899,899.0,4.1,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-Jump Cuts,269,269.0,3.7,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-GAP,899,899.0,4.4,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-Allen Solly,899,899.0,4.0,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,349,349.0,3.9,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-THALASI,392,392.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,298,298.0,4.1,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-KRYPTIC,449,449.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08
-LEOTUDE,298,298.0,3.8,Amazon India,mens printed tshirt,2026-02-10 21:12:08
+LEOTUDE,286,286.0,4.0,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,286,286.0,4.0,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+SHODOX,359,359.0,3.8,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,749,749.0,3.8,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,286,286.0,4.0,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+BULLMER,478,478.0,3.6,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,699,699.0,3.8,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,286,286.0,3.8,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,286,286.0,3.7,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+BULLMER,478,478.0,3.3,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+CHKOKKO,299,299.0,3.8,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+Veirdo,379,379.0,3.9,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,339,339.0,3.0,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,286,286.0,4.2,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+Veirdo,"1,249",1249.0,4.1,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+Jump Cuts,393,393.0,3.6,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+The Souled Store,"1,099",1099.0,4.6,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+THALASI,499,499.0,3.6,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+AUSK,279,279.0,4.0,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,298,298.0,3.9,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+JACK & JONES,909,909.0,3.8,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+NOBERO,449,449.0,4.0,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,749,749.0,3.9,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+DAMENSCH,948,948.0,4.1,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+LEOTUDE,699,699.0,4.0,Amazon India,mens oversized tshirt,2026-02-11 21:06:55
+HELLCAT,281,281.0,3.4,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Zilcon,279,279.0,3.8,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Dream Beauty Fashion,212.,212.0,3.9,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Dream Beauty Fashion,202.,202.0,3.6,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Dream Beauty Fashion,207.,207.0,3.6,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Aahwan,299,299.0,3.9,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Aahwan,297,297.0,3.8,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Dream Beauty Fashion,232.,232.0,,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+DTR FASHION,299,299.0,3.3,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+HELLCAT,379,379.0,,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Sugathari,299,299.0,4.1,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Aahwan,362,362.0,3.8,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+LEOTUDE,298,298.0,3.7,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Dream Beauty Fashion,207.,207.0,3.6,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Dream Beauty Fashion,207.,207.0,3.6,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+TRASA,324,324.0,4.1,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Aahwan,362,362.0,3.8,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Toochki,499,499.0,3.9,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Leriya Fashion,409,409.0,3.8,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+BERRY BIRD,275,275.0,4.1,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Dream Beauty Fashion,202.,202.0,3.7,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+Zilcon,299,299.0,3.6,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+TOPLOT,399,399.0,4.5,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+TOPLOT,399,399.0,3.8,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+LEOTUDE,299,299.0,3.2,Amazon India,womens crop top tshirt,2026-02-11 21:08:04
+JVX,599,599.0,4.1,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Mack Jonney,419,419.0,3.5,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Lymio,399,399.0,3.8,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Trillion,477,477.0,3.8,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Lymio,599,599.0,3.4,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Imsa Moda,474,474.0,3.6,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+TAGAS,449,449.0,4.0,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Allen Solly,869,869.0,4.0,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+GRECIILOOKS,499,499.0,3.9,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+LEOTUDE,444,444.0,3.8,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+FN3,449,449.0,3.4,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+DENIMHOLIC,945,945.0,3.9,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Alan Jones Clothing,591,591.0,3.9,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Mack Jonney,379,379.0,3.8,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+TAGAS,449,449.0,3.9,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+The Indian Garage Co,408,408.0,3.6,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Trillion,449,449.0,3.8,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+AUSK,492,492.0,4.0,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Qube By Fort Collins,690,690.0,4.0,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+JVX,699,699.0,3.9,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Alan Jones Clothing,650,650.0,4.0,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+SMOWKLY,599,599.0,4.0,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Allen Solly,869,869.0,4.0,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Van Heusen,659,659.0,,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+Lymio,599,599.0,3.9,Amazon India,mens sweatshirt,2026-02-11 21:08:45
+GoSriKi,787,787.0,3.7,Amazon India,womens dress,2026-02-11 21:09:27
+KLOSIA,799,799.0,4.0,Amazon India,womens dress,2026-02-11 21:09:27
+ANNI DESIGNER,899,899.0,4.3,Amazon India,womens dress,2026-02-11 21:09:27
+KLOSIA,799,799.0,4.2,Amazon India,womens dress,2026-02-11 21:09:27
+GoSriKi,699,699.0,3.8,Amazon India,womens dress,2026-02-11 21:09:27
+GoSriKi,799,799.0,2.8,Amazon India,womens dress,2026-02-11 21:09:27
+Nermosa,799,799.0,4.8,Amazon India,womens dress,2026-02-11 21:09:27
+PARTHVI,759,759.0,3.8,Amazon India,womens dress,2026-02-11 21:09:27
+ANNI DESIGNER,699,699.0,3.7,Amazon India,womens dress,2026-02-11 21:09:27
+Nermosa,799,799.0,4.2,Amazon India,womens dress,2026-02-11 21:09:27
+MOKOSH,"1,107",1107.0,4.3,Amazon India,womens dress,2026-02-11 21:09:27
+MOKOSH,"1,323",1323.0,4.3,Amazon India,womens dress,2026-02-11 21:09:27
+PARTHVI,759,759.0,4.0,Amazon India,womens dress,2026-02-11 21:09:27
+Shasmi,599,599.0,4.4,Amazon India,womens dress,2026-02-11 21:09:27
+GoSriKi,799,799.0,3.8,Amazon India,womens dress,2026-02-11 21:09:27
+GoSriKi,646,646.0,3.9,Amazon India,womens dress,2026-02-11 21:09:27
+GoSriKi,589,589.0,3.8,Amazon India,womens dress,2026-02-11 21:09:27
+Sheetal Associates,285,285.0,4.0,Amazon India,womens dress,2026-02-11 21:09:27
+ANNI DESIGNER,666,666.0,3.6,Amazon India,womens dress,2026-02-11 21:09:27
+Sheetal Associates,292,292.0,4.1,Amazon India,womens dress,2026-02-11 21:09:27
+LookMark,799,799.0,3.9,Amazon India,womens dress,2026-02-11 21:09:27
+Alvami,799,799.0,4.0,Amazon India,womens dress,2026-02-11 21:09:27
+Shasmi,549,549.0,3.2,Amazon India,womens dress,2026-02-11 21:09:27
+ANNI DESIGNER,499,499.0,3.7,Amazon India,womens dress,2026-02-11 21:09:27
+LOUIS LUXE,616,616.0,4.0,Amazon India,womens dress,2026-02-11 21:09:27
