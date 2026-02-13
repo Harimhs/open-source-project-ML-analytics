@@ -265,5 +265,16 @@
     "alerts": [
       "\u26a0\ufe0f Product count changed by 300.0%"
     ]
+  },
+  {
+    "timestamp": "2026-02-13T21:08:47.130980",
+    "total_products": 100,
+    "avg_price": 462.93,
+    "price_std": 170.898354514482,
+    "categories": 4,
+    "brands": 50,
+    "model_name": "Lasso (L1)",
+    "drift_detected": false,
+    "alerts": []
   }
 ]
