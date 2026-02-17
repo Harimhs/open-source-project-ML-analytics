@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Lymio,399,399.0,3.8,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Lymio,3.8,1,1,1,0,0,0,5,1,0,0,0,1,13,3
-JVX,599,599.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58,JVX,4.0,1,1,1,0,0,0,3,1,0,0,0,1,6,2
-Mack Jonney,419,419.0,3.5,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Mack,3.5,1,1,1,0,0,0,11,2,0,0,0,1,14,2
-Trillion,477,477.0,3.8,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Trillion,3.8,1,1,1,0,0,0,8,1,0,0,0,1,26,1
-Imsa Moda,474,474.0,3.6,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Imsa,3.6,1,1,1,0,0,0,9,2,0,0,0,1,5,1
-Lymio,599,599.0,3.4,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,1,13,3
-TAGAS,449,449.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Tagas,4.0,1,1,1,0,0,0,5,1,0,0,0,1,23,2
-GRECIILOOKS,499,499.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58,GRECIILOOKS,4.0,1,1,1,0,0,0,11,1,0,0,0,1,4,1
-LEOTUDE,444,444.0,3.8,Amazon India,mens sweatshirt,2026-02-16 20:58:58,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,1,9,1
-Mack Jonney,374,374.0,3.8,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Mack,3.8,1,1,1,0,0,0,11,2,0,0,0,1,14,2
-FN3,449,449.0,3.4,Amazon India,mens sweatshirt,2026-02-16 20:58:58,FN3,3.4,1,1,1,0,0,0,3,1,0,0,0,1,3,1
-Allen Solly,869,869.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,1,0,3
-DENIMHOLIC,945,945.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58,DENIMHOLIC,3.9,1,1,1,0,0,0,10,1,0,0,0,1,2,1
-Alan Jones Clothing,591,591.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Jones,3.9,1,1,1,0,0,0,19,3,0,0,0,1,7,2
-TAGAS,449,449.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Tagas,3.9,1,1,1,0,0,0,5,1,0,0,0,1,23,2
-Allen Solly,"1,379",1379.0,5.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Allen,5.0,1,1,1,0,0,0,11,2,0,0,0,1,0,3
-Qube By Fort Collins,575.,575.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Qube,4.0,1,1,1,0,0,0,20,4,0,0,0,1,19,1
-TAGDO,649,649.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58,TAGDO,4.0,1,1,1,0,0,0,5,1,0,0,0,1,22,1
-Allen Solly,"1,799",1799.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,1,0,3
-The Indian Garage Co,408,408.0,3.4,Amazon India,mens sweatshirt,2026-02-16 20:58:58,The,3.4,1,1,1,0,0,0,20,4,0,0,0,1,24,3
-JVX,699,699.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58,JVX,3.9,1,1,1,0,0,0,3,1,0,0,0,1,6,2
-Alan Jones Clothing,650,650.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Jones,4.0,1,1,1,0,0,0,19,3,0,0,0,1,7,2
-SMOWKLY,599,599.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58,SMOWKLY,3.9,1,1,1,0,0,0,7,1,0,0,0,1,21,1
-Lymio,599,599.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Lymio,3.9,1,1,1,0,0,0,5,1,0,0,0,1,13,3
-Macroman M-Series,307.,307.0,3.6,Amazon India,mens sweatshirt,2026-02-16 20:58:58,Macroman,3.6,1,1,1,0,0,0,17,2,0,0,0,1,15,1
-Urbano Fashion,699,699.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,27,8
-Thomas Scott,579,579.0,3.7,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Thomas,3.7,1,0,1,0,0,0,12,2,0,0,0,0,25,1
-London Hills,699,699.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,London,3.9,1,0,1,0,0,0,12,2,0,0,0,0,11,1
-Urbano Fashion,687,687.0,3.7,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Urban,3.7,1,0,1,0,0,0,14,2,0,0,0,0,27,8
-Urbano Fashion,749,749.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,27,8
-RAGZO,649,649.0,3.5,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,RAGZO,3.5,1,0,1,0,0,0,5,1,0,0,0,0,20,2
-Urbano Fashion,594,594.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,27,8
-Urbano Fashion,729,729.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,27,8
-Urbano Fashion,679,679.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Urban,3.9,1,0,1,0,0,0,14,2,0,0,0,0,27,8
-Urbano Fashion,699,699.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Urban,3.9,1,0,1,0,0,0,14,2,0,0,0,0,27,8
-RAGZO,798,798.0,3.4,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,RAGZO,3.4,1,0,1,0,0,0,5,1,0,0,0,0,20,2
-KARGEENS,799,799.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,KARGEENS,3.8,1,0,1,0,0,0,8,1,0,0,0,0,8,1
-Pepe Jeans,"1,215",1215.0,4.0,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Pepe,4.0,1,0,1,0,0,0,10,2,0,0,0,0,17,1
-Levi's,"1,799",1799.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Levi,3.9,1,0,1,0,0,0,6,1,0,0,0,0,10,3
-Peter England,"1,179",1179.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Peter,3.9,1,0,1,0,0,0,13,2,0,0,0,0,18,3
-Peter England,972,972.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Peter,3.8,1,0,1,0,0,0,13,2,0,0,0,0,18,3
-Urbano Fashion,733,733.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,27,8
-Max,559,559.0,3.5,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Max,3.5,1,0,1,0,0,0,3,1,0,0,0,0,16,1
-Levi's,"1,854",1854.0,,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Levi,3.8,0,0,1,0,0,0,6,1,0,0,0,0,10,3
-Ben Martin,899,899.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Ben,3.8,1,0,1,0,0,0,10,2,0,0,0,0,1,1
-The Indian Garage Co,599,599.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,The,3.8,1,0,1,0,0,0,20,4,0,0,0,0,24,3
-Louis Philippe,"1,399",1399.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Louis,3.8,1,0,1,0,0,0,14,2,0,0,0,0,12,1
-Peter England,"1,289",1289.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Peter,3.8,1,0,1,0,0,0,13,2,0,0,0,0,18,3
-The Indian Garage Co,659,659.0,4.0,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,The,4.0,1,0,1,0,0,0,20,4,0,0,0,0,24,3
-Levi's,"1,350",1350.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17,Levi,3.9,1,0,1,0,0,0,6,1,0,0,0,0,10,3
+BULLMER,519,519.0,3.6,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,BULLMER,3.6,1,1,1,0,0,0,7,1,0,0,0,0,2,2
+Lux Cozi,269,269.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,0,7,1
+Amazon Brand - Symbol,319,319.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Amazon,4.0,1,1,1,0,0,0,21,4,0,0,0,0,1,1
+London Hills,223,223.0,3.7,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,6,4
+BULLMER,479,479.0,3.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,BULLMER,3.1,1,1,1,0,0,0,7,1,0,0,0,0,2,2
+LEOTUDE,286,286.0,4.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,LEOTUDE,4.1,1,1,1,0,0,0,7,1,0,0,0,0,4,7
+LEOTUDE,286,286.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,4,7
+Pepe Jeans,324.,324.0,3.9,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Pepe,3.9,1,1,1,0,0,0,10,2,0,0,0,0,9,1
+U.S. Polo Assn.,489,489.0,3.8,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,0,10,2
+LEOTUDE,286,286.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,4,7
+LEOTUDE,286,286.0,3.6,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,LEOTUDE,3.6,1,1,1,0,0,0,7,1,0,0,0,0,4,7
+LEOTUDE,649,649.0,4.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,LEOTUDE,4.1,1,1,1,0,0,0,7,1,0,0,0,0,4,7
+London Hills,799,799.0,3.9,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,London,3.9,1,1,1,0,0,0,12,2,0,0,0,0,6,4
+Van Heusen,497,497.0,4.2,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Van Heusen,4.2,1,1,1,0,0,0,10,2,0,0,0,0,12,2
+Scott International,599,599.0,3.7,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Scott,3.7,1,1,1,0,0,0,19,2,0,0,0,0,11,1
+London Hills,279,279.0,3.8,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,London,3.8,1,1,1,0,0,0,12,2,0,0,0,0,6,4
+LEOTUDE,286,286.0,4.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,LEOTUDE,4.1,1,1,1,0,0,0,7,1,0,0,0,0,4,7
+London Hills,449,449.0,3.7,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,6,4
+Max,249,249.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,8,1
+AWG ALL WEATHER GEAR,545,545.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,AWG,4.0,1,1,1,0,0,0,20,4,0,0,0,0,0,1
+Levi's,532,532.0,4.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Levi,4.1,1,1,1,0,0,0,6,1,0,0,0,0,5,1
+Van Heusen,719,719.0,4.2,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Van Heusen,4.2,1,1,1,0,0,0,10,2,0,0,0,0,12,2
+Jockey,"1,199",1199.0,4.2,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,3,1
+LEOTUDE,699,699.0,3.8,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,4,7
+U.S. Polo Assn.,520,520.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29,Polo,4.0,1,1,1,0,0,0,15,3,0,0,0,0,10,2

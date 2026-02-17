@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Lymio,399,399.0,3.8,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-JVX,599,599.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Mack Jonney,419,419.0,3.5,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Trillion,477,477.0,3.8,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Imsa Moda,474,474.0,3.6,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Lymio,599,599.0,3.4,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-TAGAS,449,449.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-GRECIILOOKS,499,499.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-LEOTUDE,444,444.0,3.8,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Mack Jonney,374,374.0,3.8,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-FN3,449,449.0,3.4,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Allen Solly,869,869.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-DENIMHOLIC,945,945.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Alan Jones Clothing,591,591.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-TAGAS,449,449.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Allen Solly,"1,379",1379.0,5.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Qube By Fort Collins,575.,575.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-TAGDO,649,649.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Allen Solly,"1,799",1799.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-The Indian Garage Co,408,408.0,3.4,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-JVX,699,699.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Alan Jones Clothing,650,650.0,4.0,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-SMOWKLY,599,599.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Lymio,599,599.0,3.9,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Macroman M-Series,307.,307.0,3.6,Amazon India,mens sweatshirt,2026-02-16 20:58:58
-Urbano Fashion,699,699.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Thomas Scott,579,579.0,3.7,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-London Hills,699,699.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Urbano Fashion,687,687.0,3.7,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Urbano Fashion,749,749.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-RAGZO,649,649.0,3.5,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Urbano Fashion,594,594.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Urbano Fashion,729,729.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Urbano Fashion,679,679.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Urbano Fashion,699,699.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-RAGZO,798,798.0,3.4,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-KARGEENS,799,799.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Pepe Jeans,"1,215",1215.0,4.0,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Levi's,"1,799",1799.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Peter England,"1,179",1179.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Peter England,972,972.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Urbano Fashion,733,733.0,3.6,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Max,559,559.0,3.5,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Levi's,"1,854",1854.0,,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Ben Martin,899,899.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-The Indian Garage Co,599,599.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Louis Philippe,"1,399",1399.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Peter England,"1,289",1289.0,3.8,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-The Indian Garage Co,659,659.0,4.0,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
-Levi's,"1,350",1350.0,3.9,Amazon India,mens slim fit jeans,2026-02-16 20:59:17
+BULLMER,519,519.0,3.6,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+Lux Cozi,269,269.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+Amazon Brand - Symbol,319,319.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+London Hills,223,223.0,3.7,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+BULLMER,479,479.0,3.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+LEOTUDE,286,286.0,4.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+LEOTUDE,286,286.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+Pepe Jeans,324.,324.0,3.9,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+U.S. Polo Assn.,489,489.0,3.8,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+LEOTUDE,286,286.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+LEOTUDE,286,286.0,3.6,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+LEOTUDE,649,649.0,4.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+London Hills,799,799.0,3.9,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+Van Heusen,497,497.0,4.2,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+Scott International,599,599.0,3.7,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+London Hills,279,279.0,3.8,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+LEOTUDE,286,286.0,4.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+London Hills,449,449.0,3.7,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+Max,249,249.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+AWG ALL WEATHER GEAR,545,545.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+Levi's,532,532.0,4.1,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+Van Heusen,719,719.0,4.2,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+Jockey,"1,199",1199.0,4.2,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+LEOTUDE,699,699.0,3.8,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
+U.S. Polo Assn.,520,520.0,4.0,Amazon India,mens round neck tshirt,2026-02-17 21:04:29
