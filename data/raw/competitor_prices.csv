@@ -1,26 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Max,469,469.0,4.1,Amazon India,womens kurti,2026-02-22 20:55:44
-KLOSIA,799,799.0,4.2,Amazon India,womens kurti,2026-02-22 20:55:44
-ANNI DESIGNER,699,699.0,3.9,Amazon India,womens kurti,2026-02-22 20:55:44
-ANNI DESIGNER,499,499.0,4.1,Amazon India,womens kurti,2026-02-22 20:55:44
-FABNEX,441,441.0,3.3,Amazon India,womens kurti,2026-02-22 20:55:44
-PARTHVI,759,759.0,3.9,Amazon India,womens kurti,2026-02-22 20:55:44
-FABNEX,594,594.0,3.7,Amazon India,womens kurti,2026-02-22 20:55:44
-GoSriKi,589,589.0,3.8,Amazon India,womens kurti,2026-02-22 20:55:44
-Max,419,419.0,4.0,Amazon India,womens kurti,2026-02-22 20:55:44
-ANNI DESIGNER,799,799.0,4.1,Amazon India,womens kurti,2026-02-22 20:55:44
-ANNI DESIGNER,676,676.0,3.6,Amazon India,womens kurti,2026-02-22 20:55:44
-Yashika,499,499.0,4.1,Amazon India,womens kurti,2026-02-22 20:55:44
-GoSriKi,636,636.0,3.7,Amazon India,womens kurti,2026-02-22 20:55:44
-ANNI DESIGNER,699,699.0,3.7,Amazon India,womens kurti,2026-02-22 20:55:44
-FABNEX,486,486.0,3.9,Amazon India,womens kurti,2026-02-22 20:55:44
-KLOSIA,799,799.0,4.0,Amazon India,womens kurti,2026-02-22 20:55:44
-Sidhidata,486,486.0,4.1,Amazon India,womens kurti,2026-02-22 20:55:44
-GoSriKi,499,499.0,3.9,Amazon India,womens kurti,2026-02-22 20:55:44
-Rangnavi,679,679.0,3.7,Amazon India,womens kurti,2026-02-22 20:55:44
-ANNI DESIGNER,589,589.0,4.0,Amazon India,womens kurti,2026-02-22 20:55:44
-ANNI DESIGNER,499,499.0,3.5,Amazon India,womens kurti,2026-02-22 20:55:44
-FIORRA,639,639.0,4.1,Amazon India,womens kurti,2026-02-22 20:55:44
-MEERA FAB,539,539.0,3.9,Amazon India,womens kurti,2026-02-22 20:55:44
-GoSriKi,699,699.0,3.7,Amazon India,womens kurti,2026-02-22 20:55:44
-ANNI DESIGNER,499,499.0,3.7,Amazon India,womens kurti,2026-02-22 20:55:44
+KAJARU,298,298.0,4.2,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Allen Solly,709,709.0,4.1,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Max,349,349.0,4.1,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+KAJARU,349,349.0,4.2,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Lux Cozi,320,320.0,3.9,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Van Heusen,659,659.0,4.0,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Lymio,399,399.0,3.7,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Peter England,589,589.0,4.0,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Lymio,399,399.0,3.3,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Veirdo,449,449.0,3.6,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+TAGDO,399,399.0,4.1,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Allen Solly,899,899.0,4.1,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Peter England,692,692.0,4.0,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+XYXX,599,599.0,4.0,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Lymio,399,399.0,3.7,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+U.S. Polo Assn.,779,779.0,3.9,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Max,379,379.0,4.0,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+TAGDO,379,379.0,4.0,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+LUX PARKER,200.,200.0,3.7,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+LEOTUDE,298,298.0,3.8,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+AUSK,328,328.0,3.4,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Louis Philippe,"1,079",1079.0,4.1,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Peter England,881,881.0,4.0,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Peter England,675,675.0,4.0,Amazon India,mens polo tshirt,2026-02-23 21:12:17
+Lymio,549,549.0,3.3,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Lymio,499,499.0,3.6,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Peter England,605,605.0,4.0,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Van Heusen,926,926.0,4.1,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+TAGDO,379,379.0,4.0,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+KAJARU,298,298.0,4.2,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+BULLMER,478,478.0,3.6,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+BULLMER,518,518.0,3.6,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+GRECIILOOKS,419,419.0,3.8,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+AWG ALL WEATHER GEAR,299,299.0,4.0,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Peter England,589,589.0,4.0,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Lymio,749,749.0,3.7,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+DAMENSCH,703,703.0,4.1,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Leriya Fashion,449,449.0,4.0,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Peter England,818,818.0,4.1,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+TAGDO,449,449.0,4.4,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+STELLERS,950,950.0,4.1,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+NOBERO,999,999.0,3.8,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Louis Philippe,884,884.0,4.1,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Louis Philippe,"1,079",1079.0,4.1,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+LEOTUDE,799,799.0,4.1,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+LEOTUDE,286,286.0,4.2,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Symbol Premium,699,699.0,4.0,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Symbol Premium,799,799.0,4.0,Amazon India,mens premium tshirt,2026-02-23 21:13:03
+Van Heusen,659,659.0,4.0,Amazon India,mens premium tshirt,2026-02-23 21:13:03
