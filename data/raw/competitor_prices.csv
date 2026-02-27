@@ -1,51 +1,76 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-KAJARU,349,349.0,4.2,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Peter England,589,589.0,4.0,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Lymio,399,399.0,3.3,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-KAJARU,295,295.0,4.2,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Lymio,399,399.0,3.7,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Allen Solly,709,709.0,4.1,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Peter England,649,649.0,4.0,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Lux Cozi,369,369.0,4.0,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Van Heusen,699,699.0,4.0,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Lux Cozi,320,320.0,3.8,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Peter England,605,605.0,4.0,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Van Heusen,659,659.0,4.0,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Lymio,399,399.0,3.7,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Van Heusen,659,659.0,4.0,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Louis Philippe,719,719.0,4.1,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Max,349,349.0,4.1,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Lymio,449,449.0,3.6,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-LEOTUDE,799,799.0,3.8,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Peter England,675,675.0,4.0,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-U.S. Polo Assn.,714,714.0,3.9,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Veirdo,431,431.0,3.7,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Louis Philippe,884,884.0,4.1,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-U.S. Polo Assn.,779,779.0,3.9,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-02-26 21:04:11
-LEOTUDE,286,286.0,4.1,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,286,286.0,4.0,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,286,286.0,4.0,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,286,286.0,3.8,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,699,699.0,3.8,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,799,799.0,3.8,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-CHKOKKO,299,299.0,3.8,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-Veirdo,341,341.0,3.9,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-Veirdo,"1,249",1249.0,4.0,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,286,286.0,3.7,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-BULLMER,478,478.0,3.2,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-Veirdo,"1,249",1249.0,4.0,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-Jump Cuts,393,393.0,3.6,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-JACK & JONES,909,909.0,3.9,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-THALASI,399,399.0,4.1,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,298,298.0,3.9,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-THALASI,499,499.0,3.6,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,699,699.0,4.0,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,339,339.0,3.9,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-U.S. Polo Assn.,"1,159",1159.0,4.5,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-CHKOKKO,298,298.0,3.8,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,286,286.0,4.0,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-NOBERO,449,449.0,4.1,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-LEOTUDE,799,799.0,3.7,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
-The Souled Store,"1,099",1099.0,4.6,Amazon India,mens oversized tshirt,2026-02-26 21:04:27
+Blisstone,289,289.0,5.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Jockey,533,533.0,4.2,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+TAGDO,349,349.0,4.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Amazon Brand - Symbol,799,799.0,4.2,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+U.S. Polo Assn.,500,500.0,3.9,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Jockey,584,584.0,4.2,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+TAGDO,349,349.0,4.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Aventura Outfitters,"1,199",1199.0,4.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Mack Jonney,239,239.0,3.6,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Van Heusen,569,569.0,4.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Aventura Outfitters,"1,199",1199.0,4.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+DAMENSCH,447,447.0,4.1,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Amazon Brand - Symbol,799,799.0,4.2,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+ADRO,499,499.0,4.3,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+TAGDO,349,349.0,4.3,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Levi's,519,519.0,4.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Van Heusen,657,657.0,4.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+ADRO,499,499.0,3.7,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+LEOTUDE,266,266.0,3.9,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+ADRO,699,699.0,3.9,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Amazon Brand - Symbol,299,299.0,3.9,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Van Heusen,599,599.0,4.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Amazon Brand - INKAST,629,629.0,4.0,Amazon India,mens v neck tshirt,2026-02-27 20:55:22
+Allen Solly,419,419.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Dream Beauty Fashion,200,200.0,3.6,Amazon India,womens black tshirt,2026-02-27 20:56:45
+TQH,236,236.0,3.6,Amazon India,womens black tshirt,2026-02-27 20:56:45
+London Hills,298,298.0,4.1,Amazon India,womens black tshirt,2026-02-27 20:56:45
+JUNEBERRY,379,379.0,4.2,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Van Heusen,470.,470.0,4.2,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Dream Beauty Fashion,200,200.0,3.9,Amazon India,womens black tshirt,2026-02-27 20:56:45
+JUNEBERRY,379,379.0,4.1,Amazon India,womens black tshirt,2026-02-27 20:56:45
+TWIN BIRDS,299,299.0,4.5,Amazon India,womens black tshirt,2026-02-27 20:56:45
+London Hills,264,264.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+WEET,379,379.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Dream Beauty Fashion,198,198.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+London Hills,297,297.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+JUNEBERRY,379,379.0,3.9,Amazon India,womens black tshirt,2026-02-27 20:56:45
+LEOTUDE,298,298.0,3.6,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Max,379,379.0,4.2,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Ap'pulse,375,375.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+LEOTUDE,298,298.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Dream Beauty Fashion,200,200.0,3.9,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Amazon Brand - Symbol,449,449.0,4.2,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Allen Solly,527,527.0,4.2,Amazon India,womens black tshirt,2026-02-27 20:56:45
+TQH,278,278.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Max,199,199.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Jockey,549,549.0,4.2,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Ap'pulse,369,369.0,4.0,Amazon India,womens black tshirt,2026-02-27 20:56:45
+Mack Jonney,419,419.0,3.5,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Alan Jones Clothing,599,599.0,4.1,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+LEOTUDE,375,375.0,3.7,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Sky Magic,499,499.0,3.4,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+LEOTUDE,448,448.0,3.9,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+TAGAS,449,449.0,4.0,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+THE START-UP FASHION & ACCESSORIES,359.,359.0,4.8,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Mack Jonney,419,419.0,3.5,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+LEOTUDE,549,549.0,3.0,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+LEOTUDE,449,449.0,3.7,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Mack Jonney,419,419.0,3.5,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Boldfit,549,549.0,4.2,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+TAGAS,449,449.0,3.9,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Alan Jones Clothing,686,686.0,4.1,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+TAGAS,449,449.0,3.9,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Allen Solly,"1,309",1309.0,4.5,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+TAGAS,449,449.0,4.1,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+TAGAS,449,449.0,4.1,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+TAGAS,449,449.0,4.3,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+TAGAS,449,449.0,3.9,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Alan Jones Clothing,685,685.0,4.1,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+LEOTUDE,449,449.0,3.7,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Allen Solly,"1,309",1309.0,4.2,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+TAGAS,449,449.0,3.4,Amazon India,womens sweatshirt,2026-02-27 20:57:14
+Mack Jonney,419,419.0,3.6,Amazon India,womens sweatshirt,2026-02-27 20:57:14
