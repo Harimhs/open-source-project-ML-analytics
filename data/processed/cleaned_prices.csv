@@ -1,26 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Max,199.0,199.0,4.0,Amazon India,mens black tshirt,2026-03-05 21:03:49,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,11,2
-Lux Cozi,356.0,356.0,3.9,Amazon India,mens black tshirt,2026-03-05 21:03:49,Lux,3.9,1,1,1,0,0,0,8,2,0,0,0,0,10,1
-Allen Solly,699.0,699.0,4.1,Amazon India,mens black tshirt,2026-03-05 21:03:49,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,0,1
-Levi's,519.0,519.0,4.1,Amazon India,mens black tshirt,2026-03-05 21:03:49,Levi,4.1,1,1,1,0,0,0,6,1,0,0,0,0,7,1
-boffi ...,284.0,284.0,3.5,Amazon India,mens black tshirt,2026-03-05 21:03:49,boffi,3.5,1,1,1,0,0,0,9,2,0,0,0,0,17,1
-KAJARU,349.0,349.0,4.2,Amazon India,mens black tshirt,2026-03-05 21:03:49,KAJARU,4.2,1,1,1,0,0,0,6,1,0,0,0,0,5,3
-London Hills,229.0,229.0,3.7,Amazon India,mens black tshirt,2026-03-05 21:03:49,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,8,1
-Generic,98.0,98.0,3.9,Amazon India,mens black tshirt,2026-03-05 21:03:49,Generic,3.9,1,1,1,0,0,0,7,1,0,0,0,0,3,1
-Amazon Brand - Symbol,449.0,449.0,3.9,Amazon India,mens black tshirt,2026-03-05 21:03:49,Amazon,3.9,1,1,1,0,0,0,21,4,0,0,0,0,1,3
-KAJARU,299.0,299.0,4.2,Amazon India,mens black tshirt,2026-03-05 21:03:49,KAJARU,4.2,1,1,1,0,0,0,6,1,0,0,0,0,5,3
-Jockey,533.0,533.0,4.2,Amazon India,mens black tshirt,2026-03-05 21:03:49,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,4,2
-Van Heusen,401.0,401.0,4.2,Amazon India,mens black tshirt,2026-03-05 21:03:49,Van Heusen,4.2,1,1,1,0,0,0,10,2,0,0,0,0,14,2
-Van Heusen,593.0,593.0,4.0,Amazon India,mens black tshirt,2026-03-05 21:03:49,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,14,2
-Amazon Brand - Symbol,389.0,389.0,4.0,Amazon India,mens black tshirt,2026-03-05 21:03:49,Amazon,4.0,1,1,1,0,0,0,21,4,0,0,0,0,1,3
-Max,359.0,359.0,4.0,Amazon India,mens black tshirt,2026-03-05 21:03:49,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,11,2
-KAJARU,237.0,237.0,4.2,Amazon India,mens black tshirt,2026-03-05 21:03:49,KAJARU,4.2,1,1,1,0,0,0,6,1,0,0,0,0,5,3
-Louis Philippe,876.0,876.0,4.1,Amazon India,mens black tshirt,2026-03-05 21:03:49,Louis,4.1,1,1,1,0,0,0,14,2,0,0,0,0,9,1
-TAGDO,379.0,379.0,4.0,Amazon India,mens black tshirt,2026-03-05 21:03:49,TAGDO,4.0,1,1,1,0,0,0,5,1,0,0,0,0,13,1
-Veirdo,399.0,399.0,3.9,Amazon India,mens black tshirt,2026-03-05 21:03:49,Veirdo,3.9,1,1,1,0,0,0,6,1,0,0,0,0,15,1
-GRECIILOOKS,499.0,499.0,3.7,Amazon India,mens black tshirt,2026-03-05 21:03:49,GRECIILOOKS,3.7,1,1,1,0,0,0,11,1,0,0,0,0,2,1
-Peter England,519.0,519.0,4.0,Amazon India,mens black tshirt,2026-03-05 21:03:49,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,0,12,1
-XYXX,427.0,427.0,4.0,Amazon India,mens black tshirt,2026-03-05 21:03:49,XYXX,4.0,1,1,1,0,0,0,4,1,0,0,0,0,16,1
-LEOTUDE,298.0,298.0,4.0,Amazon India,mens black tshirt,2026-03-05 21:03:49,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,6,1
-Jockey,543.0,543.0,4.2,Amazon India,mens black tshirt,2026-03-05 21:03:49,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,4,2
-Amazon Brand - Symbol,449.0,449.0,3.9,Amazon India,mens black tshirt,2026-03-05 21:03:49,Amazon,3.9,1,1,1,0,0,0,21,4,0,0,0,0,1,3
+BULLMER,519,519.0,3.6,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,BULLMER,3.6,1,1,1,0,0,0,7,1,0,0,0,0,1,3
+U.S. Polo Assn.,384,384.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,0,7,3
+Lux Cozi,269,269.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,0,6,1
+London Hills,193,193.0,3.7,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,5,5
+LEOTUDE,799,799.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,3,7
+London Hills,799,799.0,3.9,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.9,1,1,1,0,0,0,12,2,0,0,0,0,5,5
+LEOTUDE,299,299.0,4.1,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,4.1,1,1,1,0,0,0,7,1,0,0,0,0,3,7
+Jockey,463,463.0,4.2,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,2,1
+LEOTUDE,649,649.0,4.1,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,4.1,1,1,1,0,0,0,7,1,0,0,0,0,3,7
+London Hills,449,449.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.8,1,1,1,0,0,0,12,2,0,0,0,0,5,5
+U.S. Polo Assn.,449,449.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Polo,4.0,1,1,1,0,0,0,15,3,0,0,0,0,7,3
+London Hills,699,699.0,3.7,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,5,5
+LEOTUDE,799,799.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,3,7
+London Hills,255,255.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.8,1,1,1,0,0,0,12,2,0,0,0,0,5,5
+Veirdo,"1,249",1249.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Veirdo,4.0,1,1,1,0,0,0,6,1,0,0,0,0,8,2
+fanideaz,599,599.0,3.9,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,fanideaz,3.9,1,1,1,0,0,0,8,1,0,0,0,0,9,1
+LEOTUDE,299,299.0,3.6,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,3.6,1,1,1,0,0,0,7,1,0,0,0,0,3,7
+U.S. Polo Assn.,559,559.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Polo,4.0,1,1,1,0,0,0,15,3,0,0,0,0,7,3
+BULLMER,389,389.0,3.7,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,BULLMER,3.7,1,1,1,0,0,0,7,1,0,0,0,0,1,3
+LEOTUDE,299,299.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,3,7
+Veirdo,379,379.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Veirdo,4.0,1,1,1,0,0,0,6,1,0,0,0,0,8,2
+ADRO,450,450.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,ADRO,4.0,1,1,1,0,0,0,4,1,0,0,0,0,0,1
+BULLMER,479,479.0,3.7,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,BULLMER,3.7,1,1,1,0,0,0,7,1,0,0,0,0,1,3
+LEOTUDE,299,299.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,3,7
+Levi's,571,571.0,4.1,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Levi,4.1,1,1,1,0,0,0,6,1,0,0,0,0,4,1
