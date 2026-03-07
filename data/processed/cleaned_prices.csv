@@ -1,26 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-BULLMER,519,519.0,3.6,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,BULLMER,3.6,1,1,1,0,0,0,7,1,0,0,0,0,1,3
-U.S. Polo Assn.,384,384.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,0,7,3
-Lux Cozi,269,269.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,0,6,1
-London Hills,193,193.0,3.7,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,5,5
-LEOTUDE,799,799.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,3,7
-London Hills,799,799.0,3.9,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.9,1,1,1,0,0,0,12,2,0,0,0,0,5,5
-LEOTUDE,299,299.0,4.1,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,4.1,1,1,1,0,0,0,7,1,0,0,0,0,3,7
-Jockey,463,463.0,4.2,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,2,1
-LEOTUDE,649,649.0,4.1,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,4.1,1,1,1,0,0,0,7,1,0,0,0,0,3,7
-London Hills,449,449.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.8,1,1,1,0,0,0,12,2,0,0,0,0,5,5
-U.S. Polo Assn.,449,449.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Polo,4.0,1,1,1,0,0,0,15,3,0,0,0,0,7,3
-London Hills,699,699.0,3.7,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,5,5
-LEOTUDE,799,799.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,3,7
-London Hills,255,255.0,3.8,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,London,3.8,1,1,1,0,0,0,12,2,0,0,0,0,5,5
-Veirdo,"1,249",1249.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Veirdo,4.0,1,1,1,0,0,0,6,1,0,0,0,0,8,2
-fanideaz,599,599.0,3.9,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,fanideaz,3.9,1,1,1,0,0,0,8,1,0,0,0,0,9,1
-LEOTUDE,299,299.0,3.6,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,3.6,1,1,1,0,0,0,7,1,0,0,0,0,3,7
-U.S. Polo Assn.,559,559.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Polo,4.0,1,1,1,0,0,0,15,3,0,0,0,0,7,3
-BULLMER,389,389.0,3.7,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,BULLMER,3.7,1,1,1,0,0,0,7,1,0,0,0,0,1,3
-LEOTUDE,299,299.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,3,7
-Veirdo,379,379.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Veirdo,4.0,1,1,1,0,0,0,6,1,0,0,0,0,8,2
-ADRO,450,450.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,ADRO,4.0,1,1,1,0,0,0,4,1,0,0,0,0,0,1
-BULLMER,479,479.0,3.7,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,BULLMER,3.7,1,1,1,0,0,0,7,1,0,0,0,0,1,3
-LEOTUDE,299,299.0,4.0,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,3,7
-Levi's,571,571.0,4.1,Amazon India,mens round neck tshirt,2026-03-06 20:57:00,Levi,4.1,1,1,1,0,0,0,6,1,0,0,0,0,4,1
+FTX,359.0,359.0,3.8,Amazon India,mens sports tshirt,2026-03-07 20:50:44,FTX,3.8,1,1,1,0,0,0,3,1,0,0,0,0,8,1
+AUSK,258.0,258.0,3.4,Amazon India,mens sports tshirt,2026-03-07 20:50:44,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,1,2
+TECHNOSPORT,373.0,373.0,4.3,Amazon India,mens sports tshirt,2026-03-07 20:50:44,TECHNOSPORT,4.3,1,1,1,0,0,0,11,1,0,0,0,0,18,5
+adidas,729.0,729.0,4.0,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,3
+TECHNOSPORT,303.0,303.0,4.2,Amazon India,mens sports tshirt,2026-03-07 20:50:44,TECHNOSPORT,4.2,1,1,1,0,0,0,11,1,0,0,0,0,18,5
+ATICX,473.0,473.0,3.9,Amazon India,mens sports tshirt,2026-03-07 20:50:44,ATICX,3.9,1,1,1,0,0,0,5,1,0,0,0,0,0,1
+Pepe Jeans,399.0,399.0,3.8,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Pepe,3.8,1,1,1,0,0,0,10,2,0,0,0,0,14,1
+AUSK,239.0,239.0,3.8,Amazon India,mens sports tshirt,2026-03-07 20:50:44,AUSK,3.8,1,1,1,0,0,0,4,1,0,0,0,0,1,2
+adidas,759.0,759.0,4.0,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,3
+U.S. Polo Assn.,525.0,525.0,4.2,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Polo,4.2,1,1,1,0,0,0,15,3,0,0,0,0,15,1
+Boldfit,349.0,349.0,4.2,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Boldfit,4.2,1,1,1,0,0,0,7,1,0,0,0,0,4,4
+CHKOKKO,341.0,341.0,4.0,Amazon India,mens sports tshirt,2026-03-07 20:50:44,CHKOKKO,4.0,1,1,1,0,0,0,7,1,0,0,0,0,5,4
+CHKOKKO,299.0,299.0,3.8,Amazon India,mens sports tshirt,2026-03-07 20:50:44,CHKOKKO,3.8,1,1,1,0,0,0,7,1,0,0,0,0,5,4
+CHKOKKO,399.0,399.0,3.8,Amazon India,mens sports tshirt,2026-03-07 20:50:44,CHKOKKO,3.8,1,1,1,0,0,0,7,1,0,0,0,0,5,4
+Boldfit,349.0,349.0,4.2,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Boldfit,4.2,1,1,1,0,0,0,7,1,0,0,0,0,4,4
+adidas,779.0,779.0,4.0,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,3
+Jockey,579.0,579.0,4.2,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,11,1
+TECHNOSPORT,385.0,385.0,4.3,Amazon India,mens sports tshirt,2026-03-07 20:50:44,TECHNOSPORT,4.3,1,1,1,0,0,0,11,1,0,0,0,0,18,5
+PUMA,990.0,990.0,4.0,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Puma,4.0,1,1,1,0,0,0,4,1,0,0,0,0,16,1
+Boldfit,339.0,339.0,4.2,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Boldfit,4.2,1,1,1,0,0,0,7,1,0,0,0,0,4,4
+CHKOKKO,329.0,329.0,3.9,Amazon India,mens sports tshirt,2026-03-07 20:50:44,CHKOKKO,3.9,1,1,1,0,0,0,7,1,0,0,0,0,5,4
+LEOTUDE,649.0,649.0,4.0,Amazon India,mens sports tshirt,2026-03-07 20:50:44,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,12,1
+TECHNOSPORT,360.0,360.0,4.2,Amazon India,mens sports tshirt,2026-03-07 20:50:44,TECHNOSPORT,4.2,1,1,1,0,0,0,11,1,0,0,0,0,18,5
+TECHNOSPORT,302.0,302.0,4.1,Amazon India,mens sports tshirt,2026-03-07 20:50:44,TECHNOSPORT,4.1,1,1,1,0,0,0,11,1,0,0,0,0,18,5
+Boldfit,499.0,499.0,4.3,Amazon India,mens sports tshirt,2026-03-07 20:50:44,Boldfit,4.3,1,1,1,0,0,0,7,1,0,0,0,0,4,4
+Zilcon,279.0,279.0,3.8,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Zilcon,3.8,1,1,1,1,0,0,6,1,0,0,0,1,19,2
+Dream Beauty Fashion,198.0,198.0,3.9,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,3.9,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+Dream Beauty Fashion,245.0,245.0,5.0,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,5.0,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+HELLCAT,359.0,359.0,3.5,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,HELLCAT,3.5,1,1,1,1,0,0,7,1,0,0,0,1,10,3
+Dream Beauty Fashion,198.0,198.0,4.0,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,4.0,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+Dream Beauty Fashion,245.0,245.0,5.0,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,5.0,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+Aahwan,297.0,297.0,3.8,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Aahwan,3.8,1,1,1,1,0,0,6,1,0,0,0,1,2,4
+Sugathari,299.0,299.0,4.1,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Sugathari,4.1,1,1,1,1,0,0,9,1,0,0,0,1,17,1
+Aahwan,299.0,299.0,3.9,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Aahwan,3.9,1,1,1,1,0,0,6,1,0,0,0,1,2,4
+Dream Beauty Fashion,200.0,200.0,3.6,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,3.6,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+Dream Beauty Fashion,245.0,245.0,5.0,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,5.0,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+Zilcon,299.0,299.0,3.6,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Zilcon,3.6,1,1,1,1,0,0,6,1,0,0,0,1,19,2
+Dream Beauty Fashion,195.0,195.0,3.6,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,3.6,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+HELLCAT,359.0,359.0,3.2,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,HELLCAT,3.2,1,1,1,1,0,0,7,1,0,0,0,1,10,3
+Dream Beauty Fashion,245.0,245.0,5.0,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,5.0,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+Dream Beauty Fashion,198.0,198.0,3.6,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,3.6,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+GRECIILOOKS,449.0,449.0,4.1,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,GRECIILOOKS,4.1,1,1,1,1,0,0,11,1,0,0,0,1,9,1
+Dream Beauty Fashion,195.0,195.0,3.7,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,3.7,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+Leriya Fashion,399.0,399.0,3.8,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Leriya,3.8,1,1,1,1,0,0,14,2,0,0,0,1,13,1
+DTR FASHION,319.0,319.0,3.3,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,DTR,3.3,1,1,1,1,0,0,11,2,0,0,0,1,6,1
+Aahwan,362.0,362.0,3.9,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Aahwan,3.9,1,1,1,1,0,0,6,1,0,0,0,1,2,4
+Dream Beauty Fashion,245.0,245.0,5.0,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,5.0,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+Dream Beauty Fashion,195.0,195.0,3.6,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Dream,3.6,1,1,1,1,0,0,20,3,0,0,0,1,7,12
+Aahwan,362.0,362.0,3.9,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,Aahwan,3.9,1,1,1,1,0,0,6,1,0,0,0,1,2,4
+HELLCAT,359.0,359.0,3.5,Amazon India,womens crop top tshirt,2026-03-07 20:51:30,HELLCAT,3.5,1,1,1,1,0,0,7,1,0,0,0,1,10,3
