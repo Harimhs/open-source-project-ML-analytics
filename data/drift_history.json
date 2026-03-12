@@ -1,18 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01T20:55:22.415178",
-    "total_products": 100,
-    "avg_price": 537.81,
-    "price_std": 238.12498606802896,
-    "categories": 4,
-    "brands": 42,
-    "model_name": "Ridge (L2)",
-    "drift_detected": true,
-    "alerts": [
-      "\u26a0\ufe0f Product count changed by 33.3%"
-    ]
-  },
-  {
     "timestamp": "2026-02-03T21:06:59.064841",
     "total_products": 100,
     "avg_price": 554.5,
@@ -388,6 +375,20 @@
     "drift_detected": true,
     "alerts": [
       "\u26a0\ufe0f Product count changed by 66.7%"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T21:04:21.402457",
+    "total_products": 50,
+    "avg_price": 470.62,
+    "price_std": 275.23858963541034,
+    "categories": 2,
+    "brands": 24,
+    "model_name": "Ridge (L2)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Average price changed by 32.8%",
+      "\u26a0\ufe0f Product count changed by 100.0%"
     ]
   }
 ]
