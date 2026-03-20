@@ -1,26 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-CRT ENTERPRISES,349,349.0,,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,CRT,3.7,0,1,1,1,0,0,15,2,0,0,0,0,1,2
-CRT ENTERPRISES,349,349.0,,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,CRT,3.7,0,1,1,1,0,0,15,2,0,0,0,0,1,2
-Generic,226,226.0,5.0,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Generic,5.0,1,1,1,1,0,0,7,1,0,0,0,0,7,1
-Zilcon,279,279.0,3.8,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Zilcon,3.8,1,1,1,1,0,0,6,1,0,0,0,0,13,2
-Dream Beauty Fashion,195,195.0,3.6,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Dream,3.6,1,1,1,1,0,0,20,3,0,0,0,0,4,6
-DRAXSTAR,229,229.0,3.6,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,DRAXSTAR,3.6,1,1,1,1,0,0,8,1,0,0,0,0,2,2
-SUGARCANNE,361,361.0,3.6,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,SUGARCANNE,3.6,1,1,1,1,0,0,10,1,0,0,0,0,11,1
-Zilcon,299,299.0,3.7,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Zilcon,3.7,1,1,1,1,0,0,6,1,0,0,0,0,13,2
-SHODOX,399,399.0,4.2,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,SHODOX,4.2,1,1,1,1,0,0,6,1,0,0,0,0,10,1
-Dream Beauty Fashion,245,245.0,4.2,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Dream,4.2,1,1,1,1,0,0,20,3,0,0,0,0,4,6
-Dream Beauty Fashion,245,245.0,4.2,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Dream,4.2,1,1,1,1,0,0,20,3,0,0,0,0,4,6
-ICW,461,461.0,3.7,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,ICW,3.7,1,1,1,1,0,0,3,1,0,0,0,0,9,2
-Dream Beauty Fashion,198,198.0,3.6,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Dream,3.6,1,1,1,1,0,0,20,3,0,0,0,0,4,6
-Sugathari,299,299.0,4.1,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Sugathari,4.1,1,1,1,1,0,0,9,1,0,0,0,0,12,2
-ICW,499,499.0,3.5,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,ICW,3.5,1,1,1,1,0,0,3,1,0,0,0,0,9,2
-DTR FASHION,319,319.0,3.3,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,DTR,3.3,1,1,1,1,0,0,11,2,0,0,0,0,3,1
-DRAXSTAR,229,229.0,3.6,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,DRAXSTAR,3.6,1,1,1,1,0,0,8,1,0,0,0,0,2,2
-GRECIILOOKS,449,449.0,4.0,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,GRECIILOOKS,4.0,1,1,1,1,0,0,11,1,0,0,0,0,6,1
-HELLCAT,359,359.0,3.4,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,HELLCAT,3.4,1,1,1,1,0,0,7,1,0,0,0,0,8,1
-Dream Beauty Fashion,198,198.0,3.6,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Dream,3.6,1,1,1,1,0,0,20,3,0,0,0,0,4,6
-Sugathari,299,299.0,4.1,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Sugathari,4.1,1,1,1,1,0,0,9,1,0,0,0,0,12,2
-Aahwan,299,299.0,3.9,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Aahwan,3.9,1,1,1,1,0,0,6,1,0,0,0,0,0,2
-Aahwan,297,297.0,3.8,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Aahwan,3.8,1,1,1,1,0,0,6,1,0,0,0,0,0,2
-EAGLE LINE,349,349.0,4.2,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,EAGLE,4.2,1,1,1,1,0,0,10,2,0,0,0,0,5,1
-Dream Beauty Fashion,195,195.0,3.7,Amazon India,womens crop top tshirt,2026-03-19 21:05:36,Dream,3.7,1,1,1,1,0,0,20,3,0,0,0,0,4,6
+NETCLICK,447,447.0,4.0,Amazon India,mens hoodies,2026-03-20 21:00:40,NETCLICK,4.0,1,0,1,0,0,0,8,1,0,0,0,0,10,1
+Lymio,579,579.0,3.8,Amazon India,mens hoodies,2026-03-20 21:00:40,Lymio,3.8,1,0,1,0,0,0,5,1,0,0,0,0,9,3
+Imsa Moda,474,474.0,3.6,Amazon India,mens hoodies,2026-03-20 21:00:40,Imsa,3.6,1,0,1,0,0,0,9,2,0,0,0,0,6,1
+FN3,449,449.0,3.4,Amazon India,mens hoodies,2026-03-20 21:00:40,FN3,3.4,1,0,1,0,0,0,3,1,0,0,0,0,3,2
+Alan Jones Clothing,583,583.0,3.9,Amazon India,mens hoodies,2026-03-20 21:00:40,Jones,3.9,1,0,1,0,0,0,19,3,0,0,0,0,8,2
+GAP,"1,749",1749.0,5.0,Amazon India,mens hoodies,2026-03-20 21:00:40,Gap,5.0,1,0,1,0,0,0,3,1,0,0,0,0,4,1
+TAGAS,629,629.0,4.2,Amazon India,mens hoodies,2026-03-20 21:00:40,Tagas,4.2,1,0,1,0,0,0,5,1,0,0,0,0,12,3
+TAGAS,629,629.0,3.9,Amazon India,mens hoodies,2026-03-20 21:00:40,Tagas,3.9,1,0,1,0,0,0,5,1,0,0,0,0,12,3
+Boldfit,549,549.0,4.0,Amazon India,mens hoodies,2026-03-20 21:00:40,Boldfit,4.0,1,0,1,0,0,0,7,1,0,0,0,0,2,1
+JVX,599,599.0,4.0,Amazon India,mens hoodies,2026-03-20 21:00:40,JVX,4.0,1,0,1,0,0,0,3,1,0,0,0,0,7,2
+Lymio,599,599.0,3.4,Amazon India,mens hoodies,2026-03-20 21:00:40,Lymio,3.4,1,0,1,0,0,0,5,1,0,0,0,0,9,3
+Trillion,448.,448.0,3.8,Amazon India,mens hoodies,2026-03-20 21:00:40,Trillion,3.8,1,0,1,0,0,0,8,1,0,0,0,0,14,1
+Alan Jones Clothing,639,639.0,4.0,Amazon India,mens hoodies,2026-03-20 21:00:40,Jones,4.0,1,0,1,0,0,0,19,3,0,0,0,0,8,2
+The Modern Soul,449,449.0,3.7,Amazon India,mens hoodies,2026-03-20 21:00:40,The,3.7,1,0,1,0,0,0,15,3,0,0,0,0,13,2
+BE SAVAGE,791,791.0,4.0,Amazon India,mens hoodies,2026-03-20 21:00:40,BE,4.0,1,0,1,0,0,0,9,2,0,0,0,0,1,1
+Glowic,599,599.0,3.5,Amazon India,mens hoodies,2026-03-20 21:00:40,Glowic,3.5,1,0,1,0,0,0,6,1,0,0,0,0,5,1
+The Souled Store,"2,099",2099.0,4.6,Amazon India,mens hoodies,2026-03-20 21:00:40,The,4.6,1,0,1,0,0,0,16,3,0,0,0,0,13,2
+TAGAS,799,799.0,4.1,Amazon India,mens hoodies,2026-03-20 21:00:40,Tagas,4.1,1,0,1,0,0,0,5,1,0,0,0,0,12,3
+Spykar,"1,263.",1263.0,4.5,Amazon India,mens hoodies,2026-03-20 21:00:40,Spykar,4.5,1,0,1,0,0,0,6,1,0,0,0,0,11,1
+Allen Solly,"1,379",1379.0,3.8,Amazon India,mens hoodies,2026-03-20 21:00:40,Allen,3.8,1,0,1,0,0,0,11,2,0,0,0,0,0,2
+fanideaz,999,999.0,5.0,Amazon India,mens hoodies,2026-03-20 21:00:40,fanideaz,5.0,1,0,1,0,0,0,8,1,0,0,0,0,15,1
+Lymio,599,599.0,3.9,Amazon India,mens hoodies,2026-03-20 21:00:40,Lymio,3.9,1,0,1,0,0,0,5,1,0,0,0,0,9,3
+Allen Solly,"1,379",1379.0,3.8,Amazon India,mens hoodies,2026-03-20 21:00:40,Allen,3.8,1,0,1,0,0,0,11,2,0,0,0,0,0,2
+JVX,699,699.0,3.9,Amazon India,mens hoodies,2026-03-20 21:00:40,JVX,3.9,1,0,1,0,0,0,3,1,0,0,0,0,7,2
+FN3,449,449.0,3.4,Amazon India,mens hoodies,2026-03-20 21:00:40,FN3,3.4,1,0,1,0,0,0,3,1,0,0,0,0,3,2
