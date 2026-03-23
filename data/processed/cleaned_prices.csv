@@ -1,26 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Max,321,321.0,4.2,Amazon India,womens printed tshirt,2026-03-22 20:54:59,Max,4.2,1,1,1,1,1,0,3,1,0,0,0,0,6,2
-JUNEBERRY,349,349.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,JUNEBERRY,4.1,1,1,1,1,1,0,9,1,0,0,0,0,2,6
-Stories.Label,474,474.0,4.0,Amazon India,womens printed tshirt,2026-03-22 20:54:59,Stories.Label,4.0,1,1,1,1,1,0,13,1,0,0,0,0,8,2
-LEOTUDE,298,298.0,3.8,Amazon India,womens printed tshirt,2026-03-22 20:54:59,LEOTUDE,3.8,1,1,1,1,1,0,7,1,0,0,0,0,4,7
-JUNEBERRY,349,349.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,JUNEBERRY,4.1,1,1,1,1,1,0,9,1,0,0,0,0,2,6
-KOTTY,354,354.0,4.0,Amazon India,womens printed tshirt,2026-03-22 20:54:59,Kotty,4.0,1,1,1,1,1,0,5,1,0,0,0,0,3,1
-LEOTUDE,296,296.0,3.9,Amazon India,womens printed tshirt,2026-03-22 20:54:59,LEOTUDE,3.9,1,1,1,1,1,0,7,1,0,0,0,0,4,7
-JUNEBERRY,399,399.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,JUNEBERRY,4.1,1,1,1,1,1,0,9,1,0,0,0,0,2,6
-Stories.Label,499,499.0,3.8,Amazon India,womens printed tshirt,2026-03-22 20:54:59,Stories.Label,3.8,1,1,1,1,1,0,13,1,0,0,0,0,8,2
-Max,349,349.0,3.8,Amazon India,womens printed tshirt,2026-03-22 20:54:59,Max,3.8,1,1,1,1,1,0,3,1,0,0,0,0,6,2
-LEOTUDE,296,296.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,LEOTUDE,4.1,1,1,1,1,1,0,7,1,0,0,0,0,4,7
-RodZen,474,474.0,3.9,Amazon India,womens printed tshirt,2026-03-22 20:54:59,RodZen,3.9,1,1,1,1,1,0,6,1,0,0,0,0,7,3
-JUNEBERRY,399,399.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,JUNEBERRY,4.1,1,1,1,1,1,0,9,1,0,0,0,0,2,6
-London Hills,290,290.0,3.9,Amazon India,womens printed tshirt,2026-03-22 20:54:59,London,3.9,1,1,1,1,1,0,12,2,0,0,0,0,5,1
-RodZen,426,426.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,RodZen,4.1,1,1,1,1,1,0,6,1,0,0,0,0,7,3
-DENIMHOLIC,399,399.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,DENIMHOLIC,4.1,1,1,1,1,1,0,10,1,0,0,0,0,1,1
-LEOTUDE,899,899.0,3.9,Amazon India,womens printed tshirt,2026-03-22 20:54:59,LEOTUDE,3.9,1,1,1,1,1,0,7,1,0,0,0,0,4,7
-JUNEBERRY,399,399.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,JUNEBERRY,4.1,1,1,1,1,1,0,9,1,0,0,0,0,2,6
-JUNEBERRY,399,399.0,4.2,Amazon India,womens printed tshirt,2026-03-22 20:54:59,JUNEBERRY,4.2,1,1,1,1,1,0,9,1,0,0,0,0,2,6
-LEOTUDE,349,349.0,3.6,Amazon India,womens printed tshirt,2026-03-22 20:54:59,LEOTUDE,3.6,1,1,1,1,1,0,7,1,0,0,0,0,4,7
-Bewakoof,419,419.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,Bewakoof,4.1,1,1,1,1,1,0,8,1,0,0,0,0,0,1
-LEOTUDE,298,298.0,3.6,Amazon India,womens printed tshirt,2026-03-22 20:54:59,LEOTUDE,3.6,1,1,1,1,1,0,7,1,0,0,0,0,4,7
-LEOTUDE,298,298.0,3.7,Amazon India,womens printed tshirt,2026-03-22 20:54:59,LEOTUDE,3.7,1,1,1,1,1,0,7,1,0,0,0,0,4,7
-RodZen,474,474.0,3.9,Amazon India,womens printed tshirt,2026-03-22 20:54:59,RodZen,3.9,1,1,1,1,1,0,6,1,0,0,0,0,7,3
-rytras,479,479.0,4.1,Amazon India,womens printed tshirt,2026-03-22 20:54:59,rytras,4.1,1,1,1,1,1,0,6,1,0,0,0,0,9,1
+Zilcon,338,338.0,3.6,Amazon India,womens casual top,2026-03-23 21:06:41,Zilcon,3.6,1,0,1,1,0,0,6,1,0,0,0,0,16,3
+Gufrina,395,395.0,3.8,Amazon India,womens casual top,2026-03-23 21:06:41,Gufrina,3.8,1,0,1,1,0,0,7,1,0,0,0,0,1,2
+London Hills,299,299.0,3.9,Amazon India,womens casual top,2026-03-23 21:06:41,London,3.9,1,0,1,1,0,0,12,2,0,0,0,0,5,1
+Leriya Fashion,414,414.0,3.5,Amazon India,womens casual top,2026-03-23 21:06:41,Leriya,3.5,1,0,1,1,0,0,14,2,0,0,0,0,4,3
+Max,317,317.0,4.1,Amazon India,womens casual top,2026-03-23 21:06:41,Max,4.1,1,0,1,1,0,0,3,1,0,0,0,0,7,1
+GRECIILOOKS,449,449.0,3.8,Amazon India,womens casual top,2026-03-23 21:06:41,GRECIILOOKS,3.8,1,0,1,1,0,0,11,1,0,0,0,0,0,2
+TRASA,339,339.0,4.2,Amazon India,womens casual top,2026-03-23 21:06:41,TRASA,4.2,1,0,1,1,0,0,5,1,0,0,0,0,12,1
+TAGAS,599,599.0,4.1,Amazon India,womens casual top,2026-03-23 21:06:41,Tagas,4.1,1,0,1,1,0,0,5,1,0,0,0,0,13,1
+Yash Gallery,408,408.0,3.9,Amazon India,womens casual top,2026-03-23 21:06:41,Yash,3.9,1,0,1,1,0,0,12,2,0,0,0,0,15,2
+Zilcon,279,279.0,3.8,Amazon India,womens casual top,2026-03-23 21:06:41,Zilcon,3.8,1,0,1,1,0,0,6,1,0,0,0,0,16,3
+Yash Gallery,439,439.0,4.0,Amazon India,womens casual top,2026-03-23 21:06:41,Yash,4.0,1,0,1,1,0,0,12,2,0,0,0,0,15,2
+Jawdrobe,349,349.0,4.2,Amazon India,womens casual top,2026-03-23 21:06:41,Jawdrobe,4.2,1,0,1,1,0,0,8,1,0,0,0,0,2,1
+GRECIILOOKS,449,449.0,3.9,Amazon India,womens casual top,2026-03-23 21:06:41,GRECIILOOKS,3.9,1,0,1,1,0,0,11,1,0,0,0,0,0,2
+Style Quotient,491,491.0,4.0,Amazon India,womens casual top,2026-03-23 21:06:41,Style,4.0,1,0,1,1,0,0,14,2,0,0,0,0,10,2
+LEOTUDE,599,599.0,4.0,Amazon India,womens casual top,2026-03-23 21:06:41,LEOTUDE,4.0,1,0,1,1,0,0,7,1,0,0,0,0,3,1
+Gufrina,395,395.0,3.6,Amazon India,womens casual top,2026-03-23 21:06:41,Gufrina,3.6,1,0,1,1,0,0,7,1,0,0,0,0,1,2
+Leriya Fashion,399,399.0,3.8,Amazon India,womens casual top,2026-03-23 21:06:41,Leriya,3.8,1,0,1,1,0,0,14,2,0,0,0,0,4,3
+Zilcon,362,362.0,3.8,Amazon India,womens casual top,2026-03-23 21:06:41,Zilcon,3.8,1,0,1,1,0,0,6,1,0,0,0,0,16,3
+SIKRI FAB,299,299.0,3.8,Amazon India,womens casual top,2026-03-23 21:06:41,SIKRI,3.8,1,0,1,1,0,0,9,2,0,0,0,0,8,1
+Vaamsi,475,475.0,3.9,Amazon India,womens casual top,2026-03-23 21:06:41,Vaamsi,3.9,1,0,1,1,0,0,6,1,0,0,0,0,14,1
+Maaesa,549,549.0,3.8,Amazon India,womens casual top,2026-03-23 21:06:41,Maaesa,3.8,1,0,1,1,0,0,6,1,0,0,0,0,6,1
+Sugathari,299,299.0,4.0,Amazon India,womens casual top,2026-03-23 21:06:41,Sugathari,4.0,1,0,1,1,0,0,9,1,0,0,0,0,11,1
+SheWill,369,369.0,3.5,Amazon India,womens casual top,2026-03-23 21:06:41,SheWill,3.5,1,0,1,1,0,0,7,1,0,0,0,0,9,1
+Leriya Fashion,499,499.0,4.0,Amazon India,womens casual top,2026-03-23 21:06:41,Leriya,4.0,1,0,1,1,0,0,14,2,0,0,0,0,4,3
+Style Quotient,735,735.0,4.1,Amazon India,womens casual top,2026-03-23 21:06:41,Style,4.1,1,0,1,1,0,0,14,2,0,0,0,0,10,2

@@ -1,16 +1,5 @@
 [
   {
-    "timestamp": "2026-02-10T21:15:18.397096",
-    "total_products": 25,
-    "avg_price": 509.2,
-    "price_std": 263.1645556174565,
-    "categories": 1,
-    "brands": 11,
-    "model_name": "Linear Regression",
-    "drift_detected": false,
-    "alerts": []
-  },
-  {
     "timestamp": "2026-02-11T21:09:41.876718",
     "total_products": 100,
     "avg_price": 529.14,
@@ -396,5 +385,16 @@
       "\u26a0\ufe0f Average price changed by 29.3%",
       "\u26a0\ufe0f Product count changed by 66.7%"
     ]
+  },
+  {
+    "timestamp": "2026-03-23T21:07:03.263488",
+    "total_products": 25,
+    "avg_price": 421.8,
+    "price_std": 111.20401671402583,
+    "categories": 1,
+    "brands": 17,
+    "model_name": "Ridge (L2)",
+    "drift_detected": false,
+    "alerts": []
   }
 ]
