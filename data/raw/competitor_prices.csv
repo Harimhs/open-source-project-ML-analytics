@@ -1,26 +1,76 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-BULLMER,519,519.0,3.7,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-U.S. Polo Assn.,384,384.0,3.8,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Van Heusen,679,679.0,4.2,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Jockey,579,579.0,4.2,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-adidas,599,599.0,3.9,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Jockey,579,579.0,4.2,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Van Heusen,599,599.0,4.1,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-LEOTUDE,649,649.0,4.1,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-U.S. Polo Assn.,531,531.0,4.0,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-LEOTUDE,298,298.0,4.0,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Jockey,553,553.0,4.2,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Amazon Brand - Symbol,319,319.0,4.0,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-U.S. Polo Assn.,611,611.0,4.0,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-LEOTUDE,298,298.0,4.0,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-U.S. Polo Assn.,519,519.0,4.0,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Levi's,551,551.0,4.1,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-London Hills,349,349.0,3.7,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-ADRO,450,450.0,4.0,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-LEOTUDE,799,799.0,3.7,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Jockey,564,564.0,4.2,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-U.S. Polo Assn.,719,719.0,4.0,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-U.S. Polo Assn.,829,829.0,3.7,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-LEOTUDE,298,298.0,3.7,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Jockey,559,559.0,4.2,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
-Maniac,370,370.0,3.8,Amazon India,mens round neck tshirt,2026-03-27 21:04:50
+Lux Cozi,395,395.0,4.0,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+London Hills,279,279.0,3.8,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Allen Solly,699,699.0,4.1,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Lux Cozi,419,419.0,3.8,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+London Hills,299,299.0,3.6,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Max,359,359.0,4.0,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Levi's,519,519.0,4.1,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Jockey,579,579.0,4.2,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Peter England,604,604.0,4.0,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Veirdo,379,379.0,3.9,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+NOBERO,449,449.0,3.8,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+London Hills,489,489.0,3.7,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Max,349,349.0,4.2,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Levi's,551,551.0,4.1,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Leriya Fashion,449,449.0,4.0,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Van Heusen,699,699.0,4.0,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Van Heusen,497,497.0,4.2,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Van Heusen,944,944.0,4.1,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+London Hills,349,349.0,3.7,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Veirdo,399,399.0,4.2,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Amazon Brand - Symbol,339,339.0,4.0,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+Lymio,449,449.0,3.8,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+U.S. Polo Assn.,620,620.0,4.0,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+U.S. Polo Assn.,545,545.0,3.9,Amazon India,mens cotton tshirt,2026-03-28 20:57:55
+BLACKSTEP,349,349.0,4.2,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+Jawdrobe,357,357.0,3.8,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+LEOTUDE,298,298.0,3.9,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+AUSK,276,276.0,3.9,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+London Hills,699,699.0,4.1,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+AUSK,279,279.0,3.9,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+TQH,329,329.0,3.6,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+LEOTUDE,296,296.0,3.7,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+KOTTY,354,354.0,4.0,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+JUNEBERRY,349,349.0,4.1,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+The Souled Store,649,649.0,4.0,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+JUNEBERRY,399,399.0,4.1,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+JUNEBERRY,399,399.0,4.1,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+CHKOKKO,208,208.0,3.9,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+London Hills,449,449.0,4.0,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+LEOTUDE,298,298.0,3.7,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+JUNEBERRY,379,379.0,4.1,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+The Souled Store,649,649.0,3.9,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+LEOTUDE,296,296.0,3.8,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+LEOTUDE,548,548.0,4.1,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+LEOTUDE,298,298.0,3.9,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+JUNEBERRY,399,399.0,4.1,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+JUNEBERRY,399,399.0,4.1,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+JUNEBERRY,749,749.0,4.1,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+London Hills,279,279.0,3.8,Amazon India,womens oversized tshirt,2026-03-28 20:58:52
+AUSK,279,279.0,3.9,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Max,349,349.0,4.2,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Max,249,249.0,4.1,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+London Hills,699,699.0,4.1,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Sleepynuts,887,887.0,4.0,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Mack Jonney,299,299.0,3.3,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+LEOTUDE,298,298.0,3.9,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Jawdrobe,359,359.0,3.8,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Amazon Brand - Symbol,629,629.0,4.1,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Mack Jonney,499,499.0,3.2,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Amazon Brand - Symbol,449,449.0,4.1,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+KOTTY,354,354.0,4.0,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+JUNEBERRY,399,399.0,4.1,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+JUNEBERRY,379,379.0,4.1,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+JUNEBERRY,349,349.0,4.1,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Max,348,348.0,4.3,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Max,349,349.0,4.1,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+JUNEBERRY,399,399.0,4.1,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+WEET,379.,379.0,4.0,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Mack Jonney,299,299.0,3.3,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Allen Solly,689,689.0,4.0,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+RodZen,474,474.0,3.9,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Max,349,349.0,3.8,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+Jockey,549,549.0,4.2,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
+JUNEBERRY,499,499.0,4.2,Amazon India,womens cotton tshirt,2026-03-28 20:59:12
