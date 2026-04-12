@@ -1,18 +1,5 @@
 [
   {
-    "timestamp": "2026-03-06T20:59:45.875102",
-    "total_products": 25,
-    "avg_price": 503.88,
-    "price_std": 235.27312497039122,
-    "categories": 1,
-    "brands": 10,
-    "model_name": "Ridge (L2)",
-    "drift_detected": true,
-    "alerts": [
-      "\u26a0\ufe0f Average price changed by 21.3%"
-    ]
-  },
-  {
     "timestamp": "2026-03-07T20:53:03.956160",
     "total_products": 50,
     "avg_price": 368.2,
@@ -397,6 +384,20 @@
     "drift_detected": true,
     "alerts": [
       "\u26a0\ufe0f Product count changed by 100.0%"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T21:05:46.844021",
+    "total_products": 50,
+    "avg_price": 699.38,
+    "price_std": 420.013405519784,
+    "categories": 2,
+    "brands": 28,
+    "model_name": "Random Forest (Small)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Average price changed by 34.0%",
+      "\u26a0\ufe0f Product count changed by 50.0%"
     ]
   }
 ]
