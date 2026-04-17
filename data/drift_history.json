@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-03-10T21:02:16.032044",
-    "total_products": 75,
-    "avg_price": 615.8933333333333,
-    "price_std": 309.13443123757105,
-    "categories": 3,
-    "brands": 40,
-    "model_name": "Linear Regression",
-    "drift_detected": true,
-    "alerts": [
-      "\u26a0\ufe0f Average price changed by 25.3%",
-      "\u26a0\ufe0f Product count changed by 50.0%"
-    ]
-  },
-  {
     "timestamp": "2026-03-11T21:01:51.738845",
     "total_products": 25,
     "avg_price": 700.52,
@@ -397,6 +383,20 @@
     "drift_detected": true,
     "alerts": [
       "\u26a0\ufe0f Product count changed by 100.0%"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T21:14:42.884249",
+    "total_products": 150,
+    "avg_price": 618.7733333333333,
+    "price_std": 356.64337735751576,
+    "categories": 6,
+    "brands": 61,
+    "model_name": "Random Forest (Small)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Average price changed by 15.3%",
+      "\u26a0\ufe0f Product count changed by 25.0%"
     ]
   }
 ]
