@@ -1,26 +1,101 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-KLOSIA,799,799.0,4.2,Amazon India,womens dress,2026-04-28 21:40:10
-ANNI DESIGNER,499,499.0,3.8,Amazon India,womens dress,2026-04-28 21:40:10
-KLOSIA,790,790.0,4.2,Amazon India,womens dress,2026-04-28 21:40:10
-ANNI DESIGNER,699,699.0,3.7,Amazon India,womens dress,2026-04-28 21:40:10
-Generic,299,299.0,3.0,Amazon India,womens dress,2026-04-28 21:40:10
-ANNI DESIGNER,799,799.0,3.7,Amazon India,womens dress,2026-04-28 21:40:10
-Nermosa,799,799.0,4.7,Amazon India,womens dress,2026-04-28 21:40:10
-ANNI DESIGNER,499,499.0,3.9,Amazon India,womens dress,2026-04-28 21:40:10
-Shasmi,599,599.0,4.5,Amazon India,womens dress,2026-04-28 21:40:10
-KLOSIA,799,799.0,3.9,Amazon India,womens dress,2026-04-28 21:40:10
-ANNI DESIGNER,499,499.0,3.9,Amazon India,womens dress,2026-04-28 21:40:10
-Nermosa,799,799.0,4.2,Amazon India,womens dress,2026-04-28 21:40:10
-Generic,409,409.0,3.2,Amazon India,womens dress,2026-04-28 21:40:10
-GoSriKi,673,673.0,3.8,Amazon India,womens dress,2026-04-28 21:40:10
-ANNI DESIGNER,589,589.0,3.8,Amazon India,womens dress,2026-04-28 21:40:10
-MOKOSH,"1,123",1123.0,4.3,Amazon India,womens dress,2026-04-28 21:40:10
-GoSriKi,697,697.0,3.7,Amazon India,womens dress,2026-04-28 21:40:10
-ANNI DESIGNER,499,499.0,3.8,Amazon India,womens dress,2026-04-28 21:40:10
-ANNI DESIGNER,579,579.0,3.9,Amazon India,womens dress,2026-04-28 21:40:10
-Arayna,999,999.0,3.9,Amazon India,womens dress,2026-04-28 21:40:10
-ANNI DESIGNER,799,799.0,3.7,Amazon India,womens dress,2026-04-28 21:40:10
-FABNEX,689,689.0,3.2,Amazon India,womens dress,2026-04-28 21:40:10
-GoSriKi,799,799.0,2.8,Amazon India,womens dress,2026-04-28 21:40:10
-PARTHVI,947,947.0,4.0,Amazon India,womens dress,2026-04-28 21:40:10
-LOUIS LUXE,659,659.0,3.8,Amazon India,womens dress,2026-04-28 21:40:10
+Max,199,199.0,4.1,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Sleepynuts,998,998.0,3.9,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+LEOTUDE,298,298.0,3.7,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+V33,279,279.0,5.0,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Jockey,579,579.0,4.2,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Jockey,579,579.0,4.2,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Amazon Brand - Symbol,309,309.0,4.0,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Amazon Brand - Symbol,549,549.0,4.0,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+London Hills,240,240.0,3.7,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Leriya Fashion,679,679.0,4.0,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Sleepynuts,998,998.0,3.9,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+tinies,409,409.0,4.1,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Levi's,499,499.0,4.1,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+XENOVAURBAN,"1,099",1099.0,4.1,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Sleepynuts,998,998.0,3.9,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+NAVYCUT USA,199,199.0,4.1,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Van Heusen,395,395.0,4.2,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+LEOTUDE,293,293.0,4.0,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+LEOTUDE,899,899.0,3.7,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+XENOVAURBAN,"1,099",1099.0,4.1,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Levi's,499,499.0,4.1,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Scott International,249,249.0,3.7,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Hangout Hub,125,125.0,3.8,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+Max,199,199.0,4.1,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+PeaceOut,498,498.0,4.1,Amazon India,mens plain tshirt,2026-04-29 21:40:07
+LAWFUL CASUAL,339,339.0,,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Van Heusen,354,354.0,4.0,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+TAGDO,349,349.0,4.0,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Jockey,578,578.0,4.2,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+AKASH GARMENTS,299,299.0,2.6,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+MOORDALE,281,281.0,3.6,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Blisstone,299,299.0,3.6,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+TAGDO,349,349.0,3.9,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+U.S. POLO ASSN.,551,551.0,3.9,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Levi's,499,499.0,4.0,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+TreadDown,497,497.0,3.9,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Jockey,599,599.0,4.2,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Aventura Outfitters,"1,299",1299.0,4.0,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Blisstone,299,299.0,3.9,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+U.S. POLO ASSN.,559,559.0,3.9,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+U.S. POLO ASSN.,531,531.0,3.9,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+U.S. POLO ASSN.,558,558.0,3.9,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+COTTON High Density,349,349.0,4.6,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+U.S. POLO ASSN.,531,531.0,3.9,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Amazon Brand - Symbol,799,799.0,4.2,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+Van Heusen,619,619.0,4.0,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+ADRO,999,999.0,4.0,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+RodZen,331,331.0,5.0,Amazon India,mens v neck tshirt,2026-04-29 21:40:36
+RodZen,331,331.0,3.6,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+RodZen,299,299.0,5.0,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+WEET,379.,379.0,4.0,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+RodZen,331,331.0,3.6,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Zilcon,279,279.0,3.6,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Mack Jonney,229,229.0,3.2,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+MATMA FASHION,389,389.0,4.0,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+GAP,799,799.0,1.0,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Bollyclues,389,389.0,3.4,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Raavi colors,299,299.0,4.0,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Lavos,921,921.0,4.0,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Aahwan,362,362.0,3.6,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Dreamz by Pantaloons,379,379.0,,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Amazon Brand - INKAST,449,449.0,,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+LEOTUDE,798,798.0,3.9,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Amazon Brand - INKAST,449,449.0,,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+LEOTUDE,799,799.0,3.9,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Amante,238,238.0,4.7,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Impression Fab,499,499.0,3.5,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Fabricorn,659,659.0,3.9,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Freehand,383,383.0,,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Raavi colors,275.,275.0,4.0,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Aahwan,362,362.0,3.6,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Aahwan,362,362.0,3.6,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Rupa Softline,348,348.0,3.8,Amazon India,womens v neck tshirt,2026-04-29 21:42:02
+Max,179,179.0,3.8,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Hangout Hub,225,225.0,3.9,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Jawdrobe,356,356.0,3.9,Amazon India,womens white tshirt,2026-04-29 21:42:19
+U.S. POLO ASSN.,519,519.0,5.0,Amazon India,womens white tshirt,2026-04-29 21:42:19
+TWIN BIRDS,299,299.0,4.5,Amazon India,womens white tshirt,2026-04-29 21:42:19
+JUNEBERRY,379,379.0,4.1,Amazon India,womens white tshirt,2026-04-29 21:42:19
+LOUIS ELORA,299,299.0,5.0,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Jockey,549,549.0,4.2,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Bewakoof,429,429.0,4.0,Amazon India,womens white tshirt,2026-04-29 21:42:19
+London Hills,295,295.0,3.9,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Mack Jonney,279,279.0,3.4,Amazon India,womens white tshirt,2026-04-29 21:42:19
+TQH,299,299.0,3.6,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Istyle Can,232,232.0,3.7,Amazon India,womens white tshirt,2026-04-29 21:42:19
+LOUIS ELORA,379,379.0,5.0,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Jockey,579,579.0,4.1,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Van Heusen,559,559.0,3.8,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Dream Beauty Fashion,208,208.0,3.9,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Amazon Brand - Symbol,449,449.0,4.2,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Rocky Fab,299,299.0,3.5,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Jawdrobe,414,414.0,3.9,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Jockey,549,549.0,4.3,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Sundish,364,364.0,4.4,Amazon India,womens white tshirt,2026-04-29 21:42:19
+JUNEBERRY,399,399.0,4.1,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Wear Your Opinion,474,474.0,4.0,Amazon India,womens white tshirt,2026-04-29 21:42:19
+Jawdrobe,394,394.0,4.2,Amazon India,womens white tshirt,2026-04-29 21:42:19
