@@ -1,76 +1,101 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-adidas,599,599.0,4.0,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-adidas,646,646.0,4.0,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-AUSK,231,231.0,3.4,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-FTX,346,346.0,3.9,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-Pepe Jeans,359,359.0,3.8,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-Imsa Moda,284,284.0,4.1,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-TECHNOSPORT,284,284.0,4.2,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-AUSK,228,228.0,3.6,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-Boldfit,389,389.0,4.2,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-CHKOKKO,375,375.0,3.8,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-CHKOKKO,281,281.0,3.8,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-TECHNOSPORT,319,319.0,4.1,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-ATICX,444,444.0,4.0,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-adidas,679,679.0,4.0,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-PUMA,825,825.0,3.9,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-TECHNOSPORT,293,293.0,4.2,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-GYMFIT,449,449.0,4.1,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-CHKOKKO,375,375.0,3.8,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-CHKOKKO,281,281.0,3.8,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-TECHNOSPORT,237,237.0,4.1,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-PUMA,909,909.0,4.1,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-Jockey,579,579.0,4.2,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-Boldfit,399,399.0,4.2,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-Boldfit,399,399.0,4.1,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-Jockey,799,799.0,4.1,Amazon India,mens sports tshirt,2026-05-13 21:55:03
-PDKFASHIONS,449,449.0,3.4,Amazon India,womens hoodies,2026-05-13 21:56:25
-TAGAS,549,549.0,3.9,Amazon India,womens hoodies,2026-05-13 21:56:25
-Imsa Moda,449,449.0,3.4,Amazon India,womens hoodies,2026-05-13 21:56:25
-Boldfit,664,664.0,4.2,Amazon India,womens hoodies,2026-05-13 21:56:25
-Alan Jones Clothing,597,597.0,4.1,Amazon India,womens hoodies,2026-05-13 21:56:25
-Alan Jones Clothing,645,645.0,4.1,Amazon India,womens hoodies,2026-05-13 21:56:25
-PDKFASHIONS,449,449.0,4.0,Amazon India,womens hoodies,2026-05-13 21:56:25
-TAGAS,549,549.0,4.0,Amazon India,womens hoodies,2026-05-13 21:56:25
-TAGAS,599,599.0,4.0,Amazon India,womens hoodies,2026-05-13 21:56:25
-GRECIILOOKS,549,549.0,3.9,Amazon India,womens hoodies,2026-05-13 21:56:25
-Alan Jones Clothing,645,645.0,4.1,Amazon India,womens hoodies,2026-05-13 21:56:25
-ADBUCKS,695,695.0,3.7,Amazon India,womens hoodies,2026-05-13 21:56:25
-Celary,539,539.0,4.0,Amazon India,womens hoodies,2026-05-13 21:56:25
-Alan Jones Clothing,569,569.0,4.1,Amazon India,womens hoodies,2026-05-13 21:56:25
-Alan Jones Clothing,651,651.0,4.1,Amazon India,womens hoodies,2026-05-13 21:56:25
-GRECIILOOKS,549,549.0,3.9,Amazon India,womens hoodies,2026-05-13 21:56:25
-PDKFASHIONS,449,449.0,3.7,Amazon India,womens hoodies,2026-05-13 21:56:25
-DRAXSTAR,430,430.0,3.5,Amazon India,womens hoodies,2026-05-13 21:56:25
-GRECIILOOKS,549,549.0,3.9,Amazon India,womens hoodies,2026-05-13 21:56:25
-Elite soul,499,499.0,,Amazon India,womens hoodies,2026-05-13 21:56:25
-PDKFASHIONS,449,449.0,3.7,Amazon India,womens hoodies,2026-05-13 21:56:25
-TADKEE,559,559.0,3.5,Amazon India,womens hoodies,2026-05-13 21:56:25
-DRAXSTAR,699,699.0,3.6,Amazon India,womens hoodies,2026-05-13 21:56:25
-BLACKSTEP,789,789.0,4.0,Amazon India,womens hoodies,2026-05-13 21:56:25
-Allen Solly,965,965.0,4.1,Amazon India,womens hoodies,2026-05-13 21:56:25
-KLOSIA,659,659.0,4.2,Amazon India,womens dress,2026-05-13 21:57:13
-ANNI DESIGNER,409,409.0,3.6,Amazon India,womens dress,2026-05-13 21:57:13
-Nermosa,659,659.0,4.2,Amazon India,womens dress,2026-05-13 21:57:13
-KLOSIA,659,659.0,4.2,Amazon India,womens dress,2026-05-13 21:57:13
-LOUIS LUXE,549,549.0,3.9,Amazon India,womens dress,2026-05-13 21:57:13
-GoSriKi,629,629.0,3.7,Amazon India,womens dress,2026-05-13 21:57:13
-Generic,299,299.0,2.8,Amazon India,womens dress,2026-05-13 21:57:13
-Nermosa,659,659.0,4.6,Amazon India,womens dress,2026-05-13 21:57:13
-ANNI DESIGNER,659,659.0,3.6,Amazon India,womens dress,2026-05-13 21:57:13
-KLOSIA,499,499.0,4.4,Amazon India,womens dress,2026-05-13 21:57:13
-ANNI DESIGNER,659,659.0,3.5,Amazon India,womens dress,2026-05-13 21:57:13
-Modestouze Attires,599,599.0,4.2,Amazon India,womens dress,2026-05-13 21:57:13
-ANNI DESIGNER,409,409.0,3.9,Amazon India,womens dress,2026-05-13 21:57:13
-ANNI DESIGNER,469,469.0,3.7,Amazon India,womens dress,2026-05-13 21:57:13
-Shasmi,579,579.0,4.3,Amazon India,womens dress,2026-05-13 21:57:13
-GRECIILOOKS,629,629.0,4.0,Amazon India,womens dress,2026-05-13 21:57:13
-Shasmi,579,579.0,4.4,Amazon India,womens dress,2026-05-13 21:57:13
-KLOSIA,659,659.0,4.9,Amazon India,womens dress,2026-05-13 21:57:13
-KLOSIA,659,659.0,3.9,Amazon India,womens dress,2026-05-13 21:57:13
-LITZO,579,579.0,3.6,Amazon India,womens dress,2026-05-13 21:57:13
-GoSriKi,539,539.0,3.8,Amazon India,womens dress,2026-05-13 21:57:13
-ANNI DESIGNER,429,429.0,4.0,Amazon India,womens dress,2026-05-13 21:57:13
-ANNI DESIGNER,489,489.0,3.7,Amazon India,womens dress,2026-05-13 21:57:13
-Nautiful,699,699.0,5.0,Amazon India,womens dress,2026-05-13 21:57:13
-LOUIS LUXE,549,549.0,3.9,Amazon India,womens dress,2026-05-13 21:57:13
+Max,198,198.0,4.1,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Levi's,353,353.0,4.1,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+NETCLICK,296,296.0,4.4,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+LEOTUDE,269,269.0,3.7,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Sleepynuts,947,947.0,3.9,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+tinies,377.,377.0,4.1,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Jockey,529,529.0,4.2,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Levi's,389,389.0,4.1,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+London Hills,225,225.0,3.7,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+XENOVAURBAN,909,909.0,4.1,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Leriya Fashion,611,611.0,4.0,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Jockey,509,509.0,4.2,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Sleepynuts,947,947.0,3.9,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Sleepynuts,947,947.0,3.9,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+XENOVAURBAN,909,909.0,4.1,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+tinies,377.,377.0,4.1,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+LEOTUDE,849,849.0,3.7,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Amazon Brand - Symbol,319,319.0,4.0,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Max,198,198.0,4.1,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+London Hills,798,798.0,3.9,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Hangout Hub,125,125.0,3.8,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+Scott International,236,236.0,3.7,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+SHODOX,369,369.0,3.8,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+LEOTUDE,269,269.0,3.8,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+PeaceOut,498,498.0,4.0,Amazon India,mens plain tshirt,2026-05-14 21:45:24
+adidas,646,646.0,4.0,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+AUSK,231,231.0,3.4,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+adidas,599,599.0,4.0,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+FTX,361,361.0,3.9,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+Pepe Jeans,359,359.0,3.8,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+TECHNOSPORT,284,284.0,4.2,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+Boldfit,389,389.0,4.2,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+PUMA,825,825.0,3.9,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+AUSK,228,228.0,3.6,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+Imsa Moda,284,284.0,4.1,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+CHKOKKO,375,375.0,3.8,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+ATICX,444,444.0,4.0,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+adidas,679,679.0,4.0,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+TECHNOSPORT,319,319.0,4.1,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+GYMFIT,449,449.0,4.2,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+TECHNOSPORT,293,293.0,4.1,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+Jockey,799,799.0,4.1,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+Peppyzone,330,330.0,4.0,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+CHKOKKO,375,375.0,3.8,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+TECHNOSPORT,364,364.0,4.3,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+Boldfit,399,399.0,4.2,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+FTX,346,346.0,3.9,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+TECHNOSPORT,237,237.0,4.1,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+Jockey,509,509.0,4.2,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+PUMA,909,909.0,4.1,Amazon India,mens sports tshirt,2026-05-14 21:46:29
+U TURN,377,377.0,3.7,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+NexaFlair,389,389.0,3.1,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Highlander,505,505.0,4.1,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Louis Philippe,"1,019",1019.0,3.9,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+DEELMO,429,429.0,4.0,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Majestic Man,498,498.0,4.0,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+U TURN,377,377.0,3.7,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+NexaFlair,389,389.0,3.1,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Zombom,429,429.0,3.7,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+The Indian Garage Co,437,437.0,4.0,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Leriya Fashion,457,457.0,4.0,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Pinkmint,349,349.0,3.8,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+DEELMO,449,449.0,4.1,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Peter England,"1,059",1059.0,4.4,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Majestic Man,472,472.0,4.0,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Lymio,399,399.0,3.6,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Van Heusen,999,999.0,4.1,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Allen Solly,599,599.0,4.1,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+U.S. POLO ASSN.,"1,259",1259.0,4.2,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Allen Solly,899,899.0,3.7,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Allen Solly,899,899.0,3.9,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Hmkm,299,299.0,4.2,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+Allen Solly,899,899.0,3.7,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+DEELMO,429,429.0,4.1,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+U.S. POLO ASSN.,"1,259",1259.0,3.7,Amazon India,mens casual tshirt,2026-05-14 21:46:40
+The Indian Garage Co,519,519.0,3.8,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+The Indian Garage Co,499,499.0,3.6,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Urbano Fashion,649,649.0,3.7,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Urbano Fashion,599,599.0,3.7,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+London Hills,657,657.0,3.9,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Highlander,493,493.0,4.1,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Thomas Scott,529,529.0,3.9,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Ben Martin,799,799.0,3.6,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Highlander,555,555.0,3.8,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Peter England,999,999.0,4.0,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+London Hills,649,649.0,3.9,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Peter England,"1,059",1059.0,4.0,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Urbano Fashion,658,658.0,3.6,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Louis Philippe,"1,279",1279.0,4.0,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Levi's,"1,649",1649.0,3.9,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Peter England,"1,119",1119.0,4.0,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+The Indian Garage Co,519,519.0,4.0,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Urbano Fashion,686,686.0,3.6,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Peter England,989,989.0,4.0,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Pepe Jeans,"1,259",1259.0,4.0,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+GAP,"1,159",1159.0,4.3,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Louis Philippe,"1,419",1419.0,4.0,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Highlander,528,528.0,3.0,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Max,529,529.0,3.6,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
+Urbano Fashion,563,563.0,3.6,Amazon India,mens slim fit jeans,2026-05-14 21:47:59
