@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-AUSK,298,298.0,3.9,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-WILD ELEPHANT,359,359.0,3.5,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Peter England,791.,791.0,4.0,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Peter England,539.,539.0,4.0,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Lymio,449,449.0,4.5,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Mack Jonney,369,369.0,3.2,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-boffi ...,304,304.0,3.6,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Peter England,739,739.0,4.0,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-London Hills,399,399.0,4.1,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-GRECIILOOKS,549,549.0,4.9,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Allen Solly,699,699.0,4.1,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-XENOVAURBAN,"1,099",1099.0,4.3,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Louis Philippe,"1,160.",1160.0,4.2,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Lymio,449,449.0,3.3,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Lymio,749,749.0,3.5,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-STELLERS,799,799.0,4.1,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-London Hills,399,399.0,4.1,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-U.S. POLO ASSN.,"1,137",1137.0,4.3,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-DAMENSCH,748,748.0,3.9,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Louis Philippe,"1,160.",1160.0,4.2,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Symbol Premium,649,649.0,4.2,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Symbol Premium,599,599.0,4.4,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-STELLERS,949,949.0,4.0,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-GRECIILOOKS,549,549.0,5.0,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-JUARI BE A GENTLEMAN,292,292.0,4.1,Amazon India,mens premium tshirt,2026-05-22 21:44:53
-Max,179,179.0,3.9,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Max,199,199.0,,Amazon India,womens white tshirt,2026-05-22 21:45:48
-LOUIS ELORA,299,299.0,2.9,Amazon India,womens white tshirt,2026-05-22 21:45:48
-London Hills,299,299.0,4.0,Amazon India,womens white tshirt,2026-05-22 21:45:48
-JUNEBERRY,379,379.0,4.2,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Hangout Hub,299,299.0,3.8,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Jawdrobe,399,399.0,3.9,Amazon India,womens white tshirt,2026-05-22 21:45:48
-FYLTR,299,299.0,3.9,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Jockey,549,549.0,4.3,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Dream Beauty Fashion,208,208.0,3.9,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Max,399,399.0,4.0,Amazon India,womens white tshirt,2026-05-22 21:45:48
-TWIN BIRDS,299,299.0,4.6,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Dream Beauty Fashion,198,198.0,3.9,Amazon India,womens white tshirt,2026-05-22 21:45:48
-TQH,299,299.0,3.7,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Sundish,387,387.0,4.2,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Istyle Can,329,329.0,3.7,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Bewakoof,449,449.0,4.1,Amazon India,womens white tshirt,2026-05-22 21:45:48
-LOUIS ELORA,379,379.0,2.9,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Jockey,549,549.0,4.2,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Jockey,579,579.0,4.1,Amazon India,womens white tshirt,2026-05-22 21:45:48
-LOUIS ELORA,299,299.0,2.9,Amazon India,womens white tshirt,2026-05-22 21:45:48
-JUNEBERRY,399,399.0,3.9,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Max,349,349.0,3.6,Amazon India,womens white tshirt,2026-05-22 21:45:48
-Max,249,249.0,4.4,Amazon India,womens white tshirt,2026-05-22 21:45:48
-JUNEBERRY,379,379.0,4.2,Amazon India,womens white tshirt,2026-05-22 21:45:48
+LOUIS ELORA,299,299.0,2.9,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+Max,249,249.0,4.0,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+Reifica,699,699.0,4.2,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+London Hills,899,899.0,4.0,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+AUSK,291,291.0,3.8,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+LEOTUDE,579,579.0,3.9,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+Max,349,349.0,4.2,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+Max,249,249.0,3.9,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+AUSK,291,291.0,3.8,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+TQH,298,298.0,3.7,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+London Hills,599,599.0,4.0,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+Jawdrobe,399,399.0,3.9,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+LEOTUDE,299,299.0,3.2,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+London Hills,599,599.0,4.0,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+JUNEBERRY,349,349.0,4.1,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+Jawdrobe,399,399.0,4.1,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+LEOTUDE,296,296.0,4.0,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+London Hills,299,299.0,4.1,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+Max,349,349.0,4.2,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+London Hills,379,379.0,3.9,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+LEOTUDE,259,259.0,3.9,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+CHKOKKO,249,249.0,3.7,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+Max,299,299.0,4.4,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+Jockey,749,749.0,4.0,Amazon India,womens printed tshirt,2026-05-24 21:32:01
+London Hills,379,379.0,3.9,Amazon India,womens printed tshirt,2026-05-24 21:32:01
