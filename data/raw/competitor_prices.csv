@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-LEOTUDE,449,449.0,3.8,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-KOTTY,399,399.0,4.0,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-LEOTUDE,449,449.0,3.8,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-JUNEBERRY,399,399.0,4.1,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Mack Jonney,419,419.0,3.6,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Imsa Moda,473,473.0,3.8,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-LEOTUDE,448,448.0,3.8,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-DRAXSTAR,430,430.0,3.8,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-JUNEBERRY,499,499.0,3.8,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Mack Jonney,449,449.0,3.7,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-TAGAS,539,539.0,4.1,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-GAP,"1,335.",1335.0,,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-GAP,"1,249",1249.0,5.0,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Alan Jones Clothing,799,799.0,4.1,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Mack Jonney,366,366.0,3.5,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Boldfit,664,664.0,4.2,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-FUNKY MONKEY,699,699.0,4.1,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-TAGAS,639,639.0,4.0,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Celary,599,599.0,3.9,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Monte Carlo,"1,388",1388.0,4.8,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-PDKFASHIONS,426.,426.0,4.0,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Alan Jones Clothing,799,799.0,4.1,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Allen Solly,"1,093",1093.0,4.2,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-GRECIILOOKS,599,599.0,3.9,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-Alan Jones Clothing,849,849.0,4.1,Amazon India,womens sweatshirt,2026-05-25 21:47:57
-KLOSIA,799,799.0,4.2,Amazon India,womens dress,2026-05-25 21:48:38
-Nermosa,799,799.0,4.1,Amazon India,womens dress,2026-05-25 21:48:38
-Nermosa,799,799.0,4.5,Amazon India,womens dress,2026-05-25 21:48:38
-ANNI DESIGNER,499,499.0,3.5,Amazon India,womens dress,2026-05-25 21:48:38
-ANNI DESIGNER,499,499.0,4.0,Amazon India,womens dress,2026-05-25 21:48:38
-Modestouze Attires,698,698.0,4.2,Amazon India,womens dress,2026-05-25 21:48:38
-KLOSIA,799,799.0,3.9,Amazon India,womens dress,2026-05-25 21:48:38
-ANNI DESIGNER,499,499.0,3.7,Amazon India,womens dress,2026-05-25 21:48:38
-KLOSIA,699,699.0,4.5,Amazon India,womens dress,2026-05-25 21:48:38
-Generic,409,409.0,3.1,Amazon India,womens dress,2026-05-25 21:48:38
-ANNI DESIGNER,699,699.0,3.4,Amazon India,womens dress,2026-05-25 21:48:38
-ANNI DESIGNER,589,589.0,3.7,Amazon India,womens dress,2026-05-25 21:48:38
-ANNI DESIGNER,799,799.0,3.6,Amazon India,womens dress,2026-05-25 21:48:38
-KLOSIA,799,799.0,4.2,Amazon India,womens dress,2026-05-25 21:48:38
-Shasmi,599,599.0,4.4,Amazon India,womens dress,2026-05-25 21:48:38
-ANNI DESIGNER,799,799.0,3.4,Amazon India,womens dress,2026-05-25 21:48:38
-KLOSIA,579,579.0,4.4,Amazon India,womens dress,2026-05-25 21:48:38
-Shasmi,599,599.0,4.4,Amazon India,womens dress,2026-05-25 21:48:38
-Generic,299,299.0,2.7,Amazon India,womens dress,2026-05-25 21:48:38
-Shasmi,599,599.0,4.4,Amazon India,womens dress,2026-05-25 21:48:38
-Nermosa,799,799.0,4.2,Amazon India,womens dress,2026-05-25 21:48:38
-GoSriKi,699,699.0,3.9,Amazon India,womens dress,2026-05-25 21:48:38
-GoSriKi,799,799.0,2.8,Amazon India,womens dress,2026-05-25 21:48:38
-KLOSIA,799,799.0,4.2,Amazon India,womens dress,2026-05-25 21:48:38
-ANNI DESIGNER,799,799.0,3.6,Amazon India,womens dress,2026-05-25 21:48:38
+Max,198,198.0,4.1,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Allen Solly,699,699.0,4.1,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Van Heusen,341,341.0,4.1,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Lux Cozi,395,395.0,3.9,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Imsa Moda,299,299.0,4.0,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Levi's,449,449.0,4.1,Amazon India,mens black tshirt,2026-05-26 22:07:04
+NETCLICK,297,297.0,3.7,Amazon India,mens black tshirt,2026-05-26 22:07:04
+LEOTUDE,298,298.0,4.0,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens black tshirt,2026-05-26 22:07:04
+boffi ...,331,331.0,3.6,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Trillion,398,398.0,4.3,Amazon India,mens black tshirt,2026-05-26 22:07:04
+London Hills,249,249.0,3.7,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Van Heusen,659,659.0,4.0,Amazon India,mens black tshirt,2026-05-26 22:07:04
+KAJARU,348,348.0,4.0,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Louis Philippe,884,884.0,4.1,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Generic,149,149.0,3.6,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Jockey,536,536.0,4.2,Amazon India,mens black tshirt,2026-05-26 22:07:04
+VASTRADHAN,279,279.0,3.6,Amazon India,mens black tshirt,2026-05-26 22:07:04
+AUSK,349,349.0,3.7,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Lymio,399,399.0,3.6,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Peter England,629,629.0,4.1,Amazon India,mens black tshirt,2026-05-26 22:07:04
+JACK & JONES,559,559.0,3.7,Amazon India,mens black tshirt,2026-05-26 22:07:04
+CHKOKKO,349,349.0,3.8,Amazon India,mens black tshirt,2026-05-26 22:07:04
+COTFYNE,249,249.0,3.9,Amazon India,mens black tshirt,2026-05-26 22:07:04
+Amazon Brand - Symbol,399,399.0,4.0,Amazon India,mens black tshirt,2026-05-26 22:07:04
