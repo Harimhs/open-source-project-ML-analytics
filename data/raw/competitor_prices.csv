@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Max,178,178.0,4.1,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Levi's,395,395.0,4.1,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Lux Cozi,379,379.0,4.0,Amazon India,mens white tshirt,2026-06-02 22:36:06
-London Hills,225,225.0,3.7,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Trillion,379,379.0,3.4,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Lymio,419,419.0,3.4,Amazon India,mens white tshirt,2026-06-02 22:36:06
-INKKR,279,279.0,3.5,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Lux Cozi,380,380.0,3.9,Amazon India,mens white tshirt,2026-06-02 22:36:06
-London Hills,234,234.0,3.8,Amazon India,mens white tshirt,2026-06-02 22:36:06
-NETCLICK,296,296.0,3.7,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Louis Philippe,"1,099",1099.0,4.2,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Amazon Brand - Symbol,349,349.0,4.0,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Peter England,844,844.0,4.0,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Peter England,489,489.0,4.1,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Max,249,249.0,4.0,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Van Heusen,648,648.0,4.0,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Imsa Moda,284,284.0,4.1,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Jockey,379,379.0,4.1,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Van Heusen,428,428.0,4.1,Amazon India,mens white tshirt,2026-06-02 22:36:06
-TAGDO,479,479.0,4.0,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Leriya Fashion,420,420.0,4.0,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Jockey,536,536.0,4.2,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Veirdo,359,359.0,3.9,Amazon India,mens white tshirt,2026-06-02 22:36:06
-Louis Philippe,"1,638",1638.0,,Amazon India,mens white tshirt,2026-06-02 22:36:06
-London Hills,562,562.0,3.9,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-London Hills,562,562.0,3.9,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-AUSK,248,248.0,3.8,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-AUSK,243,243.0,3.8,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-London Hills,845,845.0,4.0,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-TQH,299,299.0,3.7,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-London Hills,356,356.0,4.0,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Max,201,201.0,3.9,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Sleepynuts,948,948.0,4.0,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Jawdrobe,399,399.0,3.9,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Sleepynuts,948,948.0,4.0,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Fabricorn,399,399.0,4.0,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-London Hills,649,649.0,4.1,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-London Hills,281,281.0,3.5,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Reifica,699,699.0,4.2,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Fabricorn,398,398.0,4.0,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-London Hills,561,561.0,3.9,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-KOTTY,219,219.0,4.0,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Sleepynuts,948,948.0,4.0,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Max,224,224.0,4.3,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-Allen Solly,502,502.0,3.4,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-London Hills,365,365.0,4.0,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-JUNEBERRY,379,379.0,3.9,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-JUNEBERRY,359,359.0,4.1,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
-U.S. POLO ASSN.,862,862.0,3.7,Amazon India,womens cotton tshirt,2026-06-02 22:36:56
+Max,178,178.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+NETCLICK,297,297.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Levi's,359,359.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+London Hills,249,249.0,3.7,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Max,198,198.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+LEOTUDE,268,268.0,3.7,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Jockey,579,579.0,4.2,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Sleepynuts,947,947.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Levi's,395,395.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+LEOTUDE,299,299.0,3.7,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Hangout Hub,199,199.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Jockey,509,509.0,4.2,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+XENOVAURBAN,"1,099",1099.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Levi's,395,395.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Leriya Fashion,679,679.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Amazon Brand - Symbol,799,799.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Graphicoart Design,349,349.0,3.9,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Van Heusen,479,479.0,4.2,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+LEOTUDE,848,848.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Amazon Brand - Symbol,349,349.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Sleepynuts,947,947.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+NAVYCUT USA,199,199.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+XENOVAURBAN,"1,099",1099.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+Imsa Moda,299,299.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54
+London Hills,849,849.0,3.9,Amazon India,mens plain tshirt,2026-06-05 21:57:54
