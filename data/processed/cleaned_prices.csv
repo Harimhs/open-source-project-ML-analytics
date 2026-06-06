@@ -1,26 +1,101 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Max,178,178.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Max,4.0,1,1,1,0,0,1,3,1,0,0,0,0,10,2
-NETCLICK,297,297.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54,NETCLICK,3.8,1,1,1,0,0,1,8,1,0,0,0,0,12,1
-Levi's,359,359.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Levi,4.1,1,1,1,0,0,1,6,1,0,0,0,0,8,3
-London Hills,249,249.0,3.7,Amazon India,mens plain tshirt,2026-06-05 21:57:54,London,3.7,1,1,1,0,0,1,12,2,0,0,0,0,9,2
-Max,198,198.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Max,4.0,1,1,1,0,0,1,3,1,0,0,0,0,10,2
-LEOTUDE,268,268.0,3.7,Amazon India,mens plain tshirt,2026-06-05 21:57:54,LEOTUDE,3.7,1,1,1,0,0,1,7,1,0,0,0,0,5,3
-Jockey,579,579.0,4.2,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Jockey,4.2,1,1,1,0,0,1,6,1,0,0,0,0,4,2
-Sleepynuts,947,947.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Lee,3.8,1,1,1,0,0,1,10,1,0,0,0,0,6,2
-Levi's,395,395.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Levi,4.1,1,1,1,0,0,1,6,1,0,0,0,0,8,3
-LEOTUDE,299,299.0,3.7,Amazon India,mens plain tshirt,2026-06-05 21:57:54,LEOTUDE,3.7,1,1,1,0,0,1,7,1,0,0,0,0,5,3
-Hangout Hub,199,199.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Hangout,3.8,1,1,1,0,0,1,11,2,0,0,0,0,2,1
-Jockey,509,509.0,4.2,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Jockey,4.2,1,1,1,0,0,1,6,1,0,0,0,0,4,2
-XENOVAURBAN,"1,099",1099.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Urban,4.1,1,1,1,0,0,1,11,1,0,0,0,0,13,2
-Levi's,395,395.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Levi,4.1,1,1,1,0,0,1,6,1,0,0,0,0,8,3
-Leriya Fashion,679,679.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Leriya,4.0,1,1,1,0,0,1,14,2,0,0,0,0,7,1
-Amazon Brand - Symbol,799,799.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Amazon,4.0,1,1,1,0,0,1,21,4,0,0,0,0,0,2
-Graphicoart Design,349,349.0,3.9,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Graphicoart,3.9,1,1,1,0,0,1,18,2,0,0,0,0,1,1
-Van Heusen,479,479.0,4.2,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Van Heusen,4.2,1,1,1,0,0,1,10,2,0,0,0,0,14,1
-LEOTUDE,848,848.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54,LEOTUDE,3.8,1,1,1,0,0,1,7,1,0,0,0,0,5,3
-Amazon Brand - Symbol,349,349.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Amazon,4.0,1,1,1,0,0,1,21,4,0,0,0,0,0,2
-Sleepynuts,947,947.0,3.8,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Lee,3.8,1,1,1,0,0,1,10,1,0,0,0,0,6,2
-NAVYCUT USA,199,199.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54,NAVYCUT,4.0,1,1,1,0,0,1,11,2,0,0,0,0,11,1
-XENOVAURBAN,"1,099",1099.0,4.1,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Urban,4.1,1,1,1,0,0,1,11,1,0,0,0,0,13,2
-Imsa Moda,299,299.0,4.0,Amazon India,mens plain tshirt,2026-06-05 21:57:54,Imsa,4.0,1,1,1,0,0,1,9,2,0,0,0,0,3,1
-London Hills,849,849.0,3.9,Amazon India,mens plain tshirt,2026-06-05 21:57:54,London,3.9,1,1,1,0,0,1,12,2,0,0,0,0,9,2
+Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,2,1,12
+AUSK,251,251.0,4.3,Amazon India,mens polo tshirt,2026-06-06 21:38:34,AUSK,4.3,1,1,1,0,0,0,4,1,0,0,0,2,0,2
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Amazon,3.9,1,1,1,0,0,0,21,4,0,0,0,2,2,2
+Peter England,599,599.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,2,32,7
+Allen Solly,659,659.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,2,1,12
+Peter England,545,545.0,4.2,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Peter,4.2,1,1,1,0,0,0,13,2,0,0,0,2,32,7
+Max,349,349.0,4.2,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Max,4.2,1,1,1,0,0,0,3,1,0,0,0,2,28,4
+Lux Cozi,379,379.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,2,23,5
+Noble Monk,450,450.0,3.8,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Noble,3.8,1,1,1,0,0,0,10,2,0,0,0,2,30,2
+Lymio,447,447.0,3.4,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,2,24,7
+Van Heusen,642,642.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,2,38,4
+Peter England,714,714.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,2,32,7
+Louis Philippe,779,779.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,2,22,5
+Louis Philippe,876,876.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,2,22,5
+Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,2,1,12
+KAJARU,279,279.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34,KAJARU,4.1,1,1,1,0,0,0,6,1,0,0,0,2,17,1
+Lymio,479,479.0,2.9,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Lymio,2.9,1,1,1,0,0,0,5,1,0,0,0,2,24,7
+Van Heusen,648,648.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,2,38,4
+Allen Solly,899,899.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,2,1,12
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Amazon,3.9,1,1,1,0,0,0,21,4,0,0,0,2,2,2
+London Hills,399,399.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,London,4.0,1,1,1,0,0,0,12,2,0,0,0,2,21,2
+Mack Jonney,369,369.0,3.4,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Mack,3.4,1,1,1,0,0,0,11,2,0,0,0,2,26,4
+Peter England,791.,791.0,4.2,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Peter,4.2,1,1,1,0,0,0,13,2,0,0,0,2,32,7
+GRECIILOOKS,549,549.0,5.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,GRECIILOOKS,5.0,1,1,1,0,0,0,11,1,0,0,0,2,10,2
+Van Heusen,583,583.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,2,38,4
+Lux Cozi,395,395.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,1,23,5
+Allen Solly,699,699.0,4.1,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,1,1,12
+BULLMER,489,489.0,3.6,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,BULLMER,3.6,1,1,1,0,0,0,7,1,0,0,0,1,3,1
+Sleepynuts,999,999.0,3.8,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Lee,3.8,1,1,1,0,0,0,10,1,0,0,0,1,19,1
+Max,199,199.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,1,28,4
+Lymio,429,429.0,2.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Lymio,2.9,1,1,1,0,0,0,5,1,0,0,0,1,24,7
+JUGULAR,399,399.0,3.8,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,JUGULAR,3.8,1,1,1,0,0,0,7,1,0,0,0,1,13,1
+Peter England,599,599.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,1,32,7
+Max,198,198.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,1,28,4
+WILD ELEPHANT,259,259.0,3.3,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,WILD,3.3,1,1,1,0,0,0,13,2,0,0,0,1,39,1
+AUSK,251,251.0,3.4,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,1,0,2
+London Hills,499,499.0,3.8,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,London,3.8,1,1,1,0,0,0,12,2,0,0,0,1,21,2
+Lymio,409,409.0,3.6,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Lymio,3.6,1,1,1,0,0,0,5,1,0,0,0,1,24,7
+Lux Cozi,335,335.0,3.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Lux,3.9,1,1,1,0,0,0,8,2,0,0,0,1,23,5
+Lux Cozi,379,379.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,1,23,5
+Louis Philippe,779,779.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,1,22,5
+Louis Philippe,"1,059",1059.0,4.1,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Louis,4.1,1,1,1,0,0,0,14,2,0,0,0,1,22,5
+Lux Cozi,372,372.0,3.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Lux,3.9,1,1,1,0,0,0,8,2,0,0,0,1,23,5
+Levi's,359,359.0,4.1,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Levi,4.1,1,1,1,0,0,0,6,1,0,0,0,1,20,1
+U.S. POLO ASSN.,426,426.0,3.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Polo,3.9,1,1,1,0,0,0,15,3,0,0,0,1,33,5
+boffi ...,331,331.0,3.5,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,boffi,3.5,1,1,1,0,0,0,9,2,0,0,0,1,41,1
+LEOTUDE,298,298.0,3.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,LEOTUDE,3.9,1,1,1,0,0,0,7,1,0,0,0,1,18,2
+SIDE UP,299,299.0,3.7,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,SIDE,3.7,1,1,1,0,0,0,7,2,0,0,0,1,34,1
+Peter England,714,714.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,1,32,7
+Van Heusen,642,642.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,1,38,4
+Mack Jonney,449,449.0,3.5,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Mack,3.5,1,1,1,0,0,0,11,2,0,0,0,3,26,4
+Mack Jonney,419,419.0,3.5,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Mack,3.5,1,1,1,0,0,0,11,2,0,0,0,3,26,4
+JVX,599,599.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28,JVX,3.9,1,1,1,0,0,0,3,1,0,0,0,3,14,1
+Imsa Moda,473,473.0,3.6,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Imsa,3.6,1,1,1,0,0,0,9,2,0,0,0,3,12,1
+Max,552,552.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,3,28,4
+Trillion,449,449.0,3.8,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Trillion,3.8,1,1,1,0,0,0,8,1,0,0,0,3,36,1
+Noble Monk,529,529.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Noble,3.9,1,1,1,0,0,0,10,2,0,0,0,3,30,2
+Lymio,559,559.0,3.8,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Lymio,3.8,1,1,1,0,0,0,5,1,0,0,0,3,24,7
+Allen Solly,674,674.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,3,1,12
+GRECIILOOKS,479,479.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28,GRECIILOOKS,4.0,1,1,1,0,0,0,11,1,0,0,0,3,10,2
+FN3,449,449.0,3.6,Amazon India,mens sweatshirt,2026-06-06 21:40:28,FN3,3.6,1,1,1,0,0,0,3,1,0,0,0,3,9,1
+Allen Solly,816.,816.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,3,1,12
+Park Avenue,960,960.0,4.1,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Park,4.1,1,1,1,0,0,0,11,2,0,0,0,3,31,2
+Lymio,659,659.0,3.4,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,3,24,7
+Alan Jones Clothing,553,553.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Jones,3.9,1,1,1,0,0,0,19,3,0,0,0,3,15,1
+Jump Cuts,399,399.0,3.6,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Jump,3.6,1,1,1,0,0,0,9,2,0,0,0,3,16,1
+U.S. POLO ASSN.,550,550.0,3.8,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,3,33,5
+Mack Jonney,399,399.0,3.7,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Mack,3.7,1,1,1,0,0,0,11,2,0,0,0,3,26,4
+Enitor,599,599.0,4.2,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Enitor,4.2,1,1,1,0,0,0,6,1,0,0,0,3,8,1
+Allen Solly,"1,134",1134.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Allen,3.9,1,1,1,0,0,0,11,2,0,0,0,3,1,12
+LEOTUDE,449,449.0,3.8,Amazon India,mens sweatshirt,2026-06-06 21:40:28,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,3,18,2
+Celary,579,579.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Celary,4.0,1,1,1,0,0,0,6,1,0,0,0,3,6,1
+Park Avenue,960,960.0,4.1,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Park,4.1,1,1,1,0,0,0,11,2,0,0,0,3,31,2
+Allen Solly,675,675.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,3,1,12
+Boldfit,649,649.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28,Boldfit,3.9,1,1,1,0,0,0,7,1,0,0,0,3,4,1
+U TURN,398,398.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52,U,3.7,1,0,1,0,0,0,6,2,0,0,0,0,37,3
+DEELMO,461,461.0,4.1,Amazon India,mens casual shirts,2026-06-06 21:40:52,DEELMO,4.1,1,0,1,0,0,0,6,1,0,0,0,0,7,3
+CB-COLEBROOK,495,495.0,3.6,Amazon India,mens casual shirts,2026-06-06 21:40:52,CB-COLEBROOK,3.6,1,0,1,0,0,0,12,1,0,0,0,0,5,1
+The Indian Garage Co,419,419.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52,The,3.9,1,0,1,0,0,0,20,4,0,0,0,0,35,3
+DEELMO,499,499.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52,DEELMO,3.9,1,0,1,0,0,0,6,1,0,0,0,0,7,3
+The Indian Garage Co,402,402.0,3.8,Amazon India,mens casual shirts,2026-06-06 21:40:52,The,3.8,1,0,1,0,0,0,20,4,0,0,0,0,35,3
+Highlander,468,468.0,4.1,Amazon India,mens casual shirts,2026-06-06 21:40:52,Highlander,4.1,1,0,1,0,0,0,10,1,0,0,0,0,11,1
+Zombom,499,499.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52,Zombom,3.7,1,0,1,0,0,0,6,1,0,0,0,0,40,1
+NexaFlair,469,469.0,3.1,Amazon India,mens casual shirts,2026-06-06 21:40:52,NexaFlair,3.1,1,0,1,0,0,0,9,1,0,0,0,0,29,1
+U TURN,398,398.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52,U,3.7,1,0,1,0,0,0,6,2,0,0,0,0,37,3
+MADHAVISTA,499,499.0,3.8,Amazon India,mens casual shirts,2026-06-06 21:40:52,MADHAVISTA,3.8,1,0,1,0,0,0,10,1,0,0,0,0,25,1
+Majestic Man,472,472.0,4.0,Amazon India,mens casual shirts,2026-06-06 21:40:52,Majestic,4.0,1,0,1,0,0,0,12,2,0,0,0,0,27,2
+U.S. POLO ASSN.,"1,649",1649.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52,Polo,3.9,1,0,1,0,0,0,15,3,0,0,0,0,33,5
+Allen Solly,699,699.0,4.1,Amazon India,mens casual shirts,2026-06-06 21:40:52,Allen,4.1,1,0,1,0,0,0,11,2,0,0,0,0,1,12
+Majestic Man,472,472.0,4.2,Amazon India,mens casual shirts,2026-06-06 21:40:52,Majestic,4.2,1,0,1,0,0,0,12,2,0,0,0,0,27,2
+Peter England,"1,169",1169.0,4.4,Amazon India,mens casual shirts,2026-06-06 21:40:52,Peter,4.4,1,0,1,0,0,0,13,2,0,0,0,0,32,7
+DEELMO,462,462.0,4.1,Amazon India,mens casual shirts,2026-06-06 21:40:52,DEELMO,4.1,1,0,1,0,0,0,6,1,0,0,0,0,7,3
+Lymio,429,429.0,3.6,Amazon India,mens casual shirts,2026-06-06 21:40:52,Lymio,3.6,1,0,1,0,0,0,5,1,0,0,0,0,24,7
+The Indian Garage Co,402,402.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52,The,3.9,1,0,1,0,0,0,20,4,0,0,0,0,35,3
+Allen Solly,"1,129",1129.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52,Allen,3.7,1,0,1,0,0,0,11,2,0,0,0,0,1,12
+U TURN,428,428.0,3.8,Amazon India,mens casual shirts,2026-06-06 21:40:52,U,3.8,1,0,1,0,0,0,6,2,0,0,0,0,37,3
+U.S. POLO ASSN.,"1,594",1594.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52,Polo,3.7,1,0,1,0,0,0,15,3,0,0,0,0,33,5
+Allen Solly,"1,099",1099.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52,Allen,3.7,1,0,1,0,0,0,11,2,0,0,0,0,1,12
+U.S. POLO ASSN.,"1,374",1374.0,4.2,Amazon India,mens casual shirts,2026-06-06 21:40:52,Polo,4.2,1,0,1,0,0,0,15,3,0,0,0,0,33,5
+Louis Philippe,"1,289",1289.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52,Louis,3.9,1,0,1,0,0,0,14,2,0,0,0,0,22,5
