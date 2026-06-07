@@ -1,101 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-AUSK,251,251.0,4.3,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Peter England,599,599.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Allen Solly,659,659.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Peter England,545,545.0,4.2,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Max,349,349.0,4.2,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Lux Cozi,379,379.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Noble Monk,450,450.0,3.8,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Lymio,447,447.0,3.4,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Van Heusen,642,642.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Peter England,714,714.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Louis Philippe,779,779.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Louis Philippe,876,876.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-KAJARU,279,279.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Lymio,479,479.0,2.9,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Van Heusen,648,648.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Allen Solly,899,899.0,4.1,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-London Hills,399,399.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Mack Jonney,369,369.0,3.4,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Peter England,791.,791.0,4.2,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-GRECIILOOKS,549,549.0,5.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Van Heusen,583,583.0,4.0,Amazon India,mens polo tshirt,2026-06-06 21:38:34
-Lux Cozi,395,395.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Allen Solly,699,699.0,4.1,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-BULLMER,489,489.0,3.6,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Sleepynuts,999,999.0,3.8,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Max,199,199.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Lymio,429,429.0,2.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-JUGULAR,399,399.0,3.8,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Peter England,599,599.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Max,198,198.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-WILD ELEPHANT,259,259.0,3.3,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-AUSK,251,251.0,3.4,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-London Hills,499,499.0,3.8,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Lymio,409,409.0,3.6,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Lux Cozi,335,335.0,3.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Lux Cozi,379,379.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Louis Philippe,779,779.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Louis Philippe,"1,059",1059.0,4.1,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Lux Cozi,372,372.0,3.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Levi's,359,359.0,4.1,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-U.S. POLO ASSN.,426,426.0,3.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-boffi ...,331,331.0,3.5,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-LEOTUDE,298,298.0,3.9,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-SIDE UP,299,299.0,3.7,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Peter England,714,714.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Van Heusen,642,642.0,4.0,Amazon India,mens cotton tshirt,2026-06-06 21:38:58
-Mack Jonney,449,449.0,3.5,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Mack Jonney,419,419.0,3.5,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-JVX,599,599.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Imsa Moda,473,473.0,3.6,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Max,552,552.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Trillion,449,449.0,3.8,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Noble Monk,529,529.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Lymio,559,559.0,3.8,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Allen Solly,674,674.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-GRECIILOOKS,479,479.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-FN3,449,449.0,3.6,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Allen Solly,816.,816.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Park Avenue,960,960.0,4.1,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Lymio,659,659.0,3.4,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Alan Jones Clothing,553,553.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Jump Cuts,399,399.0,3.6,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-U.S. POLO ASSN.,550,550.0,3.8,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Mack Jonney,399,399.0,3.7,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Enitor,599,599.0,4.2,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Allen Solly,"1,134",1134.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-LEOTUDE,449,449.0,3.8,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Celary,579,579.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Park Avenue,960,960.0,4.1,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Allen Solly,675,675.0,4.0,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-Boldfit,649,649.0,3.9,Amazon India,mens sweatshirt,2026-06-06 21:40:28
-U TURN,398,398.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52
-DEELMO,461,461.0,4.1,Amazon India,mens casual shirts,2026-06-06 21:40:52
-CB-COLEBROOK,495,495.0,3.6,Amazon India,mens casual shirts,2026-06-06 21:40:52
-The Indian Garage Co,419,419.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52
-DEELMO,499,499.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52
-The Indian Garage Co,402,402.0,3.8,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Highlander,468,468.0,4.1,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Zombom,499,499.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52
-NexaFlair,469,469.0,3.1,Amazon India,mens casual shirts,2026-06-06 21:40:52
-U TURN,398,398.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52
-MADHAVISTA,499,499.0,3.8,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Majestic Man,472,472.0,4.0,Amazon India,mens casual shirts,2026-06-06 21:40:52
-U.S. POLO ASSN.,"1,649",1649.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Allen Solly,699,699.0,4.1,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Majestic Man,472,472.0,4.2,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Peter England,"1,169",1169.0,4.4,Amazon India,mens casual shirts,2026-06-06 21:40:52
-DEELMO,462,462.0,4.1,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Lymio,429,429.0,3.6,Amazon India,mens casual shirts,2026-06-06 21:40:52
-The Indian Garage Co,402,402.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Allen Solly,"1,129",1129.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52
-U TURN,428,428.0,3.8,Amazon India,mens casual shirts,2026-06-06 21:40:52
-U.S. POLO ASSN.,"1,594",1594.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Allen Solly,"1,099",1099.0,3.7,Amazon India,mens casual shirts,2026-06-06 21:40:52
-U.S. POLO ASSN.,"1,374",1374.0,4.2,Amazon India,mens casual shirts,2026-06-06 21:40:52
-Louis Philippe,"1,289",1289.0,3.9,Amazon India,mens casual shirts,2026-06-06 21:40:52
+Blisstone,299,299.0,3.7,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+MOORDALE,299,299.0,3.6,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Blisstone,299,299.0,3.8,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+AKASH GARMENTS,299,299.0,2.5,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+U.S. POLO ASSN.,398,398.0,3.9,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Veirdo,379,379.0,,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+TreadDown,497,497.0,3.8,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+U.S. POLO ASSN.,426,426.0,3.9,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+THE BLAZZE,473,473.0,3.7,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+TAGDO,399,399.0,4.0,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Levi's,460,460.0,4.1,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+TAGDO,399,399.0,4.0,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Van Heusen,483,483.0,4.0,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Levi's,454,454.0,4.1,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Aventura Outfitters,"1,299",1299.0,4.0,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+FLEXIMAA,299,299.0,4.0,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+U.S. POLO ASSN.,517,517.0,3.9,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+JANGOBOY,284,284.0,3.8,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+JANGOBOY,934,934.0,3.4,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+Leriya Fashion,679,679.0,4.0,Amazon India,mens v neck tshirt,2026-06-07 21:45:50
+KOTTY,399,399.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
+Nifty,667,667.0,3.7,Amazon India,womens jeans,2026-06-07 21:47:52
+U.S. POLO ASSN.,"1,319",1319.0,4.1,Amazon India,womens jeans,2026-06-07 21:47:52
+Generic,499,499.0,3.7,Amazon India,womens jeans,2026-06-07 21:47:52
+Nifty,729,729.0,3.7,Amazon India,womens jeans,2026-06-07 21:47:52
+Nifty,488,488.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
+London Hills,749,749.0,4.0,Amazon India,womens jeans,2026-06-07 21:47:52
+Nifty,488,488.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
+TAGAS,769,769.0,3.7,Amazon India,womens jeans,2026-06-07 21:47:52
+Ben Martin,849,849.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
+Giggle star,300,300.0,4.0,Amazon India,womens jeans,2026-06-07 21:47:52
+KOTTY,458,458.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
+Levi's,"2,309",2309.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
+Nifty,478,478.0,4.2,Amazon India,womens jeans,2026-06-07 21:47:52
+KOTTY,400,400.0,4.1,Amazon India,womens jeans,2026-06-07 21:47:52
+Nifty,670,670.0,3.7,Amazon India,womens jeans,2026-06-07 21:47:52
+London Hills,749,749.0,4.0,Amazon India,womens jeans,2026-06-07 21:47:52
+U.S. POLO ASSN.,"1,510",1510.0,4.4,Amazon India,womens jeans,2026-06-07 21:47:52
+Nifty,496,496.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
+KOTTY,520,520.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
+KOTTY,425,425.0,3.9,Amazon India,womens jeans,2026-06-07 21:47:52
+KOTTY,419,419.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
+GRECIILOOKS,709,709.0,3.9,Amazon India,womens jeans,2026-06-07 21:47:52
+Max,552,552.0,4.0,Amazon India,womens jeans,2026-06-07 21:47:52
+Levi's,"1,623",1623.0,3.8,Amazon India,womens jeans,2026-06-07 21:47:52
