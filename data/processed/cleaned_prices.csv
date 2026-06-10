@@ -1,26 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Allen Solly,629.,629.0,4.1,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,4
-AUSK,251,251.0,4.3,Amazon India,mens polo tshirt,2026-06-09 22:08:08,AUSK,4.3,1,1,1,0,0,0,4,1,0,0,0,0,0,1
-Amazon Brand - Symbol,449,449.0,3.9,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Amazon,3.9,1,1,1,0,0,0,21,4,0,0,0,0,2,2
-KAJARU,279,279.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,KAJARU,4.0,1,1,1,0,0,0,6,1,0,0,0,0,4,1
-Van Heusen,582,582.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,11,4
-Van Heusen,642,642.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,11,4
-Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,4
-Peter England,549,549.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,0,10,3
-Louis Philippe,"1,099",1099.0,4.1,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Louis,4.1,1,1,1,0,0,0,14,2,0,0,0,0,6,2
-Peter England,599,599.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,0,10,3
-Lymio,447,447.0,3.4,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,0,8,3
-London Hills,399,399.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,London,4.0,1,1,1,0,0,0,12,2,0,0,0,0,5,1
-Lux Cozi,395,395.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,0,7,1
-Allen Solly,899,899.0,4.1,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,4
-XYXX,599,599.0,3.8,Amazon India,mens polo tshirt,2026-06-09 22:08:08,XYXX,3.8,1,1,1,0,0,0,4,1,0,0,0,0,12,1
-Max,349,349.0,4.3,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Max,4.3,1,1,1,0,0,0,3,1,0,0,0,0,9,1
-Van Heusen,629.,629.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,11,4
-Lymio,480,480.0,3.6,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Lymio,3.6,1,1,1,0,0,0,5,1,0,0,0,0,8,3
-Peter England,584,584.0,4.1,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Peter,4.1,1,1,1,0,0,0,13,2,0,0,0,0,10,3
-Amazon Brand - Symbol,449,449.0,3.9,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Amazon,3.9,1,1,1,0,0,0,21,4,0,0,0,0,2,2
-Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,4
-Lymio,503,503.0,3.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Lymio,3.0,1,1,1,0,0,0,5,1,0,0,0,0,8,3
-Van Heusen,648,648.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,11,4
-DYRECTDEALS,249,249.0,3.5,Amazon India,mens polo tshirt,2026-06-09 22:08:08,DYRECTDEALS,3.5,1,1,1,0,0,0,11,1,0,0,0,0,3,1
-Louis Philippe,969,969.0,4.0,Amazon India,mens polo tshirt,2026-06-09 22:08:08,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,0,6,2
+Max,249,249.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Max,4.1,1,1,1,1,1,0,3,1,0,0,0,0,8,7
+AUSK,248,248.0,3.8,Amazon India,womens printed tshirt,2026-06-10 22:28:39,AUSK,3.8,1,1,1,1,1,0,4,1,0,0,0,0,0,2
+London Hills,899,899.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39,London,4.1,1,1,1,1,1,0,12,2,0,0,0,0,7,3
+Max,349,349.0,4.2,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Max,4.2,1,1,1,1,1,0,3,1,0,0,0,0,8,7
+TQH,243,243.0,3.7,Amazon India,womens printed tshirt,2026-06-10 22:28:39,TQH,3.7,1,1,1,1,1,0,3,1,0,0,0,0,9,2
+LOUIS ELORA,284,284.0,3.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39,LOUIS,3.1,1,1,1,1,1,0,11,2,0,0,0,0,6,1
+LEOTUDE,299,299.0,3.3,Amazon India,womens printed tshirt,2026-06-10 22:28:39,LEOTUDE,3.3,1,1,1,1,1,0,7,1,0,0,0,0,5,3
+Max,249,249.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Max,3.9,1,1,1,1,1,0,3,1,0,0,0,0,8,7
+Max,349,349.0,4.2,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Max,4.2,1,1,1,1,1,0,3,1,0,0,0,0,8,7
+Jawdrobe,341,341.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Jawdrobe,3.9,1,1,1,1,1,0,8,1,0,0,0,0,4,3
+Imsa Moda,299,299.0,4.3,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Imsa,4.3,1,1,1,1,1,0,9,2,0,0,0,0,2,2
+AUSK,238,238.0,3.8,Amazon India,womens printed tshirt,2026-06-10 22:28:39,AUSK,3.8,1,1,1,1,1,0,4,1,0,0,0,0,0,2
+TQH,299,299.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39,TQH,3.9,1,1,1,1,1,0,3,1,0,0,0,0,9,2
+London Hills,379,379.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39,London,4.1,1,1,1,1,1,0,12,2,0,0,0,0,7,3
+London Hills,599,599.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39,London,3.9,1,1,1,1,1,0,12,2,0,0,0,0,7,3
+Max,499,499.0,4.2,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Max,4.2,1,1,1,1,1,0,3,1,0,0,0,0,8,7
+Imsa Moda,299,299.0,4.3,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Imsa,4.3,1,1,1,1,1,0,9,2,0,0,0,0,2,2
+Max,349,349.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Max,4.1,1,1,1,1,1,0,3,1,0,0,0,0,8,7
+LEOTUDE,298,298.0,3.8,Amazon India,womens printed tshirt,2026-06-10 22:28:39,LEOTUDE,3.8,1,1,1,1,1,0,7,1,0,0,0,0,5,3
+JUNEBERRY,349,349.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39,JUNEBERRY,4.1,1,1,1,1,1,0,9,1,0,0,0,0,3,1
+LEOTUDE,296,296.0,4.0,Amazon India,womens printed tshirt,2026-06-10 22:28:39,LEOTUDE,4.0,1,1,1,1,1,0,7,1,0,0,0,0,5,3
+Jawdrobe,399,399.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Jawdrobe,4.1,1,1,1,1,1,0,8,1,0,0,0,0,4,3
+Jawdrobe,399,399.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Jawdrobe,3.9,1,1,1,1,1,0,8,1,0,0,0,0,4,3
+Max,222,222.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39,Max,3.9,1,1,1,1,1,0,3,1,0,0,0,0,8,7
+CHKOKKO,298,298.0,3.8,Amazon India,womens printed tshirt,2026-06-10 22:28:39,CHKOKKO,3.8,1,1,1,1,1,0,7,1,0,0,0,0,1,1
