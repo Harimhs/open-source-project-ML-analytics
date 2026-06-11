@@ -1,26 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Max,249,249.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-AUSK,248,248.0,3.8,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-London Hills,899,899.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Max,349,349.0,4.2,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-TQH,243,243.0,3.7,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-LOUIS ELORA,284,284.0,3.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-LEOTUDE,299,299.0,3.3,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Max,249,249.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Max,349,349.0,4.2,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Jawdrobe,341,341.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Imsa Moda,299,299.0,4.3,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-AUSK,238,238.0,3.8,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-TQH,299,299.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-London Hills,379,379.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-London Hills,599,599.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Max,499,499.0,4.2,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Imsa Moda,299,299.0,4.3,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Max,349,349.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-LEOTUDE,298,298.0,3.8,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-JUNEBERRY,349,349.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-LEOTUDE,296,296.0,4.0,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Jawdrobe,399,399.0,4.1,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Jawdrobe,399,399.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-Max,222,222.0,3.9,Amazon India,womens printed tshirt,2026-06-10 22:28:39
-CHKOKKO,298,298.0,3.8,Amazon India,womens printed tshirt,2026-06-10 22:28:39
+Max,199,199.0,4.0,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Lux Cozi,395,395.0,4.0,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Lymio,447,447.0,3.4,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Levi's,395,395.0,4.1,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Trillion,379,379.0,3.4,Amazon India,mens white tshirt,2026-06-11 22:23:42
+INKKR,279,279.0,3.5,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Louis Philippe,"1,099",1099.0,4.1,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Van Heusen,648,648.0,4.0,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Peter England,516,516.0,4.0,Amazon India,mens white tshirt,2026-06-11 22:23:42
+RF RAVES,313,313.0,3.8,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Lux Cozi,380,380.0,3.9,Amazon India,mens white tshirt,2026-06-11 22:23:42
+London Hills,249,249.0,3.7,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Peter England,649,649.0,4.1,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Jockey,379,379.0,4.1,Amazon India,mens white tshirt,2026-06-11 22:23:42
+London Hills,249,249.0,3.8,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Louis Philippe,969,969.0,4.0,Amazon India,mens white tshirt,2026-06-11 22:23:42
+NETCLICK,297,297.0,3.7,Amazon India,mens white tshirt,2026-06-11 22:23:42
+TAGDO,399,399.0,4.0,Amazon India,mens white tshirt,2026-06-11 22:23:42
+NETCLICK,329,329.0,3.8,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Imsa Moda,299,299.0,4.0,Amazon India,mens white tshirt,2026-06-11 22:23:42
+AUSK,251,251.0,4.2,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Jockey,579,579.0,4.2,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Van Heusen,476,476.0,4.2,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Leriya Fashion,449,449.0,4.0,Amazon India,mens white tshirt,2026-06-11 22:23:42
+Bounce Back Apparels,299,299.0,4.7,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Fabricorn,978,978.0,4.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Amazon Brand - Symbol,479,479.0,4.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+FLEXIMAA,399,399.0,3.7,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+JUNEBERRY,378,378.0,3.9,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Amazon Brand - Symbol,479,479.0,4.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+JUNEBERRY,378,378.0,3.9,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Jockey,549,549.0,4.2,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+AUSK,247,247.0,3.8,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+RodZen,331,331.0,3.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Dream Beauty Fashion,343,343.0,4.1,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Fabricorn,358,358.0,4.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+JUNEBERRY,378,378.0,3.9,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Fabricorn,429,429.0,3.7,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Max,177,177.0,4.2,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+UZARUS,499,499.0,3.3,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Amazon Brand - Symbol,479,479.0,4.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Jockey,549,549.0,4.2,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Jockey,649,649.0,4.2,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Fabricorn,698,698.0,4.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+FLEXIMAA,599,599.0,4.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Generic,299,299.0,3.7,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+FLEXIMAA,269,269.0,3.9,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+Fabricorn,373,373.0,4.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
+RodZen,331,331.0,3.0,Amazon India,womens v neck tshirt,2026-06-11 22:24:52
