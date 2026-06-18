@@ -1,26 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-boffi ...,331.0,331.0,3.5,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,boffi,3.5,1,1,1,0,0,0,9,2,0,0,0,0,9,3
-AUSK,279.0,279.0,3.3,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,AUSK,3.3,1,1,1,0,0,0,4,1,0,0,0,0,0,3
-boffi ...,304.0,304.0,3.5,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,boffi,3.5,1,1,1,0,0,0,9,2,0,0,0,0,9,3
-LEOTUDE,298.0,298.0,3.9,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,LEOTUDE,3.9,1,1,1,0,0,0,7,1,0,0,0,0,4,7
-AUSK,225.0,225.0,3.9,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,AUSK,3.9,1,1,1,0,0,0,4,1,0,0,0,0,0,3
-LEOTUDE,798.0,798.0,3.8,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,4,7
-boffi ...,350.0,350.0,3.5,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,boffi,3.5,1,1,1,0,0,0,9,2,0,0,0,0,9,3
-JACK & JONES,844.0,844.0,3.9,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,Jack,3.9,1,1,1,0,0,0,12,3,0,0,0,0,3,1
-LEOTUDE,298.0,298.0,4.0,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,4,7
-LEOTUDE,298.0,298.0,3.8,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,4,7
-Veirdo,899.0,899.0,3.9,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,Veirdo,3.9,1,1,1,0,0,0,6,1,0,0,0,0,8,2
-BARKEYO,379.0,379.0,4.0,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,BARKEYO,4.0,1,1,1,0,0,0,7,1,0,0,0,0,1,1
-LEOTUDE,298.0,298.0,4.0,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,4,7
-LEOTUDE,298.0,298.0,3.8,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,4,7
-CrazyBee,329.0,329.0,3.5,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,CrazyBee,3.5,1,1,1,0,0,0,8,1,0,0,0,0,2,1
-LEOTUDE,298.0,298.0,4.0,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,4,7
-SHODOX,439.0,439.0,3.8,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,SHODOX,3.8,1,1,1,0,0,0,6,1,0,0,0,0,6,3
-Spykar,616.0,616.0,5.0,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,Spykar,5.0,1,1,1,0,0,0,6,1,0,0,0,0,7,1
-NOBERO,499.0,499.0,4.0,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,NOBERO,4.0,1,1,1,0,0,0,6,1,0,0,0,0,5,3
-SHODOX,439.0,439.0,3.8,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,SHODOX,3.8,1,1,1,0,0,0,6,1,0,0,0,0,6,3
-AUSK,279.0,279.0,4.2,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,AUSK,4.2,1,1,1,0,0,0,4,1,0,0,0,0,0,3
-SHODOX,439.0,439.0,3.8,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,SHODOX,3.8,1,1,1,0,0,0,6,1,0,0,0,0,6,3
-NOBERO,499.0,499.0,4.1,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,NOBERO,4.1,1,1,1,0,0,0,6,1,0,0,0,0,5,3
-Veirdo,379.0,379.0,3.9,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,Veirdo,3.9,1,1,1,0,0,0,6,1,0,0,0,0,8,2
-NOBERO,499.0,499.0,4.0,Amazon India,mens oversized tshirt,2026-06-17 22:21:42,NOBERO,4.0,1,1,1,0,0,0,6,1,0,0,0,0,5,3
+U TURN,398,398.0,3.6,Amazon India,mens casual shirts,2026-06-18 22:33:02,U,3.6,1,0,1,0,0,0,6,2,0,0,0,0,13,2
+U TURN,398,398.0,3.6,Amazon India,mens casual shirts,2026-06-18 22:33:02,U,3.6,1,0,1,0,0,0,6,2,0,0,0,0,13,2
+CB-COLEBROOK,495,495.0,3.6,Amazon India,mens casual shirts,2026-06-18 22:33:02,CB-COLEBROOK,3.6,1,0,1,0,0,0,12,1,0,0,0,0,1,1
+DEELMO,498,498.0,4.1,Amazon India,mens casual shirts,2026-06-18 22:33:02,DEELMO,4.1,1,0,1,0,0,0,6,1,0,0,0,0,2,4
+DEELMO,498,498.0,3.8,Amazon India,mens casual shirts,2026-06-18 22:33:02,DEELMO,3.8,1,0,1,0,0,0,6,1,0,0,0,0,2,4
+The Indian Garage Co,490,490.0,3.9,Amazon India,mens casual shirts,2026-06-18 22:33:02,The,3.9,1,0,1,0,0,0,20,4,0,0,0,0,12,1
+Zombom,498,498.0,3.7,Amazon India,mens casual shirts,2026-06-18 22:33:02,Zombom,3.7,1,0,1,0,0,0,6,1,0,0,0,0,15,1
+NexaFlair,468,468.0,3.1,Amazon India,mens casual shirts,2026-06-18 22:33:02,NexaFlair,3.1,1,0,1,0,0,0,9,1,0,0,0,0,8,2
+Allen Solly,752,752.0,4.1,Amazon India,mens casual shirts,2026-06-18 22:33:02,Allen,4.1,1,0,1,0,0,0,11,2,0,0,0,0,0,2
+Highlander,503,503.0,4.1,Amazon India,mens casual shirts,2026-06-18 22:33:02,Highlander,4.1,1,0,1,0,0,0,10,1,0,0,0,0,3,1
+NEW-18,464,464.0,5.0,Amazon India,mens casual shirts,2026-06-18 22:33:02,NEW-18,5.0,1,0,1,0,0,0,6,1,0,0,0,0,7,1
+Majestic Man,498,498.0,4.0,Amazon India,mens casual shirts,2026-06-18 22:33:02,Majestic,4.0,1,0,1,0,0,0,12,2,0,0,0,0,6,2
+NexaFlair,468,468.0,3.1,Amazon India,mens casual shirts,2026-06-18 22:33:02,NexaFlair,3.1,1,0,1,0,0,0,9,1,0,0,0,0,8,2
+Uiriuy,299,299.0,3.4,Amazon India,mens casual shirts,2026-06-18 22:33:02,Uiriuy,3.4,1,0,1,0,0,0,6,1,0,0,0,0,14,1
+DEELMO,598,598.0,4.4,Amazon India,mens casual shirts,2026-06-18 22:33:02,DEELMO,4.4,1,0,1,0,0,0,6,1,0,0,0,0,2,4
+Majestic Man,498,498.0,4.1,Amazon India,mens casual shirts,2026-06-18 22:33:02,Majestic,4.1,1,0,1,0,0,0,12,2,0,0,0,0,6,2
+Peter England,"1,300",1300.0,4.4,Amazon India,mens casual shirts,2026-06-18 22:33:02,Peter,4.4,1,0,1,0,0,0,13,2,0,0,0,0,10,1
+DEELMO,498,498.0,4.1,Amazon India,mens casual shirts,2026-06-18 22:33:02,DEELMO,4.1,1,0,1,0,0,0,6,1,0,0,0,0,2,4
+Louis Philippe,"1,387",1387.0,3.9,Amazon India,mens casual shirts,2026-06-18 22:33:02,Louis,3.9,1,0,1,0,0,0,14,2,0,0,0,0,4,3
+Louis Philippe,"1,387",1387.0,3.9,Amazon India,mens casual shirts,2026-06-18 22:33:02,Louis,3.9,1,0,1,0,0,0,14,2,0,0,0,0,4,3
+Allen Solly,"1,182",1182.0,3.9,Amazon India,mens casual shirts,2026-06-18 22:33:02,Allen,3.9,1,0,1,0,0,0,11,2,0,0,0,0,0,2
+Park Avenue,965,965.0,4.7,Amazon India,mens casual shirts,2026-06-18 22:33:02,Park,4.7,1,0,1,0,0,0,11,2,0,0,0,0,9,1
+Louis Philippe,"1,763",1763.0,3.9,Amazon India,mens casual shirts,2026-06-18 22:33:02,Louis,3.9,1,0,1,0,0,0,14,2,0,0,0,0,4,3
+MADHAVISTA,498,498.0,3.8,Amazon India,mens casual shirts,2026-06-18 22:33:02,MADHAVISTA,3.8,1,0,1,0,0,0,10,1,0,0,0,0,5,1
+U.S. POLO ASSN.,"1,655",1655.0,4.1,Amazon India,mens casual shirts,2026-06-18 22:33:02,Polo,4.1,1,0,1,0,0,0,15,3,0,0,0,0,11,1
