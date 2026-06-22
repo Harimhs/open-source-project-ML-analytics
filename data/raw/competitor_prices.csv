@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Max,198,198.0,4.1,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-AUSK,224,224.0,3.4,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Scott International,284,284.0,3.7,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-BULLMER,559,559.0,3.6,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-BULLMER,559,559.0,3.6,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Max,198,198.0,4.1,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-FTX,395,395.0,3.9,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Lux Cozi,269,269.0,4.1,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-London Hills,499,499.0,3.8,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-London Hills,299,299.0,3.8,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Sleepynuts,999,999.0,3.8,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Jockey,549,549.0,4.2,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-LEOTUDE,298,298.0,3.9,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Lux Cozi,250,250.0,4.1,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Enitor,298,298.0,3.3,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Levi's,395,395.0,4.1,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Van Heusen,497,497.0,4.2,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Jockey,546,546.0,4.2,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-U.S. POLO ASSN.,562,562.0,4.0,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-London Hills,249,249.0,3.7,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Scott International,598,598.0,3.7,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-U.S. POLO ASSN.,669,669.0,3.7,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-AUSK,279,279.0,3.5,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-U.S. POLO ASSN.,651,651.0,4.0,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-U.S. POLO ASSN.,559,559.0,3.8,Amazon India,mens round neck tshirt,2026-06-21 21:56:35
-Bounce Back Apparels,299,299.0,3.8,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Fabricorn,978,978.0,4.1,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-JUNEBERRY,379,379.0,3.9,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Amazon Brand - Symbol,479,479.0,4.0,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-JUNEBERRY,379,379.0,3.9,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Fabricorn,358,358.0,4.0,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-FLEXIMAA,599,599.0,3.6,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-AUSK,279,279.0,3.8,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Amazon Brand - Symbol,479,479.0,4.0,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Jockey,555,555.0,4.2,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-UZARUS,499,499.0,3.4,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Van Heusen,679,679.0,4.0,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Dream Beauty Fashion,343,343.0,4.1,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-JUNEBERRY,379,379.0,3.9,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Fabricorn,429,429.0,3.7,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-FLEXIMAA,289,289.0,4.0,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Max,177,177.0,4.2,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-UZARUS,399,399.0,4.0,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Jockey,549,549.0,4.2,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Amazon Brand - Symbol,479,479.0,4.0,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Fabricorn,373,373.0,4.0,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Generic,299,299.0,3.8,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Max,199,199.0,2.8,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-RodZen,331,331.0,2.8,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
-Generic,280,280.0,3.3,Amazon India,womens v neck tshirt,2026-06-21 21:58:05
+AUSK,279,279.0,3.5,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+AUSK,284,284.0,3.5,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+AUSK,279,279.0,3.1,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+KRYPTIC,321,321.0,3.7,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+Imsa Moda,299,299.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+boffi ...,350,350.0,3.5,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+LEOTUDE,298,298.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+JUGULAR,379,379.0,3.6,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+BULLMER,489,489.0,3.6,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+Jump Cuts,349,349.0,3.6,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+Max,552,552.0,4.2,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+Peter England,975,975.0,4.2,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+Generic,359,359.0,3.4,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+LEOTUDE,298,298.0,3.9,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+AUSK,279,279.0,3.9,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+XENOVAURBAN,"1,149",1149.0,4.3,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+boffi ...,308,308.0,3.5,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+Van Heusen,679,679.0,4.1,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+The Souled Store,899,899.0,4.3,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+LEOTUDE,798,798.0,3.8,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+LEOTUDE,798,798.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+STELLERS,819,819.0,4.1,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+The Souled Store,699,699.0,4.4,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+LEOTUDE,298,298.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31
+THALASI,388,388.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31
