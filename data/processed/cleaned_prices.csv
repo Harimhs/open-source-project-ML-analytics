@@ -1,26 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-AUSK,279,279.0,3.5,Amazon India,mens printed tshirt,2026-06-22 22:22:31,AUSK,3.5,1,1,1,0,1,0,4,1,0,0,0,0,0,4
-AUSK,284,284.0,3.5,Amazon India,mens printed tshirt,2026-06-22 22:22:31,AUSK,3.5,1,1,1,0,1,0,4,1,0,0,0,0,0,4
-AUSK,279,279.0,3.1,Amazon India,mens printed tshirt,2026-06-22 22:22:31,AUSK,3.1,1,1,1,0,1,0,4,1,0,0,0,0,0,4
-KRYPTIC,321,321.0,3.7,Amazon India,mens printed tshirt,2026-06-22 22:22:31,KRYPTIC,3.7,1,1,1,0,1,0,7,1,0,0,0,0,6,1
-Imsa Moda,299,299.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31,Imsa,4.0,1,1,1,0,1,0,9,2,0,0,0,0,3,1
-boffi ...,350,350.0,3.5,Amazon India,mens printed tshirt,2026-06-22 22:22:31,boffi,3.5,1,1,1,0,1,0,9,2,0,0,0,0,15,2
-LEOTUDE,298,298.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31,LEOTUDE,4.0,1,1,1,0,1,0,7,1,0,0,0,0,7,5
-JUGULAR,379,379.0,3.6,Amazon India,mens printed tshirt,2026-06-22 22:22:31,JUGULAR,3.6,1,1,1,0,1,0,7,1,0,0,0,0,4,1
-BULLMER,489,489.0,3.6,Amazon India,mens printed tshirt,2026-06-22 22:22:31,BULLMER,3.6,1,1,1,0,1,0,7,1,0,0,0,0,1,1
-Jump Cuts,349,349.0,3.6,Amazon India,mens printed tshirt,2026-06-22 22:22:31,Jump,3.6,1,1,1,0,1,0,9,2,0,0,0,0,5,1
-Max,552,552.0,4.2,Amazon India,mens printed tshirt,2026-06-22 22:22:31,Max,4.2,1,1,1,0,1,0,3,1,0,0,0,0,8,1
-Peter England,975,975.0,4.2,Amazon India,mens printed tshirt,2026-06-22 22:22:31,Peter,4.2,1,1,1,0,1,0,13,2,0,0,0,0,9,1
-Generic,359,359.0,3.4,Amazon India,mens printed tshirt,2026-06-22 22:22:31,Generic,3.4,1,1,1,0,1,0,7,1,0,0,0,0,2,1
-LEOTUDE,298,298.0,3.9,Amazon India,mens printed tshirt,2026-06-22 22:22:31,LEOTUDE,3.9,1,1,1,0,1,0,7,1,0,0,0,0,7,5
-AUSK,279,279.0,3.9,Amazon India,mens printed tshirt,2026-06-22 22:22:31,AUSK,3.9,1,1,1,0,1,0,4,1,0,0,0,0,0,4
-XENOVAURBAN,"1,149",1149.0,4.3,Amazon India,mens printed tshirt,2026-06-22 22:22:31,Urban,4.3,1,1,1,0,1,0,11,1,0,0,0,0,13,1
-boffi ...,308,308.0,3.5,Amazon India,mens printed tshirt,2026-06-22 22:22:31,boffi,3.5,1,1,1,0,1,0,9,2,0,0,0,0,15,2
-Van Heusen,679,679.0,4.1,Amazon India,mens printed tshirt,2026-06-22 22:22:31,Van Heusen,4.1,1,1,1,0,1,0,10,2,0,0,0,0,14,1
-The Souled Store,899,899.0,4.3,Amazon India,mens printed tshirt,2026-06-22 22:22:31,The,4.3,1,1,1,0,1,0,16,3,0,0,0,0,12,2
-LEOTUDE,798,798.0,3.8,Amazon India,mens printed tshirt,2026-06-22 22:22:31,LEOTUDE,3.8,1,1,1,0,1,0,7,1,0,0,0,0,7,5
-LEOTUDE,798,798.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31,LEOTUDE,4.0,1,1,1,0,1,0,7,1,0,0,0,0,7,5
-STELLERS,819,819.0,4.1,Amazon India,mens printed tshirt,2026-06-22 22:22:31,STELLERS,4.1,1,1,1,0,1,0,8,1,0,0,0,0,10,1
-The Souled Store,699,699.0,4.4,Amazon India,mens printed tshirt,2026-06-22 22:22:31,The,4.4,1,1,1,0,1,0,16,3,0,0,0,0,12,2
-LEOTUDE,298,298.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31,LEOTUDE,4.0,1,1,1,0,1,0,7,1,0,0,0,0,7,5
-THALASI,388,388.0,4.0,Amazon India,mens printed tshirt,2026-06-22 22:22:31,THALASI,4.0,1,1,1,0,1,0,7,1,0,0,0,0,11,1
+Max,199.0,199.0,4.1,Amazon India,mens black tshirt,2026-06-23 21:59:09,Max,4.1,1,1,1,0,0,0,3,1,0,0,0,0,10,1
+Allen Solly,699.0,699.0,4.1,Amazon India,mens black tshirt,2026-06-23 21:59:09,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,1
+boffi ...,331.0,331.0,3.5,Amazon India,mens black tshirt,2026-06-23 21:59:09,boffi,3.5,1,1,1,0,0,0,9,2,0,0,0,0,18,1
+KAJARU,319.0,319.0,4.0,Amazon India,mens black tshirt,2026-06-23 21:59:09,KAJARU,4.0,1,1,1,0,0,0,6,1,0,0,0,0,5,2
+Trillion,376.0,376.0,4.0,Amazon India,mens black tshirt,2026-06-23 21:59:09,Trillion,4.0,1,1,1,0,0,0,8,1,0,0,0,0,15,1
+Levi's,382.0,382.0,4.1,Amazon India,mens black tshirt,2026-06-23 21:59:09,Levi,4.1,1,1,1,0,0,0,6,1,0,0,0,0,6,1
+Peter England,669.0,669.0,4.1,Amazon India,mens black tshirt,2026-06-23 21:59:09,Peter,4.1,1,1,1,0,0,0,13,2,0,0,0,0,12,1
+Imsa Moda,310.0,310.0,4.4,Amazon India,mens black tshirt,2026-06-23 21:59:09,Imsa,4.4,1,1,1,0,0,0,9,2,0,0,0,0,3,3
+London Hills,249.0,249.0,3.7,Amazon India,mens black tshirt,2026-06-23 21:59:09,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,7,2
+Imsa Moda,299.0,299.0,5.0,Amazon India,mens black tshirt,2026-06-23 21:59:09,Imsa,5.0,1,1,1,0,0,0,9,2,0,0,0,0,3,3
+Louis Philippe,884.0,884.0,4.0,Amazon India,mens black tshirt,2026-06-23 21:59:09,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,0,8,1
+VASTRADHAN,279.0,279.0,3.5,Amazon India,mens black tshirt,2026-06-23 21:59:09,VASTRADHAN,3.5,1,1,1,0,0,0,10,1,0,0,0,0,16,1
+PUMA,849.0,849.0,3.9,Amazon India,mens black tshirt,2026-06-23 21:59:09,Puma,3.9,1,1,1,0,0,0,4,1,0,0,0,0,13,1
+NETCLICK,297.0,297.0,3.5,Amazon India,mens black tshirt,2026-06-23 21:59:09,NETCLICK,3.5,1,1,1,0,0,0,8,1,0,0,0,0,11,1
+Van Heusen,497.0,497.0,4.2,Amazon India,mens black tshirt,2026-06-23 21:59:09,Van Heusen,4.2,1,1,1,0,0,0,10,2,0,0,0,0,17,2
+Imsa Moda,299.0,299.0,4.0,Amazon India,mens black tshirt,2026-06-23 21:59:09,Imsa,4.0,1,1,1,0,0,0,9,2,0,0,0,0,3,3
+Van Heusen,699.0,699.0,4.0,Amazon India,mens black tshirt,2026-06-23 21:59:09,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,17,2
+Lymio,398.0,398.0,3.6,Amazon India,mens black tshirt,2026-06-23 21:59:09,Lymio,3.6,1,1,1,0,0,0,5,1,0,0,0,0,9,1
+AUSK,279.0,279.0,3.5,Amazon India,mens black tshirt,2026-06-23 21:59:09,AUSK,3.5,1,1,1,0,0,0,4,1,0,0,0,0,0,2
+Amazon Brand - Symbol,399.0,399.0,3.9,Amazon India,mens black tshirt,2026-06-23 21:59:09,Amazon,3.9,1,1,1,0,0,0,21,4,0,0,0,0,2,1
+Jockey,536.0,536.0,4.2,Amazon India,mens black tshirt,2026-06-23 21:59:09,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,4,1
+London Hills,249.0,249.0,3.9,Amazon India,mens black tshirt,2026-06-23 21:59:09,London,3.9,1,1,1,0,0,0,12,2,0,0,0,0,7,2
+The Modern Soul,399.0,399.0,3.6,Amazon India,mens black tshirt,2026-06-23 21:59:09,The,3.6,1,1,1,0,0,0,15,3,0,0,0,0,14,1
+AUSK,279.0,279.0,4.0,Amazon India,mens black tshirt,2026-06-23 21:59:09,AUSK,4.0,1,1,1,0,0,0,4,1,0,0,0,0,0,2
+KAJARU,194.0,194.0,4.1,Amazon India,mens black tshirt,2026-06-23 21:59:09,KAJARU,4.1,1,1,1,0,0,0,6,1,0,0,0,0,5,2
