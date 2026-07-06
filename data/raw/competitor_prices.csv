@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Allen Solly,539,539.0,4.1,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Max,199,199.0,4.1,Amazon India,mens black tshirt,2026-07-05 21:35:41
-boffi ...,262,262.0,3.5,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Trillion,398,398.0,4.0,Amazon India,mens black tshirt,2026-07-05 21:35:41
-KAJARU,293,293.0,3.9,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Pepe Jeans,367,367.0,4.1,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Levi's,359,359.0,4.1,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Lymio,299,299.0,3.6,Amazon India,mens black tshirt,2026-07-05 21:35:41
-COTFYNE,229,229.0,3.4,Amazon India,mens black tshirt,2026-07-05 21:35:41
-London Hills,227,227.0,3.9,Amazon India,mens black tshirt,2026-07-05 21:35:41
-QNIM,360,360.0,3.8,Amazon India,mens black tshirt,2026-07-05 21:35:41
-PUMA,739,739.0,3.9,Amazon India,mens black tshirt,2026-07-05 21:35:41
-AUSK,267,267.0,3.6,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Peter England,549,549.0,4.1,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Van Heusen,521,521.0,4.0,Amazon India,mens black tshirt,2026-07-05 21:35:41
-NETCLICK,282,282.0,3.4,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Amazon Brand - Symbol,329,329.0,3.9,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Imsa Moda,310,310.0,4.6,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Imsa Moda,319,319.0,3.9,Amazon India,mens black tshirt,2026-07-05 21:35:41
-AUSK,251,251.0,3.4,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Jockey,536,536.0,4.2,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Van Heusen,489,489.0,4.2,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Imsa Moda,319,319.0,4.1,Amazon India,mens black tshirt,2026-07-05 21:35:41
-JACK & JONES,559,559.0,3.8,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Peter England,549,549.0,4.0,Amazon India,mens black tshirt,2026-07-05 21:35:41
-Lymio,419,419.0,3.9,Amazon India,mens hoodies,2026-07-05 21:37:18
-GAP,"1,119",1119.0,5.0,Amazon India,mens hoodies,2026-07-05 21:37:18
-Noble Monk,349,349.0,3.5,Amazon India,mens hoodies,2026-07-05 21:37:18
-Lymio,449,449.0,3.8,Amazon India,mens hoodies,2026-07-05 21:37:18
-U.S. POLO ASSN.,"1,479",1479.0,4.4,Amazon India,mens hoodies,2026-07-05 21:37:18
-The Modern Soul,499,499.0,3.8,Amazon India,mens hoodies,2026-07-05 21:37:18
-Glowic,499,499.0,3.4,Amazon India,mens hoodies,2026-07-05 21:37:18
-Veirdo,789,789.0,4.0,Amazon India,mens hoodies,2026-07-05 21:37:18
-JVX,463,463.0,3.9,Amazon India,mens hoodies,2026-07-05 21:37:18
-Alan Jones Clothing,553,553.0,3.9,Amazon India,mens hoodies,2026-07-05 21:37:18
-Imsa Moda,489,489.0,3.6,Amazon India,mens hoodies,2026-07-05 21:37:18
-Alan Jones Clothing,561,561.0,3.9,Amazon India,mens hoodies,2026-07-05 21:37:18
-Boldfit,539,539.0,4.0,Amazon India,mens hoodies,2026-07-05 21:37:18
-GAP,"1,249",1249.0,4.5,Amazon India,mens hoodies,2026-07-05 21:37:18
-Generic,620,620.0,5.0,Amazon India,mens hoodies,2026-07-05 21:37:18
-Jump Cuts,379,379.0,3.3,Amazon India,mens hoodies,2026-07-05 21:37:18
-Lymio,569,569.0,3.8,Amazon India,mens hoodies,2026-07-05 21:37:18
-BE SAVAGE,836,836.0,3.9,Amazon India,mens hoodies,2026-07-05 21:37:18
-TAGDO,554,554.0,3.6,Amazon India,mens hoodies,2026-07-05 21:37:18
-Lymio,499,499.0,3.8,Amazon India,mens hoodies,2026-07-05 21:37:18
-GAP,"1,748",1748.0,5.0,Amazon India,mens hoodies,2026-07-05 21:37:18
-GAP,"1,119",1119.0,4.5,Amazon India,mens hoodies,2026-07-05 21:37:18
-PUMA,"1,249",1249.0,4.1,Amazon India,mens hoodies,2026-07-05 21:37:18
-Boldfit,549,549.0,4.0,Amazon India,mens hoodies,2026-07-05 21:37:18
-Allen Solly,"1,139",1139.0,3.9,Amazon India,mens hoodies,2026-07-05 21:37:18
+Max,199,199.0,3.8,Amazon India,womens white tshirt,2026-07-06 21:58:14
+LOUIS ELORA,281,281.0,3.3,Amazon India,womens white tshirt,2026-07-06 21:58:14
+London Hills,277,277.0,4.0,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Max,199,199.0,3.6,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Jockey,549,549.0,4.3,Amazon India,womens white tshirt,2026-07-06 21:58:14
+TWIN BIRDS,299,299.0,4.5,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Max,399,399.0,3.8,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Dream Beauty Fashion,216,216.0,3.8,Amazon India,womens white tshirt,2026-07-06 21:58:14
+JUNEBERRY,379,379.0,4.2,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Bewakoof,389,389.0,4.0,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Jawdrobe,439,439.0,3.9,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Dream Beauty Fashion,206,206.0,3.8,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Imsa Moda,319,319.0,3.7,Amazon India,womens white tshirt,2026-07-06 21:58:14
+TQH,273,273.0,3.7,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Hangout Hub,399,399.0,3.8,Amazon India,womens white tshirt,2026-07-06 21:58:14
+FYLTR,299,299.0,4.1,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Max,199,199.0,4.1,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Jockey,579,579.0,4.2,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Wear Your Opinion,499,499.0,4.0,Amazon India,womens white tshirt,2026-07-06 21:58:14
+JUNEBERRY,379,379.0,3.9,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Jawdrobe,459,459.0,3.9,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Generic,175.,175.0,3.4,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Jockey,463,463.0,4.1,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Levi's,828,828.0,4.9,Amazon India,womens white tshirt,2026-07-06 21:58:14
+Istyle Can,329,329.0,3.7,Amazon India,womens white tshirt,2026-07-06 21:58:14
