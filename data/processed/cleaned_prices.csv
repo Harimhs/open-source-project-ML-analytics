@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Fabricorn,975,975.0,4.1,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Fabricorn,4.1,1,1,1,1,0,0,9,1,0,0,0,1,4,6
-JUNEBERRY,379,379.0,3.9,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,JUNEBERRY,3.9,1,1,1,1,0,0,9,1,0,0,0,1,8,3
-FLEXIMAA,599,599.0,3.7,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,FLEXIMAA,3.7,1,1,1,1,0,0,8,1,0,0,0,1,3,2
-Amazon Brand - Symbol,429,429.0,4.0,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Amazon,4.0,1,1,1,1,0,0,21,4,0,0,0,1,1,2
-Amazon Brand - Symbol,429,429.0,4.0,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Amazon,4.0,1,1,1,1,0,0,21,4,0,0,0,1,1,2
-JUNEBERRY,379,379.0,3.9,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,JUNEBERRY,3.9,1,1,1,1,0,0,9,1,0,0,0,1,8,3
-Max,199,199.0,4.1,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Max,4.1,1,1,1,1,0,0,3,1,0,0,0,1,12,2
-Fabricorn,361,361.0,4.0,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Fabricorn,4.0,1,1,1,1,0,0,9,1,0,0,0,1,4,6
-Max,199,199.0,4.1,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Max,4.1,1,1,1,1,0,0,3,1,0,0,0,1,12,2
-FLEXIMAA,299,299.0,4.0,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,FLEXIMAA,4.0,1,1,1,1,0,0,8,1,0,0,0,1,3,2
-Jockey,545,545.0,4.2,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Jockey,4.2,1,1,1,1,0,0,6,1,0,0,0,1,9,3
-AUSK,247,247.0,3.8,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,AUSK,3.8,1,1,1,1,0,0,4,1,0,0,0,1,0,1
-Fabricorn,425,425.0,3.7,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Fabricorn,3.7,1,1,1,1,0,0,9,1,0,0,0,1,4,6
-UZARUS,534,534.0,3.3,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,UZARUS,3.3,1,1,1,1,0,0,6,1,0,0,0,1,17,2
-UZARUS,427,427.0,3.9,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,UZARUS,3.9,1,1,1,1,0,0,6,1,0,0,0,1,17,2
-JUNEBERRY,379,379.0,3.9,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,JUNEBERRY,3.9,1,1,1,1,0,0,9,1,0,0,0,1,8,3
-TADKEE,499,499.0,3.3,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,TADKEE,3.3,1,1,1,1,0,0,6,1,0,0,0,1,15,1
-Jockey,549,549.0,4.2,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Jockey,4.2,1,1,1,1,0,0,6,1,0,0,0,1,9,3
-Van Heusen,714,714.0,4.0,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Van Heusen,4.0,1,1,1,1,0,0,10,2,0,0,0,1,19,1
-Generic,299,299.0,3.3,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Generic,3.3,1,1,1,1,0,0,7,1,0,0,0,1,5,1
-Fabricorn,695,695.0,4.1,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Fabricorn,4.1,1,1,1,1,0,0,9,1,0,0,0,1,4,6
-Fabricorn,361,361.0,4.0,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Fabricorn,4.0,1,1,1,1,0,0,9,1,0,0,0,1,4,6
-Fabricorn,376,376.0,4.0,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Fabricorn,4.0,1,1,1,1,0,0,9,1,0,0,0,1,4,6
-Jockey,649,649.0,,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,Jockey,3.9,0,1,1,1,0,0,6,1,0,0,0,1,9,3
-XOLANI,299,299.0,2.9,Amazon India,womens v neck tshirt,2026-07-07 21:55:48,XOLANI,2.9,1,1,1,1,0,0,6,1,0,0,0,1,21,1
-The Indian Garage Co,520,520.0,3.8,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,The,3.8,1,0,1,0,0,0,20,4,0,0,0,0,16,5
-London Hills,649,649.0,3.8,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,London,3.8,1,0,1,0,0,0,12,2,0,0,0,0,10,2
-Urbano Fashion,629,629.0,3.7,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Urban,3.7,1,0,1,0,0,0,14,2,0,0,0,0,18,6
-Urbano Fashion,674,674.0,3.6,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,18,6
-Urbano Fashion,699,699.0,3.7,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Urban,3.7,1,0,1,0,0,0,14,2,0,0,0,0,18,6
-Louis Philippe,"1,569",1569.0,4.0,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Louis,4.0,1,0,1,0,0,0,14,2,0,0,0,0,11,3
-Urbano Fashion,643,643.0,3.7,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Urban,3.7,1,0,1,0,0,0,14,2,0,0,0,0,18,6
-Peter England,"1,349",1349.0,4.0,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Peter,4.0,1,0,1,0,0,0,13,2,0,0,0,0,13,3
-Louis Philippe,"1,699",1699.0,4.0,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Louis,4.0,1,0,1,0,0,0,14,2,0,0,0,0,11,3
-London Hills,649,649.0,3.8,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,London,3.8,1,0,1,0,0,0,12,2,0,0,0,0,10,2
-The Indian Garage Co,540,540.0,4.0,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,The,4.0,1,0,1,0,0,0,20,4,0,0,0,0,16,5
-WROGN,990,990.0,3.8,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Wrogn,3.8,1,0,1,0,0,0,5,1,0,0,0,0,20,1
-Highlander,550,550.0,3.9,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Highlander,3.9,1,0,1,0,0,0,10,1,0,0,0,0,6,1
-The Indian Garage Co,540,540.0,3.7,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,The,3.7,1,0,1,0,0,0,20,4,0,0,0,0,16,5
-INKD,829,829.0,3.9,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,INKD,3.9,1,0,1,0,0,0,4,1,0,0,0,0,7,1
-Spykar,"1,479",1479.0,5.0,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Spykar,5.0,1,0,1,0,0,0,6,1,0,0,0,0,14,2
-Louis Philippe,"1,512",1512.0,3.8,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Louis,3.8,1,0,1,0,0,0,14,2,0,0,0,0,11,3
-The Indian Garage Co,648,648.0,4.2,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,The,4.2,1,0,1,0,0,0,20,4,0,0,0,0,16,5
-Urbano Fashion,699,699.0,3.7,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Urban,3.7,1,0,1,0,0,0,14,2,0,0,0,0,18,6
-The Indian Garage Co,739,739.0,4.5,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,The,4.5,1,0,1,0,0,0,20,4,0,0,0,0,16,5
-Peter England,"1,209",1209.0,3.8,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Peter,3.8,1,0,1,0,0,0,13,2,0,0,0,0,13,3
-Spykar,"1,339",1339.0,2.6,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Spykar,2.6,1,0,1,0,0,0,6,1,0,0,0,0,14,2
-Peter England,"1,349",1349.0,4.0,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Peter,4.0,1,0,1,0,0,0,13,2,0,0,0,0,13,3
-Urbano Fashion,719,719.0,3.6,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,18,6
-Ben Martin,874,874.0,3.6,Amazon India,mens slim fit jeans,2026-07-07 21:56:45,Ben,3.6,1,0,1,0,0,0,10,2,0,0,0,0,2,1
+Max,199,199.0,3.8,Amazon India,womens white tshirt,2026-07-08 21:44:56,Max,3.8,1,1,1,1,0,0,3,1,0,0,0,0,11,5
+LOUIS ELORA,281,281.0,3.3,Amazon India,womens white tshirt,2026-07-08 21:44:56,LOUIS,3.3,1,1,1,1,0,0,11,2,0,0,0,0,8,1
+Max,199,199.0,3.6,Amazon India,womens white tshirt,2026-07-08 21:44:56,Max,3.6,1,1,1,1,0,0,3,1,0,0,0,0,11,5
+Jockey,579,579.0,4.3,Amazon India,womens white tshirt,2026-07-08 21:44:56,Jockey,4.3,1,1,1,1,0,0,6,1,0,0,0,0,7,3
+London Hills,401,401.0,3.9,Amazon India,womens white tshirt,2026-07-08 21:44:56,London,3.9,1,1,1,1,0,0,12,2,0,0,0,0,10,1
+Max,399,399.0,3.8,Amazon India,womens white tshirt,2026-07-08 21:44:56,Max,3.8,1,1,1,1,0,0,3,1,0,0,0,0,11,5
+TWIN BIRDS,299,299.0,4.5,Amazon India,womens white tshirt,2026-07-08 21:44:56,TWIN,4.5,1,1,1,1,0,0,10,2,0,0,0,0,14,1
+Jawdrobe,379,379.0,3.9,Amazon India,womens white tshirt,2026-07-08 21:44:56,Jawdrobe,3.9,1,1,1,1,0,0,8,1,0,0,0,0,6,2
+Bewakoof,389,389.0,4.0,Amazon India,womens white tshirt,2026-07-08 21:44:56,Bewakoof,4.0,1,1,1,1,0,0,8,1,0,0,0,0,0,1
+Dream Beauty Fashion,183,183.0,3.8,Amazon India,womens white tshirt,2026-07-08 21:44:56,Dream,3.8,1,1,1,1,0,0,20,3,0,0,0,0,1,2
+Max,199,199.0,4.1,Amazon India,womens white tshirt,2026-07-08 21:44:56,Max,4.1,1,1,1,1,0,0,3,1,0,0,0,0,11,5
+JUNEBERRY,379,379.0,4.2,Amazon India,womens white tshirt,2026-07-08 21:44:56,JUNEBERRY,4.2,1,1,1,1,0,0,9,1,0,0,0,0,5,2
+TQH,242,242.0,3.7,Amazon India,womens white tshirt,2026-07-08 21:44:56,TQH,3.7,1,1,1,1,0,0,3,1,0,0,0,0,13,1
+Dream Beauty Fashion,194,194.0,3.8,Amazon India,womens white tshirt,2026-07-08 21:44:56,Dream,3.8,1,1,1,1,0,0,20,3,0,0,0,0,1,2
+FYLTR,299,299.0,4.0,Amazon India,womens white tshirt,2026-07-08 21:44:56,FYLTR,4.0,1,1,1,1,0,0,5,1,0,0,0,0,2,1
+Imsa Moda,319,319.0,3.8,Amazon India,womens white tshirt,2026-07-08 21:44:56,Imsa,3.8,1,1,1,1,0,0,9,2,0,0,0,0,4,1
+Hangout Hub,399,399.0,3.8,Amazon India,womens white tshirt,2026-07-08 21:44:56,Hangout,3.8,1,1,1,1,0,0,11,2,0,0,0,0,3,1
+JUNEBERRY,379,379.0,3.9,Amazon India,womens white tshirt,2026-07-08 21:44:56,JUNEBERRY,3.9,1,1,1,1,0,0,9,1,0,0,0,0,5,2
+Wear Your Opinion,499,499.0,4.0,Amazon India,womens white tshirt,2026-07-08 21:44:56,Wear,4.0,1,1,1,1,0,0,17,3,0,0,0,0,15,1
+Jockey,579,579.0,4.2,Amazon India,womens white tshirt,2026-07-08 21:44:56,Jockey,4.2,1,1,1,1,0,0,6,1,0,0,0,0,7,3
+Levi's,826,826.0,4.9,Amazon India,womens white tshirt,2026-07-08 21:44:56,Levi,4.9,1,1,1,1,0,0,6,1,0,0,0,0,9,1
+Jawdrobe,399,399.0,3.9,Amazon India,womens white tshirt,2026-07-08 21:44:56,Jawdrobe,3.9,1,1,1,1,0,0,8,1,0,0,0,0,6,2
+Max,349,349.0,3.5,Amazon India,womens white tshirt,2026-07-08 21:44:56,Max,3.5,1,1,1,1,0,0,3,1,0,0,0,0,11,5
+U.S. POLO ASSN.,"1,088",1088.0,4.1,Amazon India,womens white tshirt,2026-07-08 21:44:56,Polo,4.1,1,1,1,1,0,0,15,3,0,0,0,0,12,1
+Jockey,463,463.0,4.1,Amazon India,womens white tshirt,2026-07-08 21:44:56,Jockey,4.1,1,1,1,1,0,0,6,1,0,0,0,0,7,3
