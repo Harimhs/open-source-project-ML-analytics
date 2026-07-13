@@ -1,26 +1,75 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-BULLMER,559,559.0,3.5,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,BULLMER,3.5,1,1,1,0,0,0,7,1,0,0,0,0,1,1
-AUSK,195,195.0,3.4,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,0,1
-Men’s Plain 100% Cotton T-Shirt Multicolor Combo Pack of 5 Regular Fit Round Neck Half Sleeve Comfor,999,999.0,5.0,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Lee,5.0,1,1,1,0,0,0,100,17,0,1,1,0,6,2
-Max,198,198.0,4.1,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Max,4.1,1,1,1,0,0,0,3,1,0,0,0,0,10,2
-Scott International,284,284.0,3.7,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Scott,3.7,1,1,1,0,0,0,19,2,0,0,0,0,12,2
-Sleepynuts,999,999.0,3.8,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Lee,3.8,1,1,1,0,0,0,10,1,0,0,0,0,6,2
-Max,198,198.0,4.1,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Max,4.1,1,1,1,0,0,0,3,1,0,0,0,0,10,2
-LEOTUDE,276,276.0,3.9,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,LEOTUDE,3.9,1,1,1,0,0,0,7,1,0,0,0,0,5,1
-Jockey,549,549.0,4.2,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,4,2
-Van Heusen,329,329.0,4.2,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Van Heusen,4.2,1,1,1,0,0,0,10,2,0,0,0,0,13,2
-U.S. POLO ASSN.,679,679.0,3.8,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,0,11,3
-London Hills,499,499.0,3.8,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,London,3.8,1,1,1,0,0,0,12,2,0,0,0,0,8,3
-London Hills,299,299.0,3.7,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,8,3
-Jockey,546,546.0,4.2,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,4,2
-Lux Cozi,250,250.0,4.1,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Lux,4.1,1,1,1,0,0,0,8,2,0,0,0,0,9,2
-Generic,225,225.0,3.0,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Generic,3.0,1,1,1,0,0,0,7,1,0,0,0,0,3,1
-FTX,398,398.0,3.9,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,FTX,3.9,1,1,1,0,0,0,3,1,0,0,0,0,2,1
-Lux Cozi,269,269.0,4.1,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Lux,4.1,1,1,1,0,0,0,8,2,0,0,0,0,9,2
-Scott International,568,568.0,3.7,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Scott,3.7,1,1,1,0,0,0,19,2,0,0,0,0,12,2
-Levi's,343,343.0,4.1,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Levi,4.1,1,1,1,0,0,0,6,1,0,0,0,0,7,2
-U.S. POLO ASSN.,427,427.0,4.0,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Polo,4.0,1,1,1,0,0,0,15,3,0,0,0,0,11,3
-Van Heusen,497,497.0,4.2,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Van Heusen,4.2,1,1,1,0,0,0,10,2,0,0,0,0,13,2
-London Hills,249,249.0,3.7,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,8,3
-U.S. POLO ASSN.,471,471.0,4.0,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Polo,4.0,1,1,1,0,0,0,15,3,0,0,0,0,11,3
-Levi's,343,343.0,4.1,Amazon India,mens round neck tshirt,2026-07-12 21:24:35,Levi,4.1,1,1,1,0,0,0,6,1,0,0,0,0,7,2
+Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,490,490.0,3.5,Amazon India,womens hoodies,2026-07-13 21:31:29,Lee,3.5,1,0,1,1,0,0,83,13,0,0,0,1,20,4
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-07-13 21:31:29,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,1,16,5
+Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,499,499.0,3.5,Amazon India,womens hoodies,2026-07-13 21:31:29,Lee,3.5,1,0,1,1,0,0,83,13,0,0,0,1,20,4
+FUNKY MONKEY,699,699.0,4.1,Amazon India,womens hoodies,2026-07-13 21:31:29,FUNKY,4.1,1,0,1,1,0,0,12,2,0,0,0,1,7,3
+FUNKY MONKEY,699,699.0,4.1,Amazon India,womens hoodies,2026-07-13 21:31:29,FUNKY,4.1,1,0,1,1,0,0,12,2,0,0,0,1,7,3
+PDK Fashion Anime Couple Print Long Sleeves Winter Hoodie with Front Pocket Men's & Women's Sweater,499,499.0,4.1,Amazon India,womens hoodies,2026-07-13 21:31:29,Lee,4.1,1,0,1,1,0,0,99,16,0,0,0,1,20,4
+GAP,"1,363",1363.0,4.0,Amazon India,womens hoodies,2026-07-13 21:31:29,Gap,4.0,1,0,1,1,0,0,3,1,0,0,0,1,9,3
+ADBUCKS,775,775.0,3.7,Amazon India,womens hoodies,2026-07-13 21:31:29,ADBUCKS,3.7,1,0,1,1,0,0,7,1,0,0,0,1,1,1
+Hoodie for Women|Sweatshirt for Women Stylish | Hooded (Sweatshirt) for Women's| Winter Wear for Wom,499,499.0,3.3,Amazon India,womens hoodies,2026-07-13 21:31:29,Hoodie,3.3,1,0,1,1,0,0,100,15,0,0,0,1,12,1
+PDK Fashion Solid Long Hooded Neck Hoodie Zipper Crop Jacket for Women's,499,499.0,4.0,Amazon India,womens hoodies,2026-07-13 21:31:29,Jack,4.0,1,0,1,1,0,0,72,12,0,0,0,1,15,2
+Solid Long Hooded Neck Hoodie Zipper Crop Jacket for Women's,449,449.0,3.7,Amazon India,womens hoodies,2026-07-13 21:31:29,Jack,3.7,1,0,1,1,0,0,60,10,0,0,0,1,15,2
+GRECIILOOKS,599,599.0,3.9,Amazon India,womens hoodies,2026-07-13 21:31:29,GRECIILOOKS,3.9,1,0,1,1,0,0,11,1,0,0,0,1,8,2
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-07-13 21:31:29,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,1,16,5
+GAP,"1,231",1231.0,4.0,Amazon India,womens hoodies,2026-07-13 21:31:29,Gap,4.0,1,0,1,1,0,0,3,1,0,0,0,1,9,3
+Mack Jonney,389,389.0,3.8,Amazon India,womens hoodies,2026-07-13 21:31:29,Mack,3.8,1,0,1,1,0,0,11,2,0,0,0,1,22,3
+TAGAS,599,599.0,4.0,Amazon India,womens hoodies,2026-07-13 21:31:29,Tagas,4.0,1,0,1,1,0,0,5,1,0,0,0,1,33,3
+Mack Jonney,419,419.0,3.8,Amazon India,womens hoodies,2026-07-13 21:31:29,Mack,3.8,1,0,1,1,0,0,11,2,0,0,0,1,22,3
+TAGAS,749,749.0,4.0,Amazon India,womens hoodies,2026-07-13 21:31:29,Tagas,4.0,1,0,1,1,0,0,5,1,0,0,0,1,33,3
+Boldfit,769,769.0,4.2,Amazon India,womens hoodies,2026-07-13 21:31:29,Boldfit,4.2,1,0,1,1,0,0,7,1,0,0,0,1,5,4
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-07-13 21:31:29,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,1,16,5
+FUNKY MONKEY,699,699.0,4.1,Amazon India,womens hoodies,2026-07-13 21:31:29,FUNKY,4.1,1,0,1,1,0,0,12,2,0,0,0,1,7,3
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-07-13 21:31:29,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,1,16,5
+Solid Zipper Hoodie for Womens,499,499.0,3.8,Amazon India,womens hoodies,2026-07-13 21:31:29,Solid,3.8,1,0,1,1,0,0,30,5,0,0,0,1,31,1
+Boldfit,699,699.0,4.2,Amazon India,womens hoodies,2026-07-13 21:31:29,Boldfit,4.2,1,0,1,1,0,0,7,1,0,0,0,1,5,4
+AUSK,348,348.0,3.7,Amazon India,mens sweatshirt,2026-07-13 21:31:41,AUSK,3.7,1,1,1,0,0,0,4,1,0,0,0,0,3,1
+JVX,599,599.0,3.9,Amazon India,mens sweatshirt,2026-07-13 21:31:41,JVX,3.9,1,1,1,0,0,0,3,1,0,0,0,0,14,1
+Mack Jonney,419,419.0,3.5,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Mack,3.5,1,1,1,0,0,0,11,2,0,0,0,0,22,3
+Lymio,659,659.0,3.4,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,0,21,2
+Imsa Moda,489,489.0,3.6,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Imsa,3.6,1,1,1,0,0,0,9,2,0,0,0,0,13,1
+"Mens Stylish Half Zip Tshirt, Texture Striped Casual T-Shirt for Men, Formal Collared Neck Full Slee",298,298.0,4.2,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Lee,4.2,1,1,1,0,0,0,100,16,0,0,0,0,20,4
+Trillion,499,499.0,3.7,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Trillion,3.7,1,1,1,0,0,0,8,1,0,0,0,0,34,1
+Generic,299,299.0,3.1,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Generic,3.1,1,1,1,0,0,0,7,1,0,0,0,0,10,4
+Alan Jones Clothing,648,648.0,3.9,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Jones,3.9,1,1,1,0,0,0,19,3,0,0,0,0,16,5
+Lymio,579,579.0,3.9,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Lymio,3.9,1,1,1,0,0,0,5,1,0,0,0,0,21,2
+LEOTUDE,448,448.0,3.8,Amazon India,mens sweatshirt,2026-07-13 21:31:41,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,19,1
+TAGAS,629,629.0,4.2,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Tagas,4.2,1,1,1,0,0,0,5,1,0,0,0,0,33,3
+Allen Solly,872,872.0,4.0,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,0,4,2
+Neostreak,499,499.0,3.8,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Neostreak,3.8,1,1,1,0,0,0,9,1,0,0,0,0,24,1
+Max,647,647.0,4.0,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,23,7
+PUMA,"1,399",1399.0,4.1,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Puma,4.1,1,1,1,0,0,0,4,1,0,0,0,0,30,1
+U.S. POLO ASSN.,"2,519",2519.0,4.4,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Polo,4.4,1,1,1,0,0,0,15,3,0,0,0,0,29,1
+Max,482,482.0,4.0,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,23,7
+GRECIILOOKS,499,499.0,3.9,Amazon India,mens sweatshirt,2026-07-13 21:31:41,GRECIILOOKS,3.9,1,1,1,0,0,0,11,1,0,0,0,0,8,2
+Boldfit,499,499.0,3.9,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Boldfit,3.9,1,1,1,0,0,0,7,1,0,0,0,0,5,4
+Noble Monk,375,375.0,3.3,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Noble,3.3,1,1,1,0,0,0,10,2,0,0,0,0,26,1
+Park Avenue,"1,099",1099.0,4.2,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Park,4.2,1,1,1,0,0,0,11,2,0,0,0,0,28,1
+Boldfit,749,749.0,4.0,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Boldfit,4.0,1,1,1,0,0,0,7,1,0,0,0,0,5,4
+GAP,"1,231",1231.0,1.5,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Gap,1.5,1,1,1,0,0,0,3,1,0,0,0,0,9,3
+Allen Solly,899,899.0,4.0,Amazon India,mens sweatshirt,2026-07-13 21:31:41,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,0,4,2
+Generic,325,325.0,4.0,Amazon India,womens kurti,2026-07-13 21:32:11,Generic,4.0,1,0,1,1,0,0,7,1,0,0,0,2,10,4
+Max,599,599.0,4.2,Amazon India,womens kurti,2026-07-13 21:32:11,Max,4.2,1,0,1,1,0,0,3,1,0,0,0,2,23,7
+New Cotton Leaf Printed Casual Straight Kurta for Women | Women Formal Kurti,299,299.0,3.9,Amazon India,womens kurti,2026-07-13 21:32:11,New,3.9,1,0,1,1,0,0,76,13,0,1,0,2,25,1
+Max,499,499.0,4.1,Amazon India,womens kurti,2026-07-13 21:32:11,Max,4.1,1,0,1,1,0,0,3,1,0,0,0,2,23,7
+FIRSTRAIN,379,379.0,3.8,Amazon India,womens kurti,2026-07-13 21:32:11,FIRSTRAIN,3.8,1,0,1,1,0,0,9,1,0,0,0,2,6,1
+ANNI DESIGNER,359,359.0,3.1,Amazon India,womens kurti,2026-07-13 21:32:11,ANNI,3.1,1,0,1,1,0,0,13,2,1,0,0,2,2,4
+KLOSIA,699,699.0,4.2,Amazon India,womens kurti,2026-07-13 21:32:11,KLOSIA,4.2,1,0,1,1,0,0,6,1,0,0,0,2,17,3
+AA Creation,299,299.0,2.5,Amazon India,womens kurti,2026-07-13 21:32:11,AA,2.5,1,0,1,1,0,0,11,2,0,0,0,2,0,1
+ANNI DESIGNER,499,499.0,3.3,Amazon India,womens kurti,2026-07-13 21:32:11,ANNI,3.3,1,0,1,1,0,0,13,2,1,0,0,2,2,4
+KLOSIA,799,799.0,4.1,Amazon India,womens kurti,2026-07-13 21:32:11,KLOSIA,4.1,1,0,1,1,0,0,6,1,0,0,0,2,17,3
+Generic,289,289.0,3.6,Amazon India,womens kurti,2026-07-13 21:32:11,Generic,3.6,1,0,1,1,0,0,7,1,0,0,0,2,10,4
+Generic,359,359.0,4.0,Amazon India,womens kurti,2026-07-13 21:32:11,Generic,4.0,1,0,1,1,0,0,7,1,0,0,0,2,10,4
+rytras,419,419.0,3.9,Amazon India,womens kurti,2026-07-13 21:32:11,rytras,3.9,1,0,1,1,0,0,6,1,0,0,0,2,35,1
+KLOSIA,799,799.0,4.1,Amazon India,womens kurti,2026-07-13 21:32:11,KLOSIA,4.1,1,0,1,1,0,0,6,1,0,0,0,2,17,3
+GoSriKi,699,699.0,3.6,Amazon India,womens kurti,2026-07-13 21:32:11,GoSriKi,3.6,1,0,1,1,0,0,7,1,0,0,0,2,11,3
+GoSriKi,499,499.0,3.8,Amazon India,womens kurti,2026-07-13 21:32:11,GoSriKi,3.8,1,0,1,1,0,0,7,1,0,0,0,2,11,3
+ANNI DESIGNER,359,359.0,3.1,Amazon India,womens kurti,2026-07-13 21:32:11,ANNI,3.1,1,0,1,1,0,0,13,2,1,0,0,2,2,4
+ANNI DESIGNER,499,499.0,4.9,Amazon India,womens kurti,2026-07-13 21:32:11,ANNI,4.9,1,0,1,1,0,0,13,2,1,0,0,2,2,4
+Max,449,449.0,4.0,Amazon India,womens kurti,2026-07-13 21:32:11,Max,4.0,1,0,1,1,0,0,3,1,0,0,0,2,23,7
+Max,449,449.0,4.1,Amazon India,womens kurti,2026-07-13 21:32:11,Max,4.1,1,0,1,1,0,0,3,1,0,0,0,2,23,7
+PARTHVI,759,759.0,3.8,Amazon India,womens kurti,2026-07-13 21:32:11,PARTHVI,3.8,1,0,1,1,0,0,7,1,0,0,0,2,27,1
+Max,499,499.0,3.9,Amazon India,womens kurti,2026-07-13 21:32:11,Max,3.9,1,0,1,1,0,0,3,1,0,0,0,2,23,7
+Kurti with Plazo Set for Women,352.,352.0,3.7,Amazon India,womens kurti,2026-07-13 21:32:11,Kurti,3.7,1,0,1,1,0,0,30,6,0,0,0,2,18,1
+Sun Fashion And Lifestyle,460,460.0,3.8,Amazon India,womens kurti,2026-07-13 21:32:11,Sun,3.8,1,0,1,1,0,0,25,4,0,0,0,2,32,1
+GoSriKi,651,651.0,3.6,Amazon India,womens kurti,2026-07-13 21:32:11,GoSriKi,3.6,1,0,1,1,0,0,7,1,0,0,0,2,11,3
