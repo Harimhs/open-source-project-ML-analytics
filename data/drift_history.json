@@ -1,18 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18T22:33:32.192853",
-    "total_products": 25,
-    "avg_price": 738.32,
-    "price_std": 435.02842052751754,
-    "categories": 1,
-    "brands": 16,
-    "model_name": "Linear Regression",
-    "drift_detected": true,
-    "alerts": [
-      "\u26a0\ufe0f Average price changed by 73.9%"
-    ]
-  },
-  {
     "timestamp": "2026-06-20T21:51:57.019642",
     "total_products": 25,
     "avg_price": 753.12,
@@ -394,6 +381,19 @@
     "drift_detected": true,
     "alerts": [
       "\u26a0\ufe0f Product count changed by 85.7%"
+    ]
+  },
+  {
+    "timestamp": "2026-07-23T21:39:49.017772",
+    "total_products": 50,
+    "avg_price": 474.04,
+    "price_std": 240.80349851685955,
+    "categories": 2,
+    "brands": 27,
+    "model_name": "Random Forest (Small)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Product count changed by 100.0%"
     ]
   }
 ]

@@ -1,26 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-FTX,395,395.0,3.9,Amazon India,mens sports tshirt,2026-07-22 21:38:59,FTX,3.9,1,1,1,0,0,0,3,1,0,0,0,0,6,1
-AUSK,278,278.0,3.4,Amazon India,mens sports tshirt,2026-07-22 21:38:59,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,2,3
-ATICX,489,489.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,ATICX,4.0,1,1,1,0,0,0,5,1,0,0,0,0,1,1
-3Colors,499,499.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,3Colors,4.0,1,1,1,0,0,0,7,1,0,0,0,0,0,1
-adidas,779,779.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,4
-Kvetoo,379,379.0,3.9,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Kvetoo,3.9,1,1,1,0,0,0,6,1,0,0,0,0,9,1
-AUSK,278,278.0,3.5,Amazon India,mens sports tshirt,2026-07-22 21:38:59,AUSK,3.5,1,1,1,0,0,0,4,1,0,0,0,0,2,3
-Boldfit,389,389.0,4.2,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Boldfit,4.2,1,1,1,0,0,0,7,1,0,0,0,0,4,1
-TECHNOSPORT,305,305.0,4.3,Amazon India,mens sports tshirt,2026-07-22 21:38:59,TECHNOSPORT,4.3,1,1,1,0,0,0,11,1,0,0,0,0,16,1
-adidas,749,749.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,4
-PUMA,719,719.0,4.2,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Puma,4.2,1,1,1,0,0,0,4,1,0,0,0,0,15,4
-Jockey,799,799.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Jockey,4.0,1,1,1,0,0,0,6,1,0,0,0,0,8,1
-CHKOKKO,497,497.0,3.8,Amazon India,mens sports tshirt,2026-07-22 21:38:59,CHKOKKO,3.8,1,1,1,0,0,0,7,1,0,0,0,0,5,1
-"Men's Regular Fit Quick-Dry Active T-Shirt for Gym & Sports – Stylish, Comfortable, and Perfect for ",299,299.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Men's,4.0,1,1,1,0,0,0,100,16,0,0,1,0,11,1
-AUSK,159,159.0,3.8,Amazon India,mens sports tshirt,2026-07-22 21:38:59,AUSK,3.8,1,1,1,0,0,0,4,1,0,0,0,0,2,3
-adidas,"1,399",1399.0,4.4,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Adidas,4.4,1,1,1,0,0,0,6,1,0,0,0,0,3,4
-Peppyzone,329,329.0,3.7,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Peppyzone,3.7,1,1,1,0,0,0,9,1,0,0,0,0,13,1
-NETCLICK,347,347.0,3.8,Amazon India,mens sports tshirt,2026-07-22 21:38:59,NETCLICK,3.8,1,1,1,0,0,0,8,1,0,0,0,0,12,1
-adidas,709,709.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,4
-PUMA,900,900.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Puma,4.0,1,1,1,0,0,0,4,1,0,0,0,0,15,4
-Lymio,399,399.0,3.4,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,0,10,1
-PUMA,849,849.0,3.9,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Puma,3.9,1,1,1,0,0,0,4,1,0,0,0,0,15,4
-JUARI BE A GENTLEMAN,302,302.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,JUARI,4.0,1,1,1,0,0,0,20,4,0,0,0,0,7,1
-"Mens Pique Polo T-Shirt | Cotton Rich, Smart Fit Polo with Embroidered Logo | Casual & Sports Wear |",298,298.0,3.8,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Polo,3.8,1,1,1,0,0,0,100,19,0,1,0,0,14,1
-PUMA,899,899.0,4.0,Amazon India,mens sports tshirt,2026-07-22 21:38:59,Puma,4.0,1,1,1,0,0,0,4,1,0,0,0,0,15,4
+FTX,395,395.0,3.9,Amazon India,mens sports tshirt,2026-07-23 21:37:28,FTX,3.9,1,1,1,0,0,0,3,1,0,0,0,0,7,1
+AUSK,278,278.0,3.4,Amazon India,mens sports tshirt,2026-07-23 21:37:28,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,2,6
+ATICX,489,489.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,ATICX,4.0,1,1,1,0,0,0,5,1,0,0,0,0,1,1
+adidas,779,779.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,4
+Kvetoo,379,379.0,3.9,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Kvetoo,3.9,1,1,1,0,0,0,6,1,0,0,0,0,13,1
+3Colors,499,499.0,3.9,Amazon India,mens sports tshirt,2026-07-23 21:37:28,3Colors,3.9,1,1,1,0,0,0,7,1,0,0,0,0,0,1
+AUSK,278,278.0,3.5,Amazon India,mens sports tshirt,2026-07-23 21:37:28,AUSK,3.5,1,1,1,0,0,0,4,1,0,0,0,0,2,6
+adidas,749,749.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,4
+Boldfit,389,389.0,4.2,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Boldfit,4.2,1,1,1,0,0,0,7,1,0,0,0,0,5,1
+Jockey,799,799.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Jockey,4.0,1,1,1,0,0,0,6,1,0,0,0,0,11,2
+TECHNOSPORT,305,305.0,4.3,Amazon India,mens sports tshirt,2026-07-23 21:37:28,TECHNOSPORT,4.3,1,1,1,0,0,0,11,1,0,0,0,0,24,1
+CHKOKKO,497,497.0,3.8,Amazon India,mens sports tshirt,2026-07-23 21:37:28,CHKOKKO,3.8,1,1,1,0,0,0,7,1,0,0,0,0,6,2
+"Men's Regular Fit Quick-Dry Active T-Shirt for Gym & Sports – Stylish, Comfortable, and Perfect for ",299,299.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Men's,4.0,1,1,1,0,0,0,100,16,0,0,1,0,18,1
+AUSK,159,159.0,3.8,Amazon India,mens sports tshirt,2026-07-23 21:37:28,AUSK,3.8,1,1,1,0,0,0,4,1,0,0,0,0,2,6
+adidas,709,709.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,4
+PUMA,939,939.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Puma,4.0,1,1,1,0,0,0,4,1,0,0,0,0,23,2
+Peppyzone,329,329.0,3.7,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Peppyzone,3.7,1,1,1,0,0,0,9,1,0,0,0,0,21,1
+PUMA,899,899.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Puma,4.0,1,1,1,0,0,0,4,1,0,0,0,0,23,2
+NETCLICK,347,347.0,3.7,Amazon India,mens sports tshirt,2026-07-23 21:37:28,NETCLICK,3.7,1,1,1,0,0,0,8,1,0,0,0,0,19,1
+CHKOKKO,349,349.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,CHKOKKO,4.0,1,1,1,0,0,0,7,1,0,0,0,0,6,2
+"Mens Pique Polo T-Shirt | Cotton Rich, Smart Fit Polo with Embroidered Logo | Casual & Sports Wear |",298,298.0,3.8,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Polo,3.8,1,1,1,0,0,0,100,19,0,1,0,0,22,2
+Pepe Jeans,399,399.0,3.7,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Pepe,3.7,1,1,1,0,0,0,10,2,0,0,0,0,20,1
+JUARI BE A GENTLEMAN,302,302.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,JUARI,4.0,1,1,1,0,0,0,20,4,0,0,0,0,9,1
+Lymio,399,399.0,3.4,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,0,16,1
+adidas,709,709.0,4.0,Amazon India,mens sports tshirt,2026-07-23 21:37:28,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,3,4
+Max,299,299.0,3.9,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Max,3.9,1,1,1,1,0,0,3,1,0,0,0,1,17,5
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,299,299.0,3.2,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Lee,3.2,1,1,1,1,0,0,100,19,0,1,0,1,14,3
+Women's Graphic T-Shirt Bundle - 3-Pack Variety Set with Premium Soft Breathable Cotton for Everyday,389,389.0,5.0,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Women's,5.0,1,1,1,1,0,0,100,15,1,1,0,1,26,2
+AUSK,290,290.0,4.0,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,AUSK,4.0,1,1,1,1,0,0,4,1,0,0,0,1,2,6
+Max,199,199.0,3.9,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Max,3.9,1,1,1,1,0,0,3,1,0,0,0,1,17,5
+Sleepynuts,999,999.0,4.0,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Lee,4.0,1,1,1,1,0,0,10,1,0,0,0,1,14,3
+"Women's Typography Round Neck Cotton-Blend T-Shirts, Oversized Drop Shoulder Boho Style T-Shirt",297,297.0,3.3,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Women's,3.3,1,1,1,1,0,0,95,12,0,1,1,1,26,2
+Jockey,549,549.0,4.3,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Jockey,4.3,1,1,1,1,0,0,6,1,0,0,0,1,11,2
+Max,199,199.0,3.9,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Max,3.9,1,1,1,1,0,0,3,1,0,0,0,1,17,5
+Fabricorn,975,975.0,4.1,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Fabricorn,4.1,1,1,1,1,0,0,9,1,0,0,0,1,8,1
+Allen Solly,454,454.0,4.1,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Allen,4.1,1,1,1,1,0,0,11,2,0,0,0,1,4,2
+Max,249,249.0,3.9,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Max,3.9,1,1,1,1,0,0,3,1,0,0,0,1,17,5
+London Hills,376,376.0,4.0,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,London,4.0,1,1,1,1,0,0,12,2,0,0,0,1,15,4
+London Hills,898,898.0,4.0,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,London,4.0,1,1,1,1,0,0,12,2,0,0,0,1,15,4
+Sleepynuts,999,999.0,4.0,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Lee,4.0,1,1,1,1,0,0,10,1,0,0,0,1,14,3
+TQH,289,289.0,3.7,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,TQH,3.7,1,1,1,1,0,0,3,1,0,0,0,1,25,1
+London Hills,597,597.0,3.8,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,London,3.8,1,1,1,1,0,0,12,2,0,0,0,1,15,4
+Allen Solly,419,419.0,4.1,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Allen,4.1,1,1,1,1,0,0,11,2,0,0,0,1,4,2
+AUSK,248,248.0,3.8,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,AUSK,3.8,1,1,1,1,0,0,4,1,0,0,0,1,2,6
+Max,299,299.0,4.1,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Max,4.1,1,1,1,1,0,0,3,1,0,0,0,1,17,5
+U.S. POLO ASSN.,758,758.0,4.3,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Polo,4.3,1,1,1,1,0,0,15,3,0,0,0,1,22,2
+AUSK,278,278.0,3.8,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,AUSK,3.8,1,1,1,1,0,0,4,1,0,0,0,1,2,6
+KSHS,299,299.0,3.5,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,KSHS,3.5,1,1,1,1,0,0,4,1,0,0,0,1,12,1
+Jawdrobe,375,375.0,4.0,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,Jawdrobe,4.0,1,1,1,1,0,0,8,1,0,0,0,1,10,1
+London Hills,696,696.0,4.1,Amazon India,womens cotton tshirt,2026-07-23 21:38:39,London,4.1,1,1,1,1,0,0,12,2,0,0,0,1,15,4
