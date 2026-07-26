@@ -1,26 +1,76 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,490,490.0,3.4,Amazon India,womens hoodies,2026-07-25 21:29:30,Lee,3.4,1,0,1,1,0,0,83,13,0,0,0,0,9,4
-Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,499,499.0,3.4,Amazon India,womens hoodies,2026-07-25 21:29:30,Lee,3.4,1,0,1,1,0,0,83,13,0,0,0,0,9,4
-Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-07-25 21:29:30,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,0,8,5
-FUNKY MONKEY,749,749.0,4.1,Amazon India,womens hoodies,2026-07-25 21:29:30,FUNKY,4.1,1,0,1,1,0,0,12,2,0,0,0,0,2,3
-Hoodie for Women|Sweatshirt for Women Stylish | Hooded (Sweatshirt) for Women's| Winter Wear for Wom,474,474.0,3.4,Amazon India,womens hoodies,2026-07-25 21:29:30,Hoodie,3.4,1,0,1,1,0,0,100,15,0,0,0,0,6,1
-FUNKY MONKEY,749,749.0,4.1,Amazon India,womens hoodies,2026-07-25 21:29:30,FUNKY,4.1,1,0,1,1,0,0,12,2,0,0,0,0,2,3
-PDK Fashion Solid Long Hooded Neck Hoodie Zipper Crop Jacket for Women's,499,499.0,4.1,Amazon India,womens hoodies,2026-07-25 21:29:30,Jack,4.1,1,0,1,1,0,0,72,12,0,0,0,0,7,2
-HOODLIFE,799,799.0,4.2,Amazon India,womens hoodies,2026-07-25 21:29:30,HOODLIFE,4.2,1,0,1,1,0,0,8,1,0,0,0,0,5,1
-GAP,"2,499",2499.0,3.7,Amazon India,womens hoodies,2026-07-25 21:29:30,Gap,3.7,1,0,1,1,0,0,3,1,0,0,0,0,4,3
-TAGAS,599,599.0,3.9,Amazon India,womens hoodies,2026-07-25 21:29:30,Tagas,3.9,1,0,1,1,0,0,5,1,0,0,0,0,11,1
-PDK Fashion Anime Couple Print Long Sleeves Winter Hoodie with Front Pocket Men's & Women's Sweater,499,499.0,4.2,Amazon India,womens hoodies,2026-07-25 21:29:30,Lee,4.2,1,0,1,1,0,0,99,16,0,0,0,0,9,4
-Mack Jonney,389,389.0,3.8,Amazon India,womens hoodies,2026-07-25 21:29:30,Mack,3.8,1,0,1,1,0,0,11,2,0,0,0,0,10,1
-GAP,"2,499",2499.0,3.7,Amazon India,womens hoodies,2026-07-25 21:29:30,Gap,3.7,1,0,1,1,0,0,3,1,0,0,0,0,4,3
-ADBUCKS,775,775.0,3.7,Amazon India,womens hoodies,2026-07-25 21:29:30,ADBUCKS,3.7,1,0,1,1,0,0,7,1,0,0,0,0,0,1
-Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-07-25 21:29:30,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,0,8,5
-Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-07-25 21:29:30,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,0,8,5
-Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,499,499.0,3.6,Amazon India,womens hoodies,2026-07-25 21:29:30,Lee,3.6,1,0,1,1,0,0,83,13,0,0,0,0,9,4
-Solid Long Hooded Neck Hoodie Zipper Crop Jacket for Women's,499,499.0,3.6,Amazon India,womens hoodies,2026-07-25 21:29:30,Jack,3.6,1,0,1,1,0,0,60,10,0,0,0,0,7,2
-GRECIILOOKS,599,599.0,3.9,Amazon India,womens hoodies,2026-07-25 21:29:30,GRECIILOOKS,3.9,1,0,1,1,0,0,11,1,0,0,0,0,3,2
-GRECIILOOKS,599,599.0,3.5,Amazon India,womens hoodies,2026-07-25 21:29:30,GRECIILOOKS,3.5,1,0,1,1,0,0,11,1,0,0,0,0,3,2
-Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-07-25 21:29:30,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,0,8,5
-Boldfit,689,689.0,4.2,Amazon India,womens hoodies,2026-07-25 21:29:30,Boldfit,4.2,1,0,1,1,0,0,7,1,0,0,0,0,1,1
-Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-07-25 21:29:30,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,0,8,5
-GAP,"3,299",3299.0,5.0,Amazon India,womens hoodies,2026-07-25 21:29:30,Gap,5.0,1,0,1,1,0,0,3,1,0,0,0,0,4,3
-FUNKY MONKEY,749,749.0,4.1,Amazon India,womens hoodies,2026-07-25 21:29:30,FUNKY,4.1,1,0,1,1,0,0,12,2,0,0,0,0,2,3
+Generic,240,240.0,3.0,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Generic,3.0,1,1,1,0,0,0,7,1,0,0,0,0,9,2
+The Souled Store,"1,399",1399.0,4.3,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,The,4.3,1,1,1,0,0,0,16,3,0,0,0,0,32,1
+Mack Jonney,319,319.0,3.4,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Mack,3.4,1,1,1,0,0,0,11,2,0,0,0,0,24,6
+JVX,429,429.0,3.7,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,JVX,3.7,1,1,1,0,0,0,3,1,0,0,0,0,13,3
+KAJARU,329,329.0,3.9,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,KAJARU,3.9,1,1,1,0,0,0,6,1,0,0,0,0,17,2
+AUSK,278,278.0,3.4,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,0,5
+AUSK,347,347.0,3.6,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,AUSK,3.6,1,1,1,0,0,0,4,1,0,0,0,0,0,5
+Mack Jonney,298,298.0,2.8,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Mack,2.8,1,1,1,0,0,0,11,2,0,0,0,0,24,6
+"Mens Stylish Half Zip Tshirt, Texture Striped Casual T-Shirt for Men, Formal Collared Neck Full Slee",297,297.0,4.0,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Lee,4.0,1,1,1,0,0,0,100,16,0,0,0,0,21,4
+"Mens Stylish Half Zip Tshirt, Texture Striped Casual T-Shirt for Men, Formal Collared Neck Full Slee",297,297.0,4.0,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Lee,4.0,1,1,1,0,0,0,100,16,0,0,0,0,21,4
+LAZYCHUNKS,460,460.0,4.0,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,LAZYCHUNKS,4.0,1,1,1,0,0,0,10,1,0,0,0,0,19,1
+AUSK,278,278.0,3.5,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,AUSK,3.5,1,1,1,0,0,0,4,1,0,0,0,0,0,5
+Imsa Moda,310,310.0,4.4,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Imsa,4.4,1,1,1,0,0,0,9,2,0,0,0,0,11,2
+TAGAS,498,498.0,3.8,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Tagas,3.8,1,1,1,0,0,0,5,1,0,0,0,0,31,9
+AUSK,298,298.0,3.5,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,AUSK,3.5,1,1,1,0,0,0,4,1,0,0,0,0,0,5
+JUGULAR,210,210.0,3.6,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,JUGULAR,3.6,1,1,1,0,0,0,7,1,0,0,0,0,12,1
+LEOTUDE,296,296.0,3.6,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,LEOTUDE,3.6,1,1,1,0,0,0,7,1,0,0,0,0,20,4
+Jump Cuts,340,340.0,3.8,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Jump,3.8,1,1,1,0,0,0,9,2,0,0,0,0,16,1
+JVX,499,499.0,3.7,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,JVX,3.7,1,1,1,0,0,0,3,1,0,0,0,0,13,3
+Sleepynuts,999,999.0,3.9,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Lee,3.9,1,1,1,0,0,0,10,1,0,0,0,0,21,4
+KAJARU,345,345.0,3.9,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,KAJARU,3.9,1,1,1,0,0,0,6,1,0,0,0,0,17,2
+U.S. POLO ASSN.,712,712.0,3.8,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,0,30,1
+Veirdo,449,449.0,3.7,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Veirdo,3.7,1,1,1,0,0,0,6,1,0,0,0,0,34,1
+Jockey,799,799.0,4.2,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,14,1
+DAMENSCH,"1,339",1339.0,3.9,Amazon India,mens full sleeve tshirt,2026-07-26 21:28:28,DAMENSCH,3.9,1,1,1,0,0,0,8,1,0,0,0,0,4,1
+AUSK,347,347.0,3.6,Amazon India,mens sweatshirt,2026-07-26 21:30:30,AUSK,3.6,1,1,1,0,0,0,4,1,0,0,0,1,0,5
+JVX,599,599.0,3.9,Amazon India,mens sweatshirt,2026-07-26 21:30:30,JVX,3.9,1,1,1,0,0,0,3,1,0,0,0,1,13,3
+"Mens Stylish Half Zip Tshirt, Texture Striped Casual T-Shirt for Men, Formal Collared Neck Full Slee",297,297.0,4.0,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Lee,4.0,1,1,1,0,0,0,100,16,0,0,0,1,21,4
+Imsa Moda,489,489.0,3.6,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Imsa,3.6,1,1,1,0,0,0,9,2,0,0,0,1,11,2
+Alan Jones Clothing,648,648.0,3.9,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Jones,3.9,1,1,1,0,0,0,19,3,0,0,0,1,15,6
+Generic,299,299.0,3.1,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Generic,3.1,1,1,1,0,0,0,7,1,0,0,0,1,9,2
+Trillion,499,499.0,3.8,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Trillion,3.8,1,1,1,0,0,0,8,1,0,0,0,1,33,1
+Lymio,659,659.0,3.5,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Lymio,3.5,1,1,1,0,0,0,5,1,0,0,0,1,23,2
+Mack Jonney,419,419.0,3.5,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Mack,3.5,1,1,1,0,0,0,11,2,0,0,0,1,24,6
+GAP,"1,171",1171.0,3.0,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Gap,3.0,1,1,1,0,0,0,3,1,0,0,0,1,8,3
+Neostreak,499,499.0,3.8,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Neostreak,3.8,1,1,1,0,0,0,9,1,0,0,0,1,26,1
+GRECIILOOKS,499,499.0,3.9,Amazon India,mens sweatshirt,2026-07-26 21:30:30,GRECIILOOKS,3.9,1,1,1,0,0,0,11,1,0,0,0,1,7,1
+Noble Monk,529,529.0,3.8,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Noble,3.8,1,1,1,0,0,0,10,2,0,0,0,1,27,1
+Lymio,579,579.0,3.8,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Lymio,3.8,1,1,1,0,0,0,5,1,0,0,0,1,23,2
+Allen Solly,970,970.0,4.0,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,1,1,3
+PROSHARX,404,404.0,3.7,Amazon India,mens sweatshirt,2026-07-26 21:30:30,PROSHARX,3.7,1,1,1,0,0,0,8,1,1,0,0,1,28,2
+PROSHARX,990,990.0,3.5,Amazon India,mens sweatshirt,2026-07-26 21:30:30,PROSHARX,3.5,1,1,1,0,0,0,8,1,1,0,0,1,28,2
+LEOTUDE,448,448.0,3.7,Amazon India,mens sweatshirt,2026-07-26 21:30:30,LEOTUDE,3.7,1,1,1,0,0,0,7,1,0,0,0,1,20,4
+Max,559,559.0,4.0,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,1,25,1
+Lux Cozi,585,585.0,3.9,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Lux,3.9,1,1,1,0,0,0,8,2,0,0,0,1,22,1
+Mack Jonney,419,419.0,3.8,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Mack,3.8,1,1,1,0,0,0,11,2,0,0,0,1,24,6
+Boldfit,624,624.0,4.0,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Boldfit,4.0,1,1,1,0,0,0,7,1,0,0,0,1,2,1
+TAGAS,629,629.0,4.2,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Tagas,4.2,1,1,1,0,0,0,5,1,0,0,0,1,31,9
+Park Avenue,899,899.0,4.1,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Park,4.1,1,1,1,0,0,0,11,2,0,0,0,1,29,1
+Allen Solly,899,899.0,4.0,Amazon India,mens sweatshirt,2026-07-26 21:30:30,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,1,1,3
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Jones,4.1,1,1,1,1,0,0,19,3,0,0,0,2,15,6
+LEOTUDE,448,448.0,3.8,Amazon India,womens sweatshirt,2026-07-26 21:30:40,LEOTUDE,3.8,1,1,1,1,0,0,7,1,0,0,0,2,20,4
+DRAXSTAR,430,430.0,3.5,Amazon India,womens sweatshirt,2026-07-26 21:30:40,DRAXSTAR,3.5,1,1,1,1,0,0,8,1,0,0,0,2,5,1
+TAGAS,589,589.0,4.0,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Tagas,4.0,1,1,1,1,0,0,5,1,0,0,0,2,31,9
+TAGAS,569,569.0,4.0,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Tagas,4.0,1,1,1,1,0,0,5,1,0,0,0,2,31,9
+TAGAS,659,659.0,4.0,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Tagas,4.0,1,1,1,1,0,0,5,1,0,0,0,2,31,9
+FUNKY MONKEY,749,749.0,4.1,Amazon India,womens sweatshirt,2026-07-26 21:30:40,FUNKY,4.1,1,1,1,1,0,0,12,2,0,0,0,2,6,2
+KOTTY,460,460.0,3.9,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Kotty,3.9,1,1,1,1,0,0,5,1,0,0,0,2,18,1
+TAGAS,669,669.0,4.0,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Tagas,4.0,1,1,1,1,0,0,5,1,0,0,0,2,31,9
+TAGAS,599,599.0,3.5,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Tagas,3.5,1,1,1,1,0,0,5,1,0,0,0,2,31,9
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Jones,4.1,1,1,1,1,0,0,19,3,0,0,0,2,15,6
+Mack Jonney,419,419.0,3.6,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Mack,3.6,1,1,1,1,0,0,11,2,0,0,0,2,24,6
+FUNKY MONKEY,749,749.0,4.1,Amazon India,womens sweatshirt,2026-07-26 21:30:40,FUNKY,4.1,1,1,1,1,0,0,12,2,0,0,0,2,6,2
+Alan Jones Clothing,698,698.0,4.1,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Jones,4.1,1,1,1,1,0,0,19,3,0,0,0,2,15,6
+LEOTUDE,448,448.0,3.9,Amazon India,womens sweatshirt,2026-07-26 21:30:40,LEOTUDE,3.9,1,1,1,1,0,0,7,1,0,0,0,2,20,4
+GAP,"2,499",2499.0,,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Gap,3.9,0,1,1,1,0,0,3,1,0,0,0,2,8,3
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Jones,4.1,1,1,1,1,0,0,19,3,0,0,0,2,15,6
+Celary,599,599.0,4.0,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Celary,4.0,1,1,1,1,0,0,6,1,0,0,0,2,3,1
+Mack Jonney,389,389.0,3.8,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Mack,3.8,1,1,1,1,0,0,11,2,0,0,0,2,24,6
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Jones,4.1,1,1,1,1,0,0,19,3,0,0,0,2,15,6
+HOODLIFE,799,799.0,4.2,Amazon India,womens sweatshirt,2026-07-26 21:30:40,HOODLIFE,4.2,1,1,1,1,0,0,8,1,0,0,0,2,10,1
+GAP,"2,499",2499.0,3.7,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Gap,3.7,1,1,1,1,0,0,3,1,0,0,0,2,8,3
+TAGAS,599,599.0,3.9,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Tagas,3.9,1,1,1,1,0,0,5,1,0,0,0,2,31,9
+Allen Solly,"1,115",1115.0,4.1,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Allen,4.1,1,1,1,1,0,0,11,2,0,0,0,2,1,3
+TAGAS,569,569.0,4.0,Amazon India,womens sweatshirt,2026-07-26 21:30:40,Tagas,4.0,1,1,1,1,0,0,5,1,0,0,0,2,31,9
