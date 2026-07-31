@@ -1,51 +1,126 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-AUSK,270,270.0,3.5,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Allen Solly,629,629.0,4.1,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Peter England,538,538.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-QNIM,399,399.0,3.4,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Cantabil,390,390.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Van Heusen,699,699.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Lux Cozi,395,395.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Van Heusen,637,637.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Mack Jonney,367,367.0,3.2,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Lux Cozi,380,380.0,3.8,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Max,349,349.0,4.2,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Lymio,399,399.0,3.4,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Max,399,399.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Van Heusen,648,648.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-"Mens Pique Polo T-Shirt | Cotton Rich, Smart Fit Polo with Embroidered Logo | Casual & Sports Wear |",298,298.0,3.8,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Louis Philippe,824,824.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Peter England,699,699.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-GRECIILOOKS,549,549.0,4.1,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Louis Philippe,"1,059",1059.0,4.1,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Louis Philippe,749,749.0,4.0,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-XYXX,599,599.0,3.8,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Allen Solly,639,639.0,4.1,Amazon India,mens polo tshirt,2026-07-30 21:44:46
-Max,199,199.0,3.9,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Allen Solly,419,419.0,4.1,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Dream Beauty Fashion,215,215.0,3.7,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Max,199,199.0,4.2,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,299,299.0,3.3,Amazon India,womens black tshirt,2026-07-30 21:46:28
-JUNEBERRY,379,379.0,4.0,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Dream Beauty Fashion,244,244.0,3.8,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Tfortees,349,349.0,,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Allen Solly,699,699.0,4.1,Amazon India,womens black tshirt,2026-07-30 21:46:28
-JUNEBERRY,384,384.0,3.9,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Jawdrobe,250,250.0,4.0,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Women’s Oversized Cotton T-Shirt | Plain Drop Shoulder Tee (S-7XL Plus Size),375,375.0,3.5,Amazon India,womens black tshirt,2026-07-30 21:46:28
-JUNEBERRY,363,363.0,4.2,Amazon India,womens black tshirt,2026-07-30 21:46:28
-TQH,289,289.0,3.7,Amazon India,womens black tshirt,2026-07-30 21:46:28
-TWIN BIRDS,299,299.0,4.3,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Fabricorn,395,395.0,4.0,Amazon India,womens black tshirt,2026-07-30 21:46:28
-FYLTR,329,329.0,3.9,Amazon India,womens black tshirt,2026-07-30 21:46:28
-BLACKSTEP,349,349.0,4.0,Amazon India,womens black tshirt,2026-07-30 21:46:28
-FLEXIMAA,299,299.0,4.0,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Max,349,349.0,4.2,Amazon India,womens black tshirt,2026-07-30 21:46:28
-London Hills,298,298.0,4.1,Amazon India,womens black tshirt,2026-07-30 21:46:28
-London Hills,299,299.0,3.9,Amazon India,womens black tshirt,2026-07-30 21:46:28
-JUNEBERRY,379,379.0,3.8,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Jockey,579,579.0,4.1,Amazon India,womens black tshirt,2026-07-30 21:46:28
-Max,299,299.0,4.0,Amazon India,womens black tshirt,2026-07-30 21:46:28
+AUSK,270,270.0,3.4,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+boffi ...,349,349.0,3.5,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+AUSK,270,270.0,3.0,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+JUGULAR,399,399.0,3.7,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+boffi ...,369,369.0,3.5,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+Jump Cuts,364,364.0,3.4,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+AUSK,260,260.0,3.6,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+KRYPTIC,321,321.0,3.8,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+BULLMER,539,539.0,3.5,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+LEOTUDE,296,296.0,3.9,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+U.S. POLO ASSN.,449,449.0,4.0,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+The Souled Store,899,899.0,4.2,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+AUSK,270,270.0,3.7,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+LEOTUDE,298,298.0,3.9,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+Imsa Moda,318,318.0,3.8,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+Peter England,977.,977.0,4.2,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+The Souled Store,699,699.0,4.5,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+LEOTUDE,298,298.0,3.9,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+GAP,699,699.0,3.8,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+NETCLICK,347,347.0,3.6,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+Van Heusen,599,599.0,4.1,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+Printed Men’s Polycotton Relax Fit Round Neck T-Shirt | Half Sleeve Solid Casual & Gym Wear Comforta,299,299.0,5.0,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+STELLERS,793,793.0,4.1,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+Max,519,519.0,4.2,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+Veirdo,479,479.0,4.3,Amazon India,mens printed tshirt,2026-07-31 21:40:00
+AUSK,270,270.0,3.6,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Allen Solly,699,699.0,4.1,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Peter England,538,538.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Lymio,429,429.0,3.6,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Cantabil,390,390.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Van Heusen,699,699.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Van Heusen,582,582.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Lux Cozi,395,395.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Lymio,399,399.0,3.4,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Van Heusen,648,648.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Max,399,399.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Lux Cozi,380,380.0,3.8,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Max,349,349.0,4.2,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Mack Jonney,367,367.0,3.2,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+"Mens Pique Polo T-Shirt | Cotton Rich, Smart Fit Polo with Embroidered Logo | Casual & Sports Wear |",298,298.0,3.8,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Louis Philippe,764,764.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Peter England,699,699.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+AUSK,270,270.0,3.7,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Allen Solly,639,639.0,4.1,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+GRECIILOOKS,549,549.0,3.9,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Louis Philippe,749,749.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+XYXX,599,599.0,3.8,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+Louis Philippe,779,779.0,4.0,Amazon India,mens polo tshirt,2026-07-31 21:40:23
+AUSK,223,223.0,3.4,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+BULLMER,539,539.0,3.5,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+AUSK,270,270.0,3.6,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Lux Cozi,395,395.0,4.0,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Max,198,198.0,4.0,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Sleepynuts,999,999.0,3.8,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Max,198,198.0,4.0,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Max,199,199.0,4.0,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Lymio,449,449.0,3.5,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Lux Cozi,309,309.0,4.0,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Levi's,356,356.0,4.1,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Allen Solly,699,699.0,4.1,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+WILD ELEPHANT,271.,271.0,3.4,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Louis Philippe,764,764.0,4.0,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+London Hills,499,499.0,3.8,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Allen Solly,699,699.0,4.1,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+ColorChakra,399,399.0,4.0,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+AUSK,270,270.0,3.7,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Lux Cozi,380,380.0,3.8,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Scott International,284,284.0,3.7,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Jockey,549,549.0,4.2,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Peter England,538,538.0,4.0,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Louis Philippe,839,839.0,4.0,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Peter England,879,879.0,4.1,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+Men’s Plain 100% Cotton T-Shirt Pack of 3 | Regular Fit Round Neck Half Sleeve Summer Casual Combo T,799,799.0,,Amazon India,mens cotton tshirt,2026-07-31 21:40:54
+AUSK,270,270.0,3.6,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Lymio,429,429.0,3.6,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Allen Solly,699,699.0,4.1,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Lymio,749,749.0,3.6,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Lux Cozi,417,417.0,4.0,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+"Mens Stylish Half Zip Tshirt, Texture Striped Casual T-Shirt for Men, Formal Collared Neck Full Slee",297,297.0,4.0,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+"Men’s Oversized Cotton Printed T-Shirt, Formal Round-Neck T-Shirt for Men, Graphic Print Tshirts for",297,297.0,3.4,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Lux Cozi,395,395.0,4.0,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+AUSK,270,270.0,3.7,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+GRECIILOOKS,599,599.0,4.3,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Imsa Moda,299,299.0,4.4,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Mack Jonney,367,367.0,3.2,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+WILD ELEPHANT,271.,271.0,3.4,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Louis Philippe,"1,039",1039.0,4.1,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+LEOTUDE,798,798.0,3.8,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+GRECIILOOKS,549,549.0,3.9,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Lymio,699,699.0,3.4,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Peter England,538,538.0,4.0,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+London Hills,397,397.0,3.9,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+AUSK,347,347.0,3.5,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+Imsa Moda,310,310.0,4.4,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+AUSK,297,297.0,5.0,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+AUSK,270,270.0,3.4,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+LEOTUDE,298,298.0,3.9,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+London Hills,299,299.0,3.6,Amazon India,mens casual tshirt,2026-07-31 21:41:20
+AUSK,270,270.0,3.6,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+GRECIILOOKS,549,549.0,3.9,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Louis Philippe,"1,039",1039.0,4.1,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+ColorChakra,399,399.0,4.0,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Mack Jonney,367,367.0,3.2,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Louis Philippe,779,779.0,4.0,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Peter England,538,538.0,4.0,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Louis Philippe,824,824.0,4.0,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Peter England,699,699.0,4.0,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Peter England,669,669.0,4.1,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Allen Solly,699,699.0,4.1,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Louis Philippe,764,764.0,4.0,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+STELLERS,718,718.0,4.1,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Men's Premium Waffle Knit Henley Tshirt for Men,335,335.0,5.0,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+London Hills,399,399.0,3.9,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+AUSK,297,297.0,3.7,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Lymio,449,449.0,3.5,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Peter England,844,844.0,4.1,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Symbol Premium,549,549.0,4.2,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Mack Jonney,319,319.0,3.3,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Lymio,429,429.0,3.6,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+GRECIILOOKS,599,599.0,4.3,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+WILD ELEPHANT,324.,324.0,3.5,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+FN3,379.,379.0,4.0,Amazon India,mens premium tshirt,2026-07-31 21:41:33
+Lymio,749,749.0,3.6,Amazon India,mens premium tshirt,2026-07-31 21:41:33
