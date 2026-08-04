@@ -1,76 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Max,199,199.0,4.0,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Allen Solly,699,699.0,4.1,Amazon India,mens black tshirt,2026-08-02 21:27:27
-QNIM,399,399.0,3.4,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Levi's,395,395.0,4.1,Amazon India,mens black tshirt,2026-08-02 21:27:27
-London Hills,249,249.0,3.9,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Trillion,398,398.0,4.0,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Lux Cozi,395,395.0,3.8,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Men's Premium Waffle Knit Henley Tshirt for Men,335,335.0,5.0,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens black tshirt,2026-08-02 21:27:27
-KAJARU,329,329.0,3.8,Amazon India,mens black tshirt,2026-08-02 21:27:27
-AUSK,283,283.0,3.5,Amazon India,mens black tshirt,2026-08-02 21:27:27
-AUSK,347,347.0,3.6,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Peter England,669,669.0,4.1,Amazon India,mens black tshirt,2026-08-02 21:27:27
-boffi ...,349,349.0,3.5,Amazon India,mens black tshirt,2026-08-02 21:27:27
-NETCLICK,297,297.0,3.5,Amazon India,mens black tshirt,2026-08-02 21:27:27
-London Hills,249,249.0,3.7,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Lymio,399,399.0,3.5,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Imsa Moda,310,310.0,4.4,Amazon India,mens black tshirt,2026-08-02 21:27:27
-XYXX,386,386.0,3.8,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Van Heusen,637,637.0,4.0,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Louis Philippe,824,824.0,4.0,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Jockey,536,536.0,4.2,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Van Heusen,489,489.0,4.1,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Amazon Brand - Symbol,349,349.0,4.0,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Louis Philippe,629,629.0,4.3,Amazon India,mens black tshirt,2026-08-02 21:27:27
-Alan Jones Clothing,728,728.0,4.1,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-LEOTUDE,448,448.0,3.8,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-DRAXSTAR,449,449.0,3.5,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-TAGAS,589,589.0,4.0,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-KOTTY,420,420.0,3.9,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-TAGAS,569,569.0,4.0,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Mack Jonney,389,389.0,3.9,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-FUNKY MONKEY,711,711.0,4.1,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-FUNKY MONKEY,711,711.0,4.1,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Alan Jones Clothing,698,698.0,4.1,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-TAGAS,669,669.0,4.0,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-TAGAS,599,599.0,3.8,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Mack Jonney,419,419.0,3.6,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-TAGAS,659,659.0,4.1,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-GAP,"2,499",2499.0,1.0,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Alan Jones Clothing,728,728.0,4.1,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Celary,599,599.0,4.0,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-LEOTUDE,448,448.0,3.9,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Allen Solly,989,989.0,4.1,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Monte Carlo,"1,491",1491.0,4.5,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Boldfit,769,769.0,4.2,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-TAGAS,599,599.0,3.9,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Reebok,"1,559",1559.0,4.0,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-TAGAS,569,569.0,4.0,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-Allen Solly,"1,258",1258.0,4.2,Amazon India,womens sweatshirt,2026-08-02 21:29:08
-AA Creation,299,299.0,2.8,Amazon India,womens kurti,2026-08-02 21:29:40
-Generic,325,325.0,3.9,Amazon India,womens kurti,2026-08-02 21:29:40
-New Cotton Leaf Printed Casual Straight Kurta for Women | Women Formal Kurti,293,293.0,4.0,Amazon India,womens kurti,2026-08-02 21:29:40
-Max,449,449.0,4.0,Amazon India,womens kurti,2026-08-02 21:29:40
-Generic,274,274.0,3.7,Amazon India,womens kurti,2026-08-02 21:29:40
-FIRSTRAIN,399,399.0,3.8,Amazon India,womens kurti,2026-08-02 21:29:40
-ANNI DESIGNER,499,499.0,3.2,Amazon India,womens kurti,2026-08-02 21:29:40
-ANNI DESIGNER,359,359.0,3.1,Amazon India,womens kurti,2026-08-02 21:29:40
-rytras,419,419.0,3.9,Amazon India,womens kurti,2026-08-02 21:29:40
-Max,449,449.0,4.0,Amazon India,womens kurti,2026-08-02 21:29:40
-ANNI DESIGNER,359,359.0,3.1,Amazon India,womens kurti,2026-08-02 21:29:40
-GoSriKi,699,699.0,3.5,Amazon India,womens kurti,2026-08-02 21:29:40
-GoSriKi,499,499.0,3.7,Amazon India,womens kurti,2026-08-02 21:29:40
-Generic,359,359.0,3.9,Amazon India,womens kurti,2026-08-02 21:29:40
-Sun Fashion And Lifestyle,460,460.0,3.7,Amazon India,womens kurti,2026-08-02 21:29:40
-Women Peach Embroidered Cotton Short Kurti | Casual Office & College Kurti Top for Girls,449,449.0,2.3,Amazon India,womens kurti,2026-08-02 21:29:40
-ANNI DESIGNER,799,799.0,3.4,Amazon India,womens kurti,2026-08-02 21:29:40
-"Women Printed, Tribal, Kalamkari, Abstract Khadi Cotton Kurti.",219,219.0,3.2,Amazon India,womens kurti,2026-08-02 21:29:40
-ANNI DESIGNER,399,399.0,3.8,Amazon India,womens kurti,2026-08-02 21:29:40
-Sun Fashion And Lifestyle,476,476.0,3.8,Amazon India,womens kurti,2026-08-02 21:29:40
-ANNI DESIGNER,499,499.0,3.3,Amazon India,womens kurti,2026-08-02 21:29:40
-FIORRA,600,600.0,4.1,Amazon India,womens kurti,2026-08-02 21:29:40
-ANNI DESIGNER,349,349.0,3.3,Amazon India,womens kurti,2026-08-02 21:29:40
-ANNI DESIGNER,652,652.0,3.6,Amazon India,womens kurti,2026-08-02 21:29:40
-KLOSIA,699,699.0,4.2,Amazon India,womens kurti,2026-08-02 21:29:40
+AUSK,285,285.0,3.5,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+boffi ...,331,331.0,3.5,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+AUSK,285,285.0,3.0,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+JUGULAR,399,399.0,3.7,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Max,248,248.0,3.7,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+ColorChakra,399,399.0,4.0,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Jump Cuts,264,264.0,3.8,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+KRYPTIC,321,321.0,3.8,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+LEOTUDE,296,296.0,4.0,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+BULLMER,539,539.0,3.5,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Jump Cuts,325,325.0,3.5,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+LEOTUDE,298,298.0,3.9,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Imsa Moda,329,329.0,3.8,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Printed Men’s Polycotton Relax Fit Round Neck T-Shirt | Half Sleeve Solid Casual & Gym Wear Comforta,299,299.0,4.2,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+AUSK,260,260.0,3.7,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+U.S. POLO ASSN.,464,464.0,4.0,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Generic,299,299.0,3.3,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+AUSK,278,278.0,3.7,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+LEOTUDE,298,298.0,3.9,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Raymond,774,774.0,5.0,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Van Heusen,599,599.0,4.1,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+STELLERS,849,849.0,4.1,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+The Souled Store,699,699.0,4.5,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Peter England,"1,079",1079.0,4.2,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Printed Men's Polycotton Relax Fit Round Neck Half Sleeve T-Shirt for Casual & Gym Wear,299,299.0,3.5,Amazon India,mens printed tshirt,2026-08-04 21:50:14
+Dream Beauty Fashion,236,236.0,4.0,Amazon India,womens casual top,2026-08-04 21:53:11
+Dream Beauty Fashion,244,244.0,3.8,Amazon India,womens casual top,2026-08-04 21:53:11
+Generic,320,320.0,3.3,Amazon India,womens casual top,2026-08-04 21:53:11
+Gufrina,445,445.0,3.6,Amazon India,womens casual top,2026-08-04 21:53:11
+"Women's Multicolor Printed Tunic Top, Cotton Blend, 3/4 Sleeve, A-Line, Casual Wear, Free Size",249,249.0,,Amazon India,womens casual top,2026-08-04 21:53:11
+"Women's Floral Printed Tunic Top, Cotton Blend, 3/4 Sleeve, A-Line, Regular Fit, Casual Wear",249,249.0,,Amazon India,womens casual top,2026-08-04 21:53:11
+AUSK,278,278.0,3.7,Amazon India,womens casual top,2026-08-04 21:53:11
+Dream Beauty Fashion,221,221.0,4.0,Amazon India,womens casual top,2026-08-04 21:53:11
+Dream Beauty Fashion,244,244.0,3.8,Amazon India,womens casual top,2026-08-04 21:53:11
+Gufrina,378,378.0,3.7,Amazon India,womens casual top,2026-08-04 21:53:11
+Esomic,568,568.0,5.0,Amazon India,womens casual top,2026-08-04 21:53:11
+Gufrina,395,395.0,3.8,Amazon India,womens casual top,2026-08-04 21:53:11
+Dream Beauty Fashion,236,236.0,4.0,Amazon India,womens casual top,2026-08-04 21:53:11
+Jawdrobe,375,375.0,4.0,Amazon India,womens casual top,2026-08-04 21:53:11
+RIEKA,699,699.0,4.5,Amazon India,womens casual top,2026-08-04 21:53:11
+Dream Beauty Fashion,215,215.0,3.7,Amazon India,womens casual top,2026-08-04 21:53:11
+RIEKA,699,699.0,4.5,Amazon India,womens casual top,2026-08-04 21:53:11
+RIEKA,699,699.0,4.3,Amazon India,womens casual top,2026-08-04 21:53:11
+London Hills,597,597.0,3.8,Amazon India,womens casual top,2026-08-04 21:53:11
+Dream Beauty Fashion,246,246.0,3.6,Amazon India,womens casual top,2026-08-04 21:53:11
+Women Peach Embroidered Cotton Short Kurti | Casual Office & College Kurti Top for Girls,449,449.0,2.3,Amazon India,womens casual top,2026-08-04 21:53:11
+Gufrina,415,415.0,3.5,Amazon India,womens casual top,2026-08-04 21:53:11
+Dream Beauty Fashion,244,244.0,4.0,Amazon India,womens casual top,2026-08-04 21:53:11
+London Hills,294,294.0,3.8,Amazon India,womens casual top,2026-08-04 21:53:11
+London Hills,376,376.0,3.9,Amazon India,womens casual top,2026-08-04 21:53:11
