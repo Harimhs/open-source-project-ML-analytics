@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-07-06T21:59:20.104294",
-    "total_products": 25,
-    "avg_price": 361.28,
-    "price_std": 150.06457498912482,
-    "categories": 1,
-    "brands": 17,
-    "model_name": "Linear Regression",
-    "drift_detected": true,
-    "alerts": [
-      "\u26a0\ufe0f Average price changed by 36.1%",
-      "\u26a0\ufe0f Product count changed by 50.0%"
-    ]
-  },
-  {
     "timestamp": "2026-07-07T21:57:20.943487",
     "total_products": 50,
     "avg_price": 686.84,
@@ -401,6 +387,20 @@
     "alerts": [
       "\u26a0\ufe0f Average price changed by 33.7%",
       "\u26a0\ufe0f Product count changed by 60.0%"
+    ]
+  },
+  {
+    "timestamp": "2026-08-10T21:23:21.003971",
+    "total_products": 25,
+    "avg_price": 379.04,
+    "price_std": 144.93546839887054,
+    "categories": 1,
+    "brands": 13,
+    "model_name": "Lasso (L1)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Average price changed by 40.2%",
+      "\u26a0\ufe0f Product count changed by 50.0%"
     ]
   }
 ]

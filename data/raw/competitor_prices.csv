@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Lymio,499,499.0,3.8,Amazon India,mens hoodies,2026-08-09 21:05:15
-Lymio,529,529.0,3.7,Amazon India,mens hoodies,2026-08-09 21:05:15
-The Modern Soul,499,499.0,3.7,Amazon India,mens hoodies,2026-08-09 21:05:15
-Imsa Moda,499,499.0,3.6,Amazon India,mens hoodies,2026-08-09 21:05:15
-Lymio,499,499.0,3.8,Amazon India,mens hoodies,2026-08-09 21:05:15
-Alan Jones Clothing,553,553.0,3.9,Amazon India,mens hoodies,2026-08-09 21:05:15
-Jump Cuts,387,387.0,3.4,Amazon India,mens hoodies,2026-08-09 21:05:15
-Generic,499,499.0,5.0,Amazon India,mens hoodies,2026-08-09 21:05:15
-Veirdo,759,759.0,3.9,Amazon India,mens hoodies,2026-08-09 21:05:15
-Alan Jones Clothing,602,602.0,3.9,Amazon India,mens hoodies,2026-08-09 21:05:15
-PUMA,"1,399",1399.0,4.0,Amazon India,mens hoodies,2026-08-09 21:05:15
-JVX,599,599.0,3.9,Amazon India,mens hoodies,2026-08-09 21:05:15
-BE SAVAGE,788,788.0,3.9,Amazon India,mens hoodies,2026-08-09 21:05:15
-Boldfit,599,599.0,3.9,Amazon India,mens hoodies,2026-08-09 21:05:15
-More & More,551,551.0,4.1,Amazon India,mens hoodies,2026-08-09 21:05:15
-TAGAS,549,549.0,3.8,Amazon India,mens hoodies,2026-08-09 21:05:15
-GAP,"1,249",1249.0,4.7,Amazon India,mens hoodies,2026-08-09 21:05:15
-Alan Jones Clothing,649,649.0,4.0,Amazon India,mens hoodies,2026-08-09 21:05:15
-Noble Monk,413,413.0,3.5,Amazon India,mens hoodies,2026-08-09 21:05:15
-Leriya Fashion,499,499.0,4.2,Amazon India,mens hoodies,2026-08-09 21:05:15
-PUMA,"1,518",1518.0,3.1,Amazon India,mens hoodies,2026-08-09 21:05:15
-FN3,449,449.0,3.9,Amazon India,mens hoodies,2026-08-09 21:05:15
-TAGDO,568,568.0,3.6,Amazon India,mens hoodies,2026-08-09 21:05:15
-Boldfit,549,549.0,3.9,Amazon India,mens hoodies,2026-08-09 21:05:15
-Glowic,539,539.0,3.3,Amazon India,mens hoodies,2026-08-09 21:05:15
-TAGAS,529,529.0,4.0,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-TAGAS,499,499.0,4.0,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-DRAXSTAR,449,449.0,3.5,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Women's Oversized Fleece Sweatshirt | Round Neck | Full Sleeve | Casual Pullover Sweatshirt for Wint,617,617.0,5.0,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-FUNKY MONKEY,679,679.0,4.1,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-LEOTUDE,494,494.0,3.8,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Alan Jones Clothing,677,677.0,4.1,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Clovia,391,391.0,4.7,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Boldfit,699,699.0,4.2,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-FUNKY MONKEY,679,679.0,4.1,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-TAGAS,519,519.0,3.9,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Alan Jones Clothing,677,677.0,4.1,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-KOTTY,380,380.0,3.9,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-TAGAS,449,449.0,3.8,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Celary,529,529.0,4.0,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-LEOTUDE,498,498.0,3.9,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Allen Solly,"1,258",1258.0,4.2,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Women's Oversized Cotton Fleece Polo Sweatshirt Collared Pullover,480,480.0,5.0,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-TAGAS,499,499.0,4.0,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Allen Solly,989,989.0,4.1,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Alan Jones Clothing,677,677.0,4.1,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Women's Oversized Graphic Printed Hoodie Sweatshirt | Fleece Hooded Pullover| Long Sleeve Casual Win,617,617.0,5.0,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Mack Jonney,393,393.0,3.6,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-GAP,"1,249",1249.0,3.8,Amazon India,womens sweatshirt,2026-08-09 21:05:39
-Imsa Moda,499,499.0,3.6,Amazon India,womens sweatshirt,2026-08-09 21:05:39
+AUSK,264,264.0,3.7,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+"Women's Typography Round Neck Cotton-Blend T-Shirts, Oversized Drop Shoulder Boho Style T-Shirt",282,282.0,3.2,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+AUSK,235,235.0,3.7,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,278,278.0,3.9,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+London Hills,349,349.0,3.9,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+TQH,269,269.0,3.7,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+SXV STYLE,664,664.0,4.4,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+AUSK,282,282.0,3.5,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+Jawdrobe,341,341.0,4.0,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+AUSK,472,472.0,3.7,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+Max,432,432.0,4.1,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+JUNEBERRY,379,379.0,4.0,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,348,348.0,3.9,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+Cotton Blend Drop Shoulder Oversized Baggy Fit Half Sleeve Plain Solid Round Neck Multicolor T-Shirt,280,280.0,4.2,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+JUNEBERRY,379,379.0,4.1,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+ADAM WHITE,299,299.0,5.0,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+London Hills,559,559.0,3.8,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+London Hills,349,349.0,3.9,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+JUNEBERRY,379,379.0,4.4,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+Jawdrobe,370,370.0,4.0,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+The Souled Store,699,699.0,4.8,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+The Souled Store,759,759.0,4.3,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+Teixeira,249,249.0,3.0,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+AKAR,280,280.0,,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
+London Hills,279,279.0,3.5,Amazon India,womens graphic tshirt,2026-08-10 21:21:46
