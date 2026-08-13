@@ -1,101 +1,76 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-BULLMER,469,469.0,3.5,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Max,198,198.0,4.0,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-AUSK,279,279.0,3.4,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Dollar,140,140.0,,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Scott International,270,270.0,3.7,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Generic,249,249.0,3.1,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Lux Cozi,289,289.0,4.0,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-London Hills,469,469.0,3.8,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-LEOTUDE,268,268.0,3.9,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Sleepynuts,944,944.0,3.8,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-London Hills,279,279.0,3.6,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-U.S. POLO ASSN.,442,442.0,4.0,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Jockey,549,549.0,4.2,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Jockey,579,579.0,4.2,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Levi's,395,395.0,4.1,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Louis Philippe,675,675.0,4.1,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-BULLMER,353,353.0,3.7,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-U.S. POLO ASSN.,538,538.0,3.8,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Van Heusen,497,497.0,4.1,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-XENOVAURBAN,569,569.0,4.2,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-GAP,494,494.0,3.9,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-FTX,405,405.0,3.8,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Amazon Brand - Symbol,299,299.0,4.0,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Lux Cozi,289,289.0,4.0,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-London Hills,229,229.0,3.7,Amazon India,mens round neck tshirt,2026-08-12 21:21:31
-Allen Solly,408,408.0,4.1,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,299,299.0,3.3,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Dream Beauty Fashion,193,193.0,3.7,Amazon India,womens black tshirt,2026-08-12 21:23:29
-CLASSIC TEES,349,349.0,5.0,Amazon India,womens black tshirt,2026-08-12 21:23:29
-TWIN BIRDS,299,299.0,4.3,Amazon India,womens black tshirt,2026-08-12 21:23:29
-FLEXIMAA,283,283.0,4.0,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Tfortees,319,319.0,,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Women’s Oversized Cotton T-Shirt | Plain Drop Shoulder Tee (S-7XL Plus Size),375,375.0,3.4,Amazon India,womens black tshirt,2026-08-12 21:23:29
-JUNEBERRY,384,384.0,3.9,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Van Heusen,499,499.0,4.0,Amazon India,womens black tshirt,2026-08-12 21:23:29
-TQH,284,284.0,3.8,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Dream Beauty Fashion,199,199.0,3.8,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Amazon Brand - Symbol,329,329.0,4.2,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Max,269,269.0,4.0,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,379,379.0,3.9,Amazon India,womens black tshirt,2026-08-12 21:23:29
-JUNEBERRY,359,359.0,4.1,Amazon India,womens black tshirt,2026-08-12 21:23:29
-JUNEBERRY,359,359.0,4.1,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Jockey,579,579.0,4.1,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Jockey,540,540.0,4.3,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Fabricorn,399,399.0,4.0,Amazon India,womens black tshirt,2026-08-12 21:23:29
-London Hills,279,279.0,4.1,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Max,399,399.0,4.1,Amazon India,womens black tshirt,2026-08-12 21:23:29
-BLACKSTEP,349,349.0,4.0,Amazon India,womens black tshirt,2026-08-12 21:23:29
-JUNEBERRY,359,359.0,3.8,Amazon India,womens black tshirt,2026-08-12 21:23:29
-Dream Beauty Fashion,173,173.0,4.5,Amazon India,womens black tshirt,2026-08-12 21:23:29
-PUMA,859,859.0,4.3,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,299,299.0,3.3,Amazon India,womens white tshirt,2026-08-12 21:23:40
-TWIN BIRDS,299,299.0,4.3,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Allen Solly,454,454.0,4.1,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Hangout Hub,283,283.0,3.7,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Tfortees,299,299.0,5.0,Amazon India,womens white tshirt,2026-08-12 21:23:40
-FYLTR,299,299.0,3.7,Amazon India,womens white tshirt,2026-08-12 21:23:40
-London Hills,279,279.0,3.8,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Jockey,530,530.0,4.3,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Bewakoof,409,409.0,4.0,Amazon India,womens white tshirt,2026-08-12 21:23:40
-CLASSIC TEES,399,399.0,5.0,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Jawdrobe,419,419.0,4.0,Amazon India,womens white tshirt,2026-08-12 21:23:40
-100% Cotton Plain Oversized T Shirt for Women | Round Neck T Shirt Women | Casual Plain Tshirt | Reg,247,247.0,3.5,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Tfortees,299,299.0,4.4,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Wear Your Opinion,474,474.0,4.0,Amazon India,womens white tshirt,2026-08-12 21:23:40
-JUNEBERRY,359,359.0,4.1,Amazon India,womens white tshirt,2026-08-12 21:23:40
-TQH,299,299.0,3.7,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Dream Beauty Fashion,183,183.0,3.8,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Max,399,399.0,4.0,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Dream Beauty Fashion,199,199.0,3.8,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Jawdrobe,439,439.0,4.0,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Amazon Brand - Symbol,329,329.0,4.2,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Jawdrobe,439,439.0,4.0,Amazon India,womens white tshirt,2026-08-12 21:23:40
-Dream Beauty Fashion,173,173.0,4.5,Amazon India,womens white tshirt,2026-08-12 21:23:40
-AUSK,273,273.0,3.1,Amazon India,womens white tshirt,2026-08-12 21:23:40
-TAGAS,549,549.0,4.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Alan Jones Clothing,677,677.0,4.1,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-TAGAS,529,529.0,4.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-TAGAS,449,449.0,4.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-TAGAS,499,499.0,4.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-DRAXSTAR,449,449.0,3.5,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Women's Oversized Fleece Sweatshirt | Round Neck | Full Sleeve | Casual Pullover Sweatshirt for Wint,779,779.0,5.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-LEOTUDE,494,494.0,3.8,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Celary,529,529.0,4.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-FUNKY MONKEY,679,679.0,4.1,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-KOTTY,495,495.0,3.9,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-TAGAS,449,449.0,4.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Boldfit,769,769.0,4.2,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Van Heusen,909,909.0,4.6,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Clovia,664,664.0,4.7,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-FUNKY MONKEY,679,679.0,4.1,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Alan Jones Clothing,649,649.0,4.1,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-TAGAS,569,569.0,4.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Allen Solly,"1,258",1258.0,4.2,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-TAGAS,499,499.0,4.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Generic,280,280.0,5.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-GAP,"1,249",1249.0,3.8,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Mack Jonney,318,318.0,3.5,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Alan Jones Clothing,677,677.0,4.1,Amazon India,womens sweatshirt,2026-08-12 21:24:06
-Reebok,"1,709",1709.0,4.0,Amazon India,womens sweatshirt,2026-08-12 21:24:06
+Men’s Round Neck T-Shirt Combo Pack (Pack of 3) | 100% Cotton 200 GSM | Bio-Washed | Soft & Breathab,520,520.0,3.4,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Levi's,330,330.0,4.1,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Levi's,330,330.0,4.1,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Sleepynuts,944,944.0,3.8,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Men’s Round Neck Plain Oversize T-Shirt – Casual Loose Fit Cotton Wear |,280,280.0,4.1,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+NETCLICK,282.,282.0,3.5,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+London Hills,219,219.0,3.7,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Sleepynuts,944,944.0,3.8,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Sleepynuts,944,944.0,3.8,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+LEOTUDE,268,268.0,3.7,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Jockey,546,546.0,4.2,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Scott International,224,224.0,3.7,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Leriya Fashion,679,679.0,3.9,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Amazon Brand - Symbol,299,299.0,4.0,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Scott International,270,270.0,3.7,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+PeaceOut,521,521.0,3.8,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Men & Women Plain Cotton T-Shirt | Solid Round Neck Short Sleeve Casual T-Shirt | Soft Breathable Fa,299,299.0,5.0,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Amazon Brand - Symbol,689,689.0,4.0,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Men’s Dri-Fit Polo T-Shirt | Quick-Dry & Comfortable Plain Half Sleeve Sportswear | Regular Fit Coll,349,349.0,3.5,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Generic,448.,448.0,3.8,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+U.S. POLO ASSN.,587,587.0,3.8,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+LEOTUDE,266,266.0,3.7,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+XENOVAURBAN,"1,099",1099.0,4.1,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Levi's,389,389.0,4.1,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+Jockey,536,536.0,4.2,Amazon India,mens plain tshirt,2026-08-13 21:22:52
+AUSK,230,230.0,3.4,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+FTX,388,388.0,3.8,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+Kvetoo,349,349.0,3.9,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+3Colors,379,379.0,4.0,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+"Men's Regular Fit Quick-Dry Active T-Shirt for Gym & Sports – Stylish, Comfortable, and Perfect for ",199,199.0,4.0,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+adidas,859,859.0,4.0,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+ATICX,454,454.0,4.0,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+GYMFIT,404,404.0,3.8,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+adidas,819,819.0,4.0,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+AUSK,264,264.0,3.4,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+PUMA,629,629.0,3.9,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+Jockey,799,799.0,4.1,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+ATICX,444,444.0,4.0,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+TECHNOSPORT,319,319.0,4.3,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+Jockey,799,799.0,4.1,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+Noble Monk,279,279.0,3.2,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+Pepe Jeans,399,399.0,3.7,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+CHKOKKO,468,468.0,3.8,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+Boldfit,399,399.0,4.1,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+NETCLICK,329.,329.0,3.6,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+adidas,779,779.0,4.0,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+PUMA,840,840.0,4.0,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+"Mens Pique Polo T-Shirt | Cotton Rich, Smart Fit Polo with Embroidered Logo | Casual & Sports Wear |",381,381.0,3.8,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+Allen Solly,699,699.0,4.1,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+Lymio,369,369.0,3.4,Amazon India,mens sports tshirt,2026-08-13 21:23:57
+Max,199,199.0,3.9,Amazon India,womens white tshirt,2026-08-13 21:24:54
+PUMA,859,859.0,4.3,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,299,299.0,3.3,Amazon India,womens white tshirt,2026-08-13 21:24:54
+TWIN BIRDS,299,299.0,4.2,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Allen Solly,569,569.0,4.1,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Hangout Hub,283,283.0,3.7,Amazon India,womens white tshirt,2026-08-13 21:24:54
+London Hills,279,279.0,3.8,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Amazon Brand - Symbol,329,329.0,4.2,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Tfortees,299,299.0,5.0,Amazon India,womens white tshirt,2026-08-13 21:24:54
+JUNEBERRY,359,359.0,4.1,Amazon India,womens white tshirt,2026-08-13 21:24:54
+FYLTR,349,349.0,3.8,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Jawdrobe,377,377.0,4.0,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Jockey,530,530.0,4.2,Amazon India,womens white tshirt,2026-08-13 21:24:54
+CLASSIC TEES,399,399.0,5.0,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Bewakoof,409,409.0,4.0,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Max,199,199.0,4.2,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Tfortees,299,299.0,4.3,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Wear Your Opinion,474,474.0,4.0,Amazon India,womens white tshirt,2026-08-13 21:24:54
+100% Cotton Plain Oversized T Shirt for Women | Round Neck T Shirt Women | Casual Plain Tshirt | Reg,247,247.0,3.5,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Dream Beauty Fashion,183,183.0,3.8,Amazon India,womens white tshirt,2026-08-13 21:24:54
+TQH,299,299.0,3.7,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Dream Beauty Fashion,199,199.0,3.7,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Jawdrobe,397,397.0,4.0,Amazon India,womens white tshirt,2026-08-13 21:24:54
+JUNEBERRY,359,359.0,4.1,Amazon India,womens white tshirt,2026-08-13 21:24:54
+Allen Solly,419,419.0,4.1,Amazon India,womens white tshirt,2026-08-13 21:24:54
