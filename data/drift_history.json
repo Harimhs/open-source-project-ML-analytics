@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T21:37:45.656178",
-    "total_products": 25,
-    "avg_price": 419.04,
-    "price_std": 145.51846389147096,
-    "categories": 1,
-    "brands": 12,
-    "model_name": "Lasso (L1)",
-    "drift_detected": true,
-    "alerts": [
-      "\u26a0\ufe0f Average price changed by 32.6%",
-      "\u26a0\ufe0f Product count changed by 66.2%"
-    ]
-  },
-  {
     "timestamp": "2026-07-18T21:28:34.904941",
     "total_products": 25,
     "avg_price": 528.12,
@@ -398,5 +384,16 @@
     "alerts": [
       "\u26a0\ufe0f Average price changed by 38.7%"
     ]
+  },
+  {
+    "timestamp": "2026-08-20T21:00:51.662636",
+    "total_products": 25,
+    "avg_price": 440.56,
+    "price_std": 189.45955593037087,
+    "categories": 1,
+    "brands": 16,
+    "model_name": "Ridge (L2)",
+    "drift_detected": false,
+    "alerts": []
   }
 ]

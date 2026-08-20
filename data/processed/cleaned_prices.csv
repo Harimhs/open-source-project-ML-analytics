@@ -1,25 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-AUSK,230,230.0,3.3,Amazon India,mens sports tshirt,2026-08-16 20:50:25,AUSK,3.3,1,1,1,0,0,0,4,1,0,0,0,0,1,2
-FTX,388,388.0,3.8,Amazon India,mens sports tshirt,2026-08-16 20:50:25,FTX,3.8,1,1,1,0,0,0,3,1,0,0,0,0,6,1
-3Colors,379,379.0,3.9,Amazon India,mens sports tshirt,2026-08-16 20:50:25,3Colors,3.9,1,1,1,0,0,0,7,1,0,0,0,0,0,1
-Kvetoo,499,499.0,3.9,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Kvetoo,3.9,1,1,1,0,0,0,6,1,0,0,0,0,9,1
-"Men's Regular Fit Quick-Dry Active T-Shirt for Gym & Sports – Stylish, Comfortable, and Perfect for ",199,199.0,4.0,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Men's,4.0,1,1,1,0,0,0,100,16,0,0,1,0,10,1
-adidas,859,859.0,4.0,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,2,3
-adidas,819,819.0,4.0,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,2,3
-Jockey,819,819.0,4.1,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Jockey,4.1,1,1,1,0,0,0,6,1,0,0,0,0,8,2
-AUSK,264,264.0,3.4,Amazon India,mens sports tshirt,2026-08-16 20:50:25,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,1,2
-Boldfit,399,399.0,4.1,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Boldfit,4.1,1,1,1,0,0,0,7,1,0,0,0,0,4,2
-TECHNOSPORT,319,319.0,4.3,Amazon India,mens sports tshirt,2026-08-16 20:50:25,TECHNOSPORT,4.3,1,1,1,0,0,0,11,1,0,0,0,0,16,1
-Noble Monk,279,279.0,3.3,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Noble,3.3,1,1,1,0,0,0,10,2,0,0,0,0,12,1
-GYMFIT,404,404.0,3.8,Amazon India,mens sports tshirt,2026-08-16 20:50:25,GYMFIT,3.8,1,1,1,0,0,0,6,1,0,0,0,0,7,1
-Pepe Jeans,399,399.0,3.6,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Pepe,3.6,1,1,1,0,0,0,10,2,0,0,0,0,13,2
-PUMA,629,629.0,3.9,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Puma,3.9,1,1,1,0,0,0,4,1,0,0,0,0,15,2
-Allen Solly,699,699.0,4.1,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,3,1
-Pepe Jeans,501,501.0,4.8,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Pepe,4.8,1,1,1,0,0,0,10,2,0,0,0,0,13,2
-CHKOKKO,552,552.0,3.8,Amazon India,mens sports tshirt,2026-08-16 20:50:25,CHKOKKO,3.8,1,1,1,0,0,0,7,1,0,0,0,0,5,1
-NETCLICK,379,379.0,3.6,Amazon India,mens sports tshirt,2026-08-16 20:50:25,NETCLICK,3.6,1,1,1,0,0,0,8,1,0,0,0,0,11,1
-Boldfit,399,399.0,4.1,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Boldfit,4.1,1,1,1,0,0,0,7,1,0,0,0,0,4,2
-adidas,779,779.0,4.0,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Adidas,4.0,1,1,1,0,0,0,6,1,0,0,0,0,2,3
-PUMA,840,840.0,4.0,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Puma,4.0,1,1,1,0,0,0,4,1,0,0,0,0,15,2
-"Mens Pique Polo T-Shirt | Cotton Rich, Smart Fit Polo with Embroidered Logo | Casual & Sports Wear |",381,381.0,3.8,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Polo,3.8,1,1,1,0,0,0,100,19,0,1,0,0,14,1
-Jockey,499,499.0,4.0,Amazon India,mens sports tshirt,2026-08-16 20:50:25,Jockey,4.0,1,1,1,0,0,0,6,1,0,0,0,0,8,2
+BULLMER,473,473.0,3.5,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,BULLMER,3.5,1,1,1,0,0,0,7,1,0,0,0,0,1,3
+AUSK,279,279.0,3.3,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,AUSK,3.3,1,1,1,0,0,0,4,1,0,0,0,0,0,1
+Dollar,140,140.0,2.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Dollar,2.0,1,1,1,0,0,0,6,1,0,0,0,0,3,2
+LEOTUDE,298,298.0,3.9,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,LEOTUDE,3.9,1,1,1,0,0,0,7,1,0,0,0,0,7,3
+Scott International,299,299.0,3.7,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Scott,3.7,1,1,1,0,0,0,19,2,0,0,0,0,14,2
+Lux Cozi,289,289.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,0,12,2
+Levi's,396,396.0,4.1,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Levi,4.1,1,1,1,0,0,0,6,1,0,0,0,0,9,1
+Jockey,540,540.0,4.2,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,6,2
+BULLMER,479,479.0,3.5,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,BULLMER,3.5,1,1,1,0,0,0,7,1,0,0,0,0,1,3
+London Hills,499,499.0,3.8,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,London,3.8,1,1,1,0,0,0,12,2,0,0,0,0,10,2
+BULLMER,359,359.0,3.7,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,BULLMER,3.7,1,1,1,0,0,0,7,1,0,0,0,0,1,3
+Louis Philippe,675,675.0,4.1,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Louis,4.1,1,1,1,0,0,0,14,2,0,0,0,0,11,1
+Van Heusen,497,497.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,15,1
+FTX,388,388.0,3.8,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,FTX,3.8,1,1,1,0,0,0,3,1,0,0,0,0,4,1
+DAMENSCH,589,589.0,4.2,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,DAMENSCH,4.2,1,1,1,0,0,0,8,1,0,0,0,0,2,1
+Dollar,140,140.0,3.7,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Dollar,3.7,1,1,1,0,0,0,6,1,0,0,0,0,3,2
+LEOTUDE,298,298.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,7,3
+Jockey,579,579.0,4.2,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,6,2
+Sleepynuts,999,999.0,3.8,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Lee,3.8,1,1,1,0,0,0,10,1,0,0,0,0,8,1
+Lux Cozi,250,250.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,0,12,2
+London Hills,299,299.0,3.6,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,London,3.6,1,1,1,0,0,0,12,2,0,0,0,0,10,2
+LEOTUDE,648,648.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,7,3
+Scott International,598,598.0,3.7,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Scott,3.7,1,1,1,0,0,0,19,2,0,0,0,0,14,2
+U.S. POLO ASSN.,524,524.0,3.8,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,0,13,1
+GAP,479,479.0,3.9,Amazon India,mens round neck tshirt,2026-08-20 20:57:49,Gap,3.9,1,1,1,0,0,0,3,1,0,0,0,0,5,1
