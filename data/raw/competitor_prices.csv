@@ -1,26 +1,74 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-BULLMER,473,473.0,3.5,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-AUSK,279,279.0,3.3,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Dollar,140,140.0,2.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-LEOTUDE,298,298.0,3.9,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Scott International,299,299.0,3.7,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Lux Cozi,289,289.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Levi's,396,396.0,4.1,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Jockey,540,540.0,4.2,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-BULLMER,479,479.0,3.5,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-London Hills,499,499.0,3.8,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-BULLMER,359,359.0,3.7,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Louis Philippe,675,675.0,4.1,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Van Heusen,497,497.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-FTX,388,388.0,3.8,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-DAMENSCH,589,589.0,4.2,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Dollar,140,140.0,3.7,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-LEOTUDE,298,298.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Jockey,579,579.0,4.2,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Sleepynuts,999,999.0,3.8,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Lux Cozi,250,250.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-London Hills,299,299.0,3.6,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-LEOTUDE,648,648.0,4.0,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-Scott International,598,598.0,3.7,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-U.S. POLO ASSN.,524,524.0,3.8,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
-GAP,479,479.0,3.9,Amazon India,mens round neck tshirt,2026-08-20 20:57:49
+Lymio,579,579.0,3.8,Amazon India,mens hoodies,2026-08-21 20:54:16
+The Modern Soul,499,499.0,3.7,Amazon India,mens hoodies,2026-08-21 20:54:16
+TAGAS,628,628.0,4.2,Amazon India,mens hoodies,2026-08-21 20:54:16
+Jump Cuts,408,408.0,3.4,Amazon India,mens hoodies,2026-08-21 20:54:16
+Lymio,599,599.0,3.7,Amazon India,mens hoodies,2026-08-21 20:54:16
+SHAIRA FASHION,499,499.0,5.0,Amazon India,mens hoodies,2026-08-21 20:54:16
+JVX,599,599.0,3.9,Amazon India,mens hoodies,2026-08-21 20:54:16
+More & More,595,595.0,4.0,Amazon India,mens hoodies,2026-08-21 20:54:16
+Boldfit,599,599.0,3.9,Amazon India,mens hoodies,2026-08-21 20:54:16
+"Men’s Collar Chain Cotton Fleece Sweatshirt | Warm Hoodie for Gym, Travel & Casual Winter Wear",499,499.0,3.6,Amazon India,mens hoodies,2026-08-21 20:54:16
+Alan Jones Clothing,698,698.0,4.0,Amazon India,mens hoodies,2026-08-21 20:54:16
+TAGAS,629,629.0,3.8,Amazon India,mens hoodies,2026-08-21 20:54:16
+BE SAVAGE,892,892.0,4.0,Amazon India,mens hoodies,2026-08-21 20:54:16
+Veirdo,860,860.0,3.9,Amazon India,mens hoodies,2026-08-21 20:54:16
+Noble Monk,298,298.0,3.5,Amazon India,mens hoodies,2026-08-21 20:54:16
+FN3,449,449.0,3.9,Amazon India,mens hoodies,2026-08-21 20:54:16
+GAP,"1,499",1499.0,4.2,Amazon India,mens hoodies,2026-08-21 20:54:16
+Alan Jones Clothing,648,648.0,3.9,Amazon India,mens hoodies,2026-08-21 20:54:16
+Lymio,579,579.0,3.8,Amazon India,mens hoodies,2026-08-21 20:54:16
+Lymio,599,599.0,3.7,Amazon India,mens hoodies,2026-08-21 20:54:16
+TAGDO,599,599.0,3.6,Amazon India,mens hoodies,2026-08-21 20:54:16
+Monte Carlo,"1,699",1699.0,4.3,Amazon India,mens hoodies,2026-08-21 20:54:16
+GAP,"1,499",1499.0,4.0,Amazon India,mens hoodies,2026-08-21 20:54:16
+GAP,"1,499",1499.0,4.2,Amazon India,mens hoodies,2026-08-21 20:54:16
+Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,499,499.0,3.6,Amazon India,womens hoodies,2026-08-21 20:54:27
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-08-21 20:54:27
+Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,499,499.0,3.6,Amazon India,womens hoodies,2026-08-21 20:54:27
+TAGAS,599,599.0,3.8,Amazon India,womens hoodies,2026-08-21 20:54:27
+FUNKY MONKEY,711,711.0,4.0,Amazon India,womens hoodies,2026-08-21 20:54:27
+Hoodie for Women|Sweatshirt for Women Stylish | Hooded (Sweatshirt) for Women's| Winter Wear for Wom,399,399.0,3.4,Amazon India,womens hoodies,2026-08-21 20:54:27
+GAP,"1,499",1499.0,4.0,Amazon India,womens hoodies,2026-08-21 20:54:27
+TAGAS,659,659.0,4.0,Amazon India,womens hoodies,2026-08-21 20:54:27
+Women's Oversized Graphic Printed Hoodie Sweatshirt | Fleece Hooded Pullover| Long Sleeve Casual Win,648,648.0,5.0,Amazon India,womens hoodies,2026-08-21 20:54:27
+Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,499,499.0,3.6,Amazon India,womens hoodies,2026-08-21 20:54:27
+PDK Fashion Solid Long Hooded Neck Hoodie Zipper Crop Jacket for Women's,499,499.0,4.1,Amazon India,womens hoodies,2026-08-21 20:54:27
+FUNKY MONKEY,711,711.0,4.0,Amazon India,womens hoodies,2026-08-21 20:54:27
+TAGAS,629,629.0,4.0,Amazon India,womens hoodies,2026-08-21 20:54:27
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-08-21 20:54:27
+GAP,"1,499",1499.0,4.0,Amazon India,womens hoodies,2026-08-21 20:54:27
+TAGAS,649,649.0,4.0,Amazon India,womens hoodies,2026-08-21 20:54:27
+ADBUCKS,824,824.0,3.7,Amazon India,womens hoodies,2026-08-21 20:54:27
+Women's Solid Long Hooded Neck Fleece Hoodie Zipper Crop Jacket,499,499.0,3.8,Amazon India,womens hoodies,2026-08-21 20:54:27
+PUMA,"1,598",1598.0,4.5,Amazon India,womens hoodies,2026-08-21 20:54:27
+Alan Jones Clothing,728,728.0,4.1,Amazon India,womens hoodies,2026-08-21 20:54:27
+DRAXSTAR,699,699.0,3.7,Amazon India,womens hoodies,2026-08-21 20:54:27
+PDK Fashion Anime Couple Print Long Sleeves Winter Hoodie with Front Pocket Men's & Women's Sweater,499,499.0,4.1,Amazon India,womens hoodies,2026-08-21 20:54:27
+HOODLIFE,699,699.0,4.5,Amazon India,womens hoodies,2026-08-21 20:54:27
+The Souled Store,"1,449",1449.0,5.0,Amazon India,womens hoodies,2026-08-21 20:54:27
+KLOSIA,799,799.0,4.1,Amazon India,womens dress,2026-08-21 20:55:17
+Anveri Textiles,599,599.0,4.0,Amazon India,womens dress,2026-08-21 20:55:17
+KLOSIA,799,799.0,4.1,Amazon India,womens dress,2026-08-21 20:55:17
+Shasmi,599,599.0,4.4,Amazon India,womens dress,2026-08-21 20:55:17
+Nermosa,727,727.0,4.3,Amazon India,womens dress,2026-08-21 20:55:17
+ANNI DESIGNER,512,512.0,3.3,Amazon India,womens dress,2026-08-21 20:55:17
+KLOSIA,699,699.0,4.2,Amazon India,womens dress,2026-08-21 20:55:17
+Nermosa,799,799.0,4.3,Amazon India,womens dress,2026-08-21 20:55:17
+GoSriKi,738,738.0,3.7,Amazon India,womens dress,2026-08-21 20:55:17
+Generic,425,425.0,3.3,Amazon India,womens dress,2026-08-21 20:55:17
+ANNI DESIGNER,499,499.0,4.0,Amazon India,womens dress,2026-08-21 20:55:17
+Nermosa,799,799.0,3.9,Amazon India,womens dress,2026-08-21 20:55:17
+Shasmi,599,599.0,4.1,Amazon India,womens dress,2026-08-21 20:55:17
+GoSriKi,699,699.0,4.2,Amazon India,womens dress,2026-08-21 20:55:17
+ANNI DESIGNER,499,499.0,4.0,Amazon India,womens dress,2026-08-21 20:55:17
+Shasmi,599,599.0,4.4,Amazon India,womens dress,2026-08-21 20:55:17
+Shasmi,599,599.0,4.4,Amazon India,womens dress,2026-08-21 20:55:17
+Modestouze Attires,695,695.0,4.0,Amazon India,womens dress,2026-08-21 20:55:17
+GoSriKi,669,669.0,3.5,Amazon India,womens dress,2026-08-21 20:55:17
+ANNI DESIGNER,782,782.0,3.4,Amazon India,womens dress,2026-08-21 20:55:17
+MOKOSH,"1,402",1402.0,4.3,Amazon India,womens dress,2026-08-21 20:55:17
+Leriya Fashion,499,499.0,3.7,Amazon India,womens dress,2026-08-21 20:55:17
+ANNI DESIGNER,519,519.0,3.9,Amazon India,womens dress,2026-08-21 20:55:17
+ANNI DESIGNER,799,799.0,4.1,Amazon India,womens dress,2026-08-21 20:55:17
+ANNI DESIGNER,819,819.0,3.1,Amazon India,womens dress,2026-08-21 20:55:17
