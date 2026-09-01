@@ -1,51 +1,175 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-AUSK,298,298.0,3.4,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,AUSK,3.4,1,1,1,1,0,0,4,1,0,0,0,1,0,1
-Fabricorn,975,975.0,4.1,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Fabricorn,4.1,1,1,1,1,0,0,9,1,0,0,0,1,6,2
-CLASSIC TEES,499,499.0,4.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,CLASSIC,4.8,1,1,1,1,0,0,12,2,0,0,0,1,4,4
-BLACK BUDDY,299,299.0,3.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,BLACK,3.8,1,1,1,1,0,0,11,2,0,0,0,1,2,2
-CLASSIC TEES,499,499.0,4.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,CLASSIC,4.8,1,1,1,1,0,0,12,2,0,0,0,1,4,4
-Women Jersey Shirt | Graphic Printed Mesh Style V Neck T-Shirt | Cotton Blend Short Sleeve Oversized,249,249.0,,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Lee,3.8,0,1,1,1,0,0,100,17,0,1,1,1,11,2
-RodZen,349,349.0,3.0,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,RodZen,3.0,1,1,1,1,0,0,6,1,0,0,0,1,16,1
-JUNEBERRY,379,379.0,3.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,JUNEBERRY,3.8,1,1,1,1,0,0,9,1,0,0,0,1,8,3
-Generic,284,284.0,3.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Generic,3.8,1,1,1,1,0,0,7,1,0,0,0,1,7,3
-Amazon Brand - Symbol,479,479.0,4.0,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Amazon,4.0,1,1,1,1,0,0,21,4,0,0,0,1,1,3
-BLACK BUDDY,299,299.0,3.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,BLACK,3.8,1,1,1,1,0,0,11,2,0,0,0,1,2,2
-CLASSIC TEES,499,499.0,4.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,CLASSIC,4.8,1,1,1,1,0,0,12,2,0,0,0,1,4,4
-FLEXIMAA,599,599.0,3.7,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,FLEXIMAA,3.7,1,1,1,1,0,0,8,1,0,0,0,1,5,2
-Jockey,549,549.0,4.1,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Jockey,4.1,1,1,1,1,0,0,6,1,0,0,0,1,9,2
-FLEXIMAA,299,299.0,3.9,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,FLEXIMAA,3.9,1,1,1,1,0,0,8,1,0,0,0,1,5,2
-CLASSIC TEES,499,499.0,4.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,CLASSIC,4.8,1,1,1,1,0,0,12,2,0,0,0,1,4,4
-"Women’s Solid Slim Fit Cotton T-Shirt – Mandarin Collar, Button-Front Design, Half Sleeves, Soft & B",425,425.0,4.1,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Lee,4.1,1,1,1,1,0,0,100,16,0,1,1,1,11,2
-"Women's Ribbed V Neck Collared, Casual Short Sleeve Polo Top, Stretch Knit, Soft Lightweight Summer ",349,349.0,1.0,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Polo,1.0,1,1,1,1,0,0,100,15,0,0,0,1,15,5
-JUNEBERRY,379,379.0,3.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,JUNEBERRY,3.8,1,1,1,1,0,0,9,1,0,0,0,1,8,3
-Fabricorn,425,425.0,3.7,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Fabricorn,3.7,1,1,1,1,0,0,9,1,0,0,0,1,6,2
-Jockey,649,649.0,4.2,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Jockey,4.2,1,1,1,1,0,0,6,1,0,0,0,1,9,2
-Van Heusen,479,479.0,4.1,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Van Heusen,4.1,1,1,1,1,0,0,10,2,0,0,0,1,19,1
-Women's Ribbed Polo T-Shirt Stretch Polyester Casual Solid Collared V Neck Short Sleeve Slim Fit Top,230,230.0,5.0,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,Polo,5.0,1,1,1,1,0,0,100,16,0,0,1,1,15,5
-XOLANI,283,283.0,2.7,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,XOLANI,2.7,1,1,1,1,0,0,6,1,0,0,0,1,21,1
-JUNEBERRY,379,379.0,3.8,Amazon India,womens v neck tshirt,2026-08-30 22:55:35,JUNEBERRY,3.8,1,1,1,1,0,0,9,1,0,0,0,1,8,3
-Generic,498,498.0,3.3,Amazon India,womens jeans,2026-08-30 22:56:28,Generic,3.3,1,0,1,1,0,0,7,1,0,0,0,0,7,3
-Generic,341,341.0,3.9,Amazon India,womens jeans,2026-08-30 22:56:28,Generic,3.9,1,0,1,1,0,0,7,1,0,0,0,0,7,3
-Nifty,734,734.0,3.7,Amazon India,womens jeans,2026-08-30 22:56:28,Nifty,3.7,1,0,1,1,0,0,5,1,0,0,0,0,14,4
-U.S. POLO ASSN.,"1,555",1555.0,3.9,Amazon India,womens jeans,2026-08-30 22:56:28,Polo,3.9,1,0,1,1,0,0,15,3,0,0,0,0,15,5
-U.S. POLO ASSN.,"1,511",1511.0,3.9,Amazon India,womens jeans,2026-08-30 22:56:28,Polo,3.9,1,0,1,1,0,0,15,3,0,0,0,0,15,5
-KOTTY,500,500.0,3.7,Amazon India,womens jeans,2026-08-30 22:56:28,Kotty,3.7,1,0,1,1,0,0,5,1,0,0,0,0,10,6
-Nifty,568.,568.0,3.8,Amazon India,womens jeans,2026-08-30 22:56:28,Nifty,3.8,1,0,1,1,0,0,5,1,0,0,0,0,14,4
-Nifty,568.,568.0,3.8,Amazon India,womens jeans,2026-08-30 22:56:28,Nifty,3.8,1,0,1,1,0,0,5,1,0,0,0,0,14,4
-London Hills,747.,747.0,3.9,Amazon India,womens jeans,2026-08-30 22:56:28,London,3.9,1,0,1,1,0,0,12,2,0,0,0,0,13,2
-"Women's High Waist Bell Bottom Jeans | Flared Wide Leg Stretchable Denim Pants | Stylish Casual, Par",499,499.0,3.8,Amazon India,womens jeans,2026-08-30 22:56:28,Women's,3.8,1,0,1,1,0,0,100,17,0,0,0,0,20,1
-TAGAS,789,789.0,3.6,Amazon India,womens jeans,2026-08-30 22:56:28,Tagas,3.6,1,0,1,1,0,0,5,1,0,0,0,0,18,2
-Amazon Brand - INKAST,639,639.0,3.7,Amazon India,womens jeans,2026-08-30 22:56:28,Amazon,3.7,1,0,1,1,0,0,21,4,0,0,0,0,1,3
-KOTTY,474,474.0,3.9,Amazon India,womens jeans,2026-08-30 22:56:28,Kotty,3.9,1,0,1,1,0,0,5,1,0,0,0,0,10,6
-Nifty,772.,772.0,3.7,Amazon India,womens jeans,2026-08-30 22:56:28,Nifty,3.7,1,0,1,1,0,0,5,1,0,0,0,0,14,4
-Amazon Brand - Symbol,699,699.0,3.7,Amazon India,womens jeans,2026-08-30 22:56:28,Amazon,3.7,1,0,1,1,0,0,21,4,0,0,0,0,1,3
-KOTTY,463,463.0,3.8,Amazon India,womens jeans,2026-08-30 22:56:28,Kotty,3.8,1,0,1,1,0,0,5,1,0,0,0,0,10,6
-KOTTY,463,463.0,3.7,Amazon India,womens jeans,2026-08-30 22:56:28,Kotty,3.7,1,0,1,1,0,0,5,1,0,0,0,0,10,6
-London Hills,713,713.0,3.9,Amazon India,womens jeans,2026-08-30 22:56:28,London,3.9,1,0,1,1,0,0,12,2,0,0,0,0,13,2
-KOTTY,463,463.0,3.9,Amazon India,womens jeans,2026-08-30 22:56:28,Kotty,3.9,1,0,1,1,0,0,5,1,0,0,0,0,10,6
-TAGAS,739,739.0,3.5,Amazon India,womens jeans,2026-08-30 22:56:28,Tagas,3.5,1,0,1,1,0,0,5,1,0,0,0,0,18,2
-Ben Martin,999,999.0,3.8,Amazon India,womens jeans,2026-08-30 22:56:28,Ben,3.8,1,0,1,1,0,0,10,2,0,0,0,0,3,1
-Shasmi,848,848.0,4.5,Amazon India,womens jeans,2026-08-30 22:56:28,Shasmi,4.5,1,0,1,1,0,0,6,1,0,0,0,0,17,1
-Levi's,"1,649",1649.0,4.7,Amazon India,womens jeans,2026-08-30 22:56:28,Levi,4.7,1,0,1,1,0,0,6,1,0,0,0,0,12,1
-U.S. POLO ASSN.,"1,516",1516.0,4.1,Amazon India,womens jeans,2026-08-30 22:56:28,Polo,4.1,1,0,1,1,0,0,15,3,0,0,0,0,15,5
-KOTTY,799,799.0,4.1,Amazon India,womens jeans,2026-08-30 22:56:28,Kotty,4.1,1,0,1,1,0,0,5,1,0,0,0,0,10,6
+Geum,299,299.0,3.5,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Geum,3.5,1,1,1,0,0,0,4,1,0,0,0,2,20,1
+Blisstone,299,299.0,3.8,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Blisstone,3.8,1,1,1,0,0,0,9,1,0,0,0,2,10,2
+Jockey,489,489.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,2,28,10
+Veirdo,399,399.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Veirdo,4.2,1,1,1,0,0,0,6,1,0,0,0,2,64,5
+Jockey,489,489.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,2,28,10
+U.S. POLO ASSN.,476,476.0,3.9,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Polo,3.9,1,1,1,0,0,0,15,3,0,0,0,2,48,6
+Men's V Neck Half Sleeve T-Shirt (Pack of 1),229,229.0,3.6,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Lee,3.6,1,1,1,0,0,0,44,9,0,0,0,2,33,9
+Blisstone,299,299.0,,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Blisstone,3.9,0,1,1,0,0,0,9,1,0,0,0,2,10,2
+Veirdo,399,399.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Veirdo,4.2,1,1,1,0,0,0,6,1,0,0,0,2,64,5
+"Men's Polycotton V Neck T-Shirt Soft Breathable Fabric, Casual Half Sleeve Solid Tee, Slim Fit Styli",299,299.0,2.9,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Lee,2.9,1,1,1,0,0,0,100,16,0,1,1,2,33,9
+U.S. POLO ASSN.,573,573.0,3.9,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Polo,3.9,1,1,1,0,0,0,15,3,0,0,0,2,48,6
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,2,28,10
+Veirdo,399,399.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Veirdo,4.2,1,1,1,0,0,0,6,1,0,0,0,2,64,5
+Van Heusen,668,668.0,4.1,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Van Heusen,4.1,1,1,1,0,0,0,10,2,0,0,0,2,63,5
+Jockey,549,549.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,2,28,10
+Amazon Brand - Symbol,899,899.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Amazon,4.2,1,1,1,0,0,0,21,4,0,0,0,2,5,5
+Veirdo,399,399.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Veirdo,4.2,1,1,1,0,0,0,6,1,0,0,0,2,64,5
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,2,28,10
+THE BLAZZE,473,473.0,3.1,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,THE,3.1,1,1,1,0,0,0,10,2,0,0,0,2,57,6
+Aventura Outfitters,"1,399",1399.0,4.0,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Aventura,4.0,1,1,1,0,0,0,19,2,0,0,0,2,7,1
+Levi's,395,395.0,4.0,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Levi,4.0,1,1,1,0,0,0,6,1,0,0,0,2,34,3
+DBAX,399,399.0,5.0,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,DBAX,5.0,1,1,1,0,0,0,4,1,0,0,0,2,13,1
+FLEXIMAA,375,375.0,3.9,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,FLEXIMAA,3.9,1,1,1,0,0,0,8,1,0,0,0,2,14,5
+NETCLICK,349,349.0,3.6,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,NETCLICK,3.6,1,1,1,0,0,0,8,1,0,0,0,2,43,3
+Van Heusen,598,598.0,4.1,Amazon India,mens v neck tshirt,2026-09-01 00:02:15,Van Heusen,4.1,1,1,1,0,0,0,10,2,0,0,0,2,63,5
+Lymio,399,399.0,3.4,Amazon India,mens white tshirt,2026-09-01 00:02:50,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,3,38,2
+INKKR,219,219.0,3.4,Amazon India,mens white tshirt,2026-09-01 00:02:50,INKKR,3.4,1,1,1,0,0,0,5,1,0,0,0,3,24,1
+AUSK,399,399.0,2.8,Amazon India,mens white tshirt,2026-09-01 00:02:50,AUSK,2.8,1,1,1,0,0,0,4,1,0,0,0,3,2,3
+NETCLICK,349,349.0,3.6,Amazon India,mens white tshirt,2026-09-01 00:02:50,NETCLICK,3.6,1,1,1,0,0,0,8,1,0,0,0,3,43,3
+Levi's,395,395.0,4.0,Amazon India,mens white tshirt,2026-09-01 00:02:50,Levi,4.0,1,1,1,0,0,0,6,1,0,0,0,3,34,3
+London Hills,249,249.0,3.7,Amazon India,mens white tshirt,2026-09-01 00:02:50,London,3.7,1,1,1,0,0,0,12,2,0,0,0,3,35,5
+Louis Philippe,"1,099",1099.0,4.1,Amazon India,mens white tshirt,2026-09-01 00:02:50,Louis,4.1,1,1,1,0,0,0,14,2,0,0,0,3,36,6
+Van Heusen,629.,629.0,4.0,Amazon India,mens white tshirt,2026-09-01 00:02:50,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,3,63,5
+Men's Textured Fabric Solid Half-Open Collar T-Shirt | Full Sleeve Casual Shirt for Men | Comfortabl,310,310.0,4.0,Amazon India,mens white tshirt,2026-09-01 00:02:50,Lee,4.0,1,1,1,0,0,0,100,16,0,0,0,3,33,9
+Jockey,536,536.0,4.2,Amazon India,mens white tshirt,2026-09-01 00:02:50,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,3,28,10
+Peter England,699,699.0,4.1,Amazon India,mens white tshirt,2026-09-01 00:02:50,Peter,4.1,1,1,1,0,0,0,13,2,0,0,0,3,47,3
+Allen Solly,869,869.0,4.1,Amazon India,mens white tshirt,2026-09-01 00:02:50,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,3,3,3
+Lux Cozi,395,395.0,3.9,Amazon India,mens white tshirt,2026-09-01 00:02:50,Lux,3.9,1,1,1,0,0,0,8,2,0,0,0,3,37,3
+Louis Philippe,"1,079",1079.0,3.9,Amazon India,mens white tshirt,2026-09-01 00:02:50,Louis,3.9,1,1,1,0,0,0,14,2,0,0,0,3,36,6
+Amazon Brand - Symbol,349,349.0,4.0,Amazon India,mens white tshirt,2026-09-01 00:02:50,Amazon,4.0,1,1,1,0,0,0,21,4,0,0,0,3,5,5
+Van Heusen,502,502.0,4.0,Amazon India,mens white tshirt,2026-09-01 00:02:50,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,3,63,5
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens white tshirt,2026-09-01 00:02:50,Amazon,3.9,1,1,1,0,0,0,21,4,0,0,0,3,5,5
+Lux Cozi,380,380.0,3.8,Amazon India,mens white tshirt,2026-09-01 00:02:50,Lux,3.8,1,1,1,0,0,0,8,2,0,0,0,3,37,3
+Men's Premium Waffle Knit Henley Tshirt for Men,349,349.0,4.4,Amazon India,mens white tshirt,2026-09-01 00:02:50,Men's,4.4,1,1,1,0,0,0,47,8,1,0,0,3,41,1
+London Hills,299,299.0,3.8,Amazon India,mens white tshirt,2026-09-01 00:02:50,London,3.8,1,1,1,0,0,0,12,2,0,0,0,3,35,5
+Jockey,379,379.0,4.0,Amazon India,mens white tshirt,2026-09-01 00:02:50,Jockey,4.0,1,1,1,0,0,0,6,1,0,0,0,3,28,10
+Lux Cozi,289,289.0,4.0,Amazon India,mens white tshirt,2026-09-01 00:02:50,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,3,37,3
+U.S. POLO ASSN.,"1,364",1364.0,4.2,Amazon India,mens white tshirt,2026-09-01 00:02:50,Polo,4.2,1,1,1,0,0,0,15,3,0,0,0,3,48,6
+PUMA,999,999.0,3.9,Amazon India,mens white tshirt,2026-09-01 00:02:50,Puma,3.9,1,1,1,0,0,0,4,1,0,0,0,3,49,2
+NETCLICK,329,329.0,3.4,Amazon India,mens white tshirt,2026-09-01 00:02:50,NETCLICK,3.4,1,1,1,0,0,0,8,1,0,0,0,3,43,3
+CLASSIC TEES,349,349.0,4.8,Amazon India,womens plain tshirt,2026-09-01 00:03:19,CLASSIC,4.8,1,1,1,1,0,1,12,2,0,0,0,5,12,6
+TWIN BIRDS,299,299.0,4.2,Amazon India,womens plain tshirt,2026-09-01 00:03:19,TWIN,4.2,1,1,1,1,0,1,10,2,0,0,0,5,59,1
+100% Cotton Plain Oversized T Shirt for Women | Round Neck T Shirt Women | Casual Plain Tshirt | Reg,237,237.0,3.8,Amazon India,womens plain tshirt,2026-09-01 00:03:19,100%,3.8,1,1,1,1,0,1,100,20,0,1,1,5,0,1
+Allen Solly,409,409.0,4.1,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Allen,4.1,1,1,1,1,0,1,11,2,0,0,0,5,3,3
+SLEEPY NUTS,998,998.0,4.0,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Lee,4.0,1,1,1,1,0,1,11,2,0,0,0,5,33,9
+Allen Solly,409,409.0,4.1,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Allen,4.1,1,1,1,1,0,1,11,2,0,0,0,5,3,3
+TQH,283,283.0,3.2,Amazon India,womens plain tshirt,2026-09-01 00:03:19,TQH,3.2,1,1,1,1,0,1,3,1,0,0,0,5,58,1
+Fabricorn,975,975.0,4.1,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Fabricorn,4.1,1,1,1,1,0,1,9,1,0,0,0,5,16,5
+Istyle Can,319,319.0,3.7,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Istyle,3.7,1,1,1,1,0,1,10,2,0,0,0,5,25,1
+LEOTUDE,799,799.0,3.7,Amazon India,womens plain tshirt,2026-09-01 00:03:19,LEOTUDE,3.7,1,1,1,1,0,1,7,1,0,0,0,5,32,1
+Cotton Blend Drop Shoulder Oversized Baggy Fit Half Sleeve Plain Solid Round Neck Multicolor T-Shirt,280,280.0,4.3,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Lee,4.3,1,1,1,1,0,1,100,15,0,1,1,5,33,9
+JUNEBERRY,379,379.0,4.1,Amazon India,womens plain tshirt,2026-09-01 00:03:19,JUNEBERRY,4.1,1,1,1,1,0,1,9,1,0,0,0,5,26,6
+Amazon Brand - Symbol,449,449.0,4.2,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Amazon,4.2,1,1,1,1,0,1,21,4,0,0,0,5,5,5
+Jockey,549,549.0,4.3,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Jockey,4.3,1,1,1,1,0,1,6,1,0,0,0,5,28,10
+JUNEBERRY,999,999.0,4.2,Amazon India,womens plain tshirt,2026-09-01 00:03:19,JUNEBERRY,4.2,1,1,1,1,0,1,9,1,0,0,0,5,26,6
+JUNEBERRY,999,999.0,4.2,Amazon India,womens plain tshirt,2026-09-01 00:03:19,JUNEBERRY,4.2,1,1,1,1,0,1,9,1,0,0,0,5,26,6
+CLASSIC TEES,399,399.0,4.8,Amazon India,womens plain tshirt,2026-09-01 00:03:19,CLASSIC,4.8,1,1,1,1,0,1,12,2,0,0,0,5,12,6
+Fabricorn,975,975.0,4.1,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Fabricorn,4.1,1,1,1,1,0,1,9,1,0,0,0,5,16,5
+Fabricorn,395,395.0,4.0,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Fabricorn,4.0,1,1,1,1,0,1,9,1,0,0,0,5,16,5
+Max,199,199.0,3.9,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Max,3.9,1,1,1,1,0,1,3,1,0,0,0,5,40,2
+Hangout Hub,284,284.0,3.7,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Hangout,3.7,1,1,1,1,0,1,11,2,0,0,0,5,22,2
+Hangout Hub,125,125.0,1.4,Amazon India,womens plain tshirt,2026-09-01 00:03:19,Hangout,1.4,1,1,1,1,0,1,11,2,0,0,0,5,22,2
+FLEXIMAA,299,299.0,3.9,Amazon India,womens plain tshirt,2026-09-01 00:03:19,FLEXIMAA,3.9,1,1,1,1,0,1,8,1,0,0,0,5,14,5
+JUNEBERRY,399,399.0,4.1,Amazon India,womens plain tshirt,2026-09-01 00:03:19,JUNEBERRY,4.1,1,1,1,1,0,1,9,1,0,0,0,5,26,6
+London Hills,899,899.0,3.7,Amazon India,womens plain tshirt,2026-09-01 00:03:19,London,3.7,1,1,1,1,0,1,12,2,0,0,0,5,35,5
+CLASSIC TEES,349,349.0,4.8,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,CLASSIC,4.8,1,1,1,1,0,0,12,2,0,0,0,6,12,6
+Fabricorn,975,975.0,4.1,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Fabricorn,4.1,1,1,1,1,0,0,9,1,0,0,0,6,16,5
+CLASSIC TEES,349,349.0,4.8,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,CLASSIC,4.8,1,1,1,1,0,0,12,2,0,0,0,6,12,6
+AUSK,298,298.0,3.4,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,AUSK,3.4,1,1,1,1,0,0,4,1,0,0,0,6,2,3
+BLACK BUDDY,299,299.0,3.8,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,BLACK,3.8,1,1,1,1,0,0,11,2,0,0,0,6,9,2
+Amazon Brand - Symbol,479,479.0,4.0,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Amazon,4.0,1,1,1,1,0,0,21,4,0,0,0,6,5,5
+CLASSIC TEES,399,399.0,4.8,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,CLASSIC,4.8,1,1,1,1,0,0,12,2,0,0,0,6,12,6
+Women Jersey Shirt | Graphic Printed Mesh Style V Neck T-Shirt | Cotton Blend Short Sleeve Oversized,249,249.0,,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Lee,3.9,0,1,1,1,0,0,100,17,0,1,1,6,33,9
+JUNEBERRY,379,379.0,3.8,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,JUNEBERRY,3.8,1,1,1,1,0,0,9,1,0,0,0,6,26,6
+JUNEBERRY,379,379.0,3.8,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,JUNEBERRY,3.8,1,1,1,1,0,0,9,1,0,0,0,6,26,6
+Women's Ribbed Polo T-Shirt Stretch Polyester Casual Solid Collared V Neck Short Sleeve Slim Fit Top,230,230.0,5.0,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Polo,5.0,1,1,1,1,0,0,100,16,0,0,1,6,48,6
+CLASSIC TEES,399,399.0,4.8,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,CLASSIC,4.8,1,1,1,1,0,0,12,2,0,0,0,6,12,6
+RodZen,349,349.0,3.0,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,RodZen,3.0,1,1,1,1,0,0,6,1,0,0,0,6,52,1
+FLEXIMAA,599,599.0,3.7,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,FLEXIMAA,3.7,1,1,1,1,0,0,8,1,0,0,0,6,14,5
+FLEXIMAA,299,299.0,3.9,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,FLEXIMAA,3.9,1,1,1,1,0,0,8,1,0,0,0,6,14,5
+Generic,299,299.0,3.8,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Generic,3.8,1,1,1,1,0,0,7,1,0,0,0,6,19,2
+BLACK BUDDY,299,299.0,3.8,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,BLACK,3.8,1,1,1,1,0,0,11,2,0,0,0,6,9,2
+Jockey,549,549.0,4.1,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Jockey,4.1,1,1,1,1,0,0,6,1,0,0,0,6,28,10
+"Women’s Solid Slim Fit Cotton T-Shirt – Mandarin Collar, Button-Front Design, Half Sleeves, Soft & B",425,425.0,4.1,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Lee,4.1,1,1,1,1,0,0,100,16,0,1,1,6,33,9
+"Women's Ribbed V Neck Collared, Casual Short Sleeve Polo Top, Stretch Knit, Soft Lightweight Summer ",349,349.0,1.0,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Polo,1.0,1,1,1,1,0,0,100,15,0,0,0,6,48,6
+Fabricorn,425,425.0,3.7,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Fabricorn,3.7,1,1,1,1,0,0,9,1,0,0,0,6,16,5
+Jockey,649,649.0,4.2,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Jockey,4.2,1,1,1,1,0,0,6,1,0,0,0,6,28,10
+FLEXIMAA,299,299.0,3.9,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,FLEXIMAA,3.9,1,1,1,1,0,0,8,1,0,0,0,6,14,5
+Amante,229.,229.0,4.1,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Amante,4.1,1,1,1,1,0,0,6,1,0,0,0,6,4,1
+Van Heusen,479,479.0,4.1,Amazon India,womens v neck tshirt,2026-09-01 00:03:54,Van Heusen,4.1,1,1,1,1,0,0,10,2,0,0,0,6,63,5
+FN3,499,499.0,3.6,Amazon India,mens hoodies,2026-09-01 00:04:16,FN3,3.6,1,0,1,0,0,0,3,1,0,0,0,0,15,1
+Lymio,599,599.0,3.7,Amazon India,mens hoodies,2026-09-01 00:04:16,Lymio,3.7,1,0,1,0,0,0,5,1,0,0,0,0,38,2
+SHAIRA FASHION,499,499.0,5.0,Amazon India,mens hoodies,2026-09-01 00:04:16,SHAIRA,5.0,1,0,1,0,0,0,14,2,0,0,0,0,53,1
+The Modern Soul,499,499.0,3.8,Amazon India,mens hoodies,2026-09-01 00:04:16,The,3.8,1,0,1,0,0,0,15,3,0,0,0,0,61,1
+Jump Cuts,408,408.0,3.4,Amazon India,mens hoodies,2026-09-01 00:04:16,Jump,3.4,1,0,1,0,0,0,9,2,0,0,0,0,30,1
+TAGAS,679,679.0,4.1,Amazon India,mens hoodies,2026-09-01 00:04:16,Tagas,4.1,1,0,1,0,0,0,5,1,0,0,0,0,60,2
+TAGDO,599,599.0,3.6,Amazon India,mens hoodies,2026-09-01 00:04:16,TAGDO,3.6,1,0,1,0,0,0,5,1,0,0,0,0,56,1
+AUSK,379,379.0,3.2,Amazon India,mens hoodies,2026-09-01 00:04:16,AUSK,3.2,1,0,1,0,0,0,4,1,0,0,0,0,2,3
+JVX,599,599.0,3.9,Amazon India,mens hoodies,2026-09-01 00:04:16,JVX,3.9,1,0,1,0,0,0,3,1,0,0,0,0,27,1
+"Men’s Collar Chain Cotton Fleece Sweatshirt | Warm Hoodie for Gym, Travel & Casual Winter Wear",499,499.0,3.6,Amazon India,mens hoodies,2026-09-01 00:04:16,Lee,3.6,1,0,1,0,0,0,94,16,0,1,0,0,33,9
+Boldfit,599,599.0,3.9,Amazon India,mens hoodies,2026-09-01 00:04:16,Boldfit,3.9,1,0,1,0,0,0,7,1,0,0,0,0,11,1
+Alan Jones Clothing,648,648.0,3.9,Amazon India,mens hoodies,2026-09-01 00:04:16,Jones,3.9,1,0,1,0,0,0,19,3,0,0,0,0,29,3
+Men's Cotton Slim Fit Sleeveless Hooded Tank Top Gym Hoodie,399,399.0,5.0,Amazon India,mens hoodies,2026-09-01 00:04:16,Lee,5.0,1,0,1,0,0,0,59,10,0,1,1,0,33,9
+Veirdo,899,899.0,3.9,Amazon India,mens hoodies,2026-09-01 00:04:16,Veirdo,3.9,1,0,1,0,0,0,6,1,0,0,0,0,64,5
+BE SAVAGE,894,894.0,4.0,Amazon India,mens hoodies,2026-09-01 00:04:16,BE,4.0,1,0,1,0,0,0,9,2,0,0,0,0,8,1
+Alan Jones Clothing,698,698.0,4.0,Amazon India,mens hoodies,2026-09-01 00:04:16,Jones,4.0,1,0,1,0,0,0,19,3,0,0,0,0,29,3
+GAP,"1,499",1499.0,4.5,Amazon India,mens hoodies,2026-09-01 00:04:16,Gap,4.5,1,0,1,0,0,0,3,1,0,0,0,0,18,3
+Noble Monk,298,298.0,3.5,Amazon India,mens hoodies,2026-09-01 00:04:16,Noble,3.5,1,0,1,0,0,0,10,2,0,0,0,0,45,1
+GAP,"1,499",1499.0,4.2,Amazon India,mens hoodies,2026-09-01 00:04:16,Gap,4.2,1,0,1,0,0,0,3,1,0,0,0,0,18,3
+TAGAS,649,649.0,3.8,Amazon India,mens hoodies,2026-09-01 00:04:16,Tagas,3.8,1,0,1,0,0,0,5,1,0,0,0,0,60,2
+Alan Jones Clothing,648,648.0,3.9,Amazon India,mens hoodies,2026-09-01 00:04:16,Jones,3.9,1,0,1,0,0,0,19,3,0,0,0,0,29,3
+PUMA,"1,399",1399.0,4.1,Amazon India,mens hoodies,2026-09-01 00:04:16,Puma,4.1,1,0,1,0,0,0,4,1,0,0,0,0,49,2
+PROSHARX,699,699.0,3.5,Amazon India,mens hoodies,2026-09-01 00:04:16,PROSHARX,3.5,1,0,1,0,0,0,8,1,1,0,0,0,46,1
+GAP,"1,499",1499.0,4.2,Amazon India,mens hoodies,2026-09-01 00:04:16,Gap,4.2,1,0,1,0,0,0,3,1,0,0,0,0,18,3
+THE INDIAN GARAGE CO,479,479.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,THE,3.7,1,0,1,0,0,0,20,4,0,0,0,1,57,6
+London Hills,741,741.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,London,3.7,1,0,1,0,0,0,12,2,0,0,0,1,35,5
+Urbano Fashion,608,608.0,3.6,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,1,62,5
+London Hills,741,741.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,London,3.7,1,0,1,0,0,0,12,2,0,0,0,1,35,5
+Urbano Fashion,600,600.0,3.6,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,1,62,5
+Urbano Fashion,699,699.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Urban,3.7,1,0,1,0,0,0,14,2,0,0,0,1,62,5
+Peter England,"1,088.",1088.0,3.8,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Peter,3.8,1,0,1,0,0,0,13,2,0,0,0,1,47,3
+THE INDIAN GARAGE CO,450,450.0,3.6,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,THE,3.6,1,0,1,0,0,0,20,4,0,0,0,1,57,6
+Urbano Fashion,656,656.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Urban,3.7,1,0,1,0,0,0,14,2,0,0,0,1,62,5
+Max,799,799.0,3.5,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Max,3.5,1,0,1,0,0,0,3,1,0,0,0,1,40,2
+Spykar,"1,299",1299.0,2.8,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Spykar,2.8,1,0,1,0,0,0,6,1,0,0,0,1,55,2
+THE INDIAN GARAGE CO,479,479.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,THE,3.7,1,0,1,0,0,0,20,4,0,0,0,1,57,6
+Louis Philippe,"1,533",1533.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Louis,3.7,1,0,1,0,0,0,14,2,0,0,0,1,36,6
+THE INDIAN GARAGE CO,479,479.0,4.4,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,THE,4.4,1,0,1,0,0,0,20,4,0,0,0,1,57,6
+U.S. POLO ASSN.,"1,389",1389.0,3.8,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Polo,3.8,1,0,1,0,0,0,15,3,0,0,0,1,48,6
+Louis Philippe,"1,569",1569.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Louis,3.7,1,0,1,0,0,0,14,2,0,0,0,1,36,6
+Urbano Fashion,671,671.0,3.6,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,1,62,5
+Louis Philippe,"1,274",1274.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Louis,3.7,1,0,1,0,0,0,14,2,0,0,0,1,36,6
+Peter England,"1,214.",1214.0,4.0,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Peter,4.0,1,0,1,0,0,0,13,2,0,0,0,1,47,3
+INKD,699,699.0,3.8,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,INKD,3.8,1,0,1,0,0,0,4,1,0,0,0,1,23,1
+RAGZO,899,899.0,3.4,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,RAGZO,3.4,1,0,1,0,0,0,5,1,0,0,0,1,50,1
+Levi's,"1,799",1799.0,3.8,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Levi,3.8,1,0,1,0,0,0,6,1,0,0,0,1,34,3
+THE INDIAN GARAGE CO,619,619.0,3.8,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,THE,3.8,1,0,1,0,0,0,20,4,0,0,0,1,57,6
+Louis Philippe,"1,685",1685.0,3.7,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Louis,3.7,1,0,1,0,0,0,14,2,0,0,0,1,36,6
+Spykar,"1,479",1479.0,5.0,Amazon India,mens slim fit jeans,2026-09-01 00:04:46,Spykar,5.0,1,0,1,0,0,0,6,1,0,0,0,1,55,2
+KLOSIA,799,799.0,4.1,Amazon India,womens dress,2026-09-01 00:05:22,KLOSIA,4.1,1,0,1,1,0,0,6,1,0,0,0,4,31,3
+Shasmi,599,599.0,4.4,Amazon India,womens dress,2026-09-01 00:05:22,Shasmi,4.4,1,0,1,1,0,0,6,1,0,0,0,4,54,5
+Anveri Textiles,599,599.0,3.6,Amazon India,womens dress,2026-09-01 00:05:22,Anveri,3.6,1,0,1,1,0,0,15,2,0,0,0,4,6,1
+KLOSIA,799,799.0,4.1,Amazon India,womens dress,2026-09-01 00:05:22,KLOSIA,4.1,1,0,1,1,0,0,6,1,0,0,0,4,31,3
+ANNI DESIGNER,512,512.0,3.3,Amazon India,womens dress,2026-09-01 00:05:22,ANNI,3.3,1,0,1,1,0,0,13,2,1,0,0,4,1,4
+ANNI DESIGNER,799,799.0,4.1,Amazon India,womens dress,2026-09-01 00:05:22,ANNI,4.1,1,0,1,1,0,0,13,2,1,0,0,4,1,4
+Nermosa,799,799.0,4.3,Amazon India,womens dress,2026-09-01 00:05:22,Nermosa,4.3,1,0,1,1,0,0,7,1,0,0,0,4,44,3
+MOKOSH,"1,412",1412.0,4.3,Amazon India,womens dress,2026-09-01 00:05:22,MOKOSH,4.3,1,0,1,1,0,0,6,1,0,0,0,4,39,1
+Nermosa,730,730.0,4.3,Amazon India,womens dress,2026-09-01 00:05:22,Nermosa,4.3,1,0,1,1,0,0,7,1,0,0,0,4,44,3
+GoSriKi,715,715.0,3.5,Amazon India,womens dress,2026-09-01 00:05:22,GoSriKi,3.5,1,0,1,1,0,0,7,1,0,0,0,4,21,3
+GoSriKi,738,738.0,3.6,Amazon India,womens dress,2026-09-01 00:05:22,GoSriKi,3.6,1,0,1,1,0,0,7,1,0,0,0,4,21,3
+"Women's Dusty Pink Rayon Kurta Set with Dupatta & Pants – 3-Piece Ethnic Wear Suit, Round Neck, 3/4 ",500,500.0,4.0,Amazon India,womens dress,2026-09-01 00:05:22,Women's,4.0,1,0,1,1,0,0,100,18,0,0,0,4,65,1
+Shasmi,598,598.0,4.4,Amazon India,womens dress,2026-09-01 00:05:22,Shasmi,4.4,1,0,1,1,0,0,6,1,0,0,0,4,54,5
+ANNI DESIGNER,480,480.0,3.6,Amazon India,womens dress,2026-09-01 00:05:22,ANNI,3.6,1,0,1,1,0,0,13,2,1,0,0,4,1,4
+Nermosa,799,799.0,4.1,Amazon India,womens dress,2026-09-01 00:05:22,Nermosa,4.1,1,0,1,1,0,0,7,1,0,0,0,4,44,3
+ANNI DESIGNER,499,499.0,4.0,Amazon India,womens dress,2026-09-01 00:05:22,ANNI,4.0,1,0,1,1,0,0,13,2,1,0,0,4,1,4
+ROYALICA,665,665.0,3.3,Amazon India,womens dress,2026-09-01 00:05:22,ROYALICA,3.3,1,0,1,1,0,0,8,1,0,0,0,4,51,1
+Shasmi,599,599.0,4.1,Amazon India,womens dress,2026-09-01 00:05:22,Shasmi,4.1,1,0,1,1,0,0,6,1,0,0,0,4,54,5
+GRECIILOOKS,649,649.0,4.0,Amazon India,womens dress,2026-09-01 00:05:22,GRECIILOOKS,4.0,1,0,1,1,0,0,11,1,0,0,0,4,17,1
+Shasmi,596,596.0,4.4,Amazon India,womens dress,2026-09-01 00:05:22,Shasmi,4.4,1,0,1,1,0,0,6,1,0,0,0,4,54,5
+GoSriKi,719,719.0,3.5,Amazon India,womens dress,2026-09-01 00:05:22,GoSriKi,3.5,1,0,1,1,0,0,7,1,0,0,0,4,21,3
+KLOSIA,699,699.0,4.1,Amazon India,womens dress,2026-09-01 00:05:22,KLOSIA,4.1,1,0,1,1,0,0,6,1,0,0,0,4,31,3
+Modestouze Attires,695,695.0,4.0,Amazon India,womens dress,2026-09-01 00:05:22,Modestouze,4.0,1,0,1,1,0,0,18,2,0,0,0,4,42,1
+Shasmi,596,596.0,4.4,Amazon India,womens dress,2026-09-01 00:05:22,Shasmi,4.4,1,0,1,1,0,0,6,1,0,0,0,4,54,5
+Generic,349,349.0,,Amazon India,womens dress,2026-09-01 00:05:22,Generic,3.9,0,0,1,1,0,0,7,1,0,0,0,4,19,2
