@@ -1,26 +1,101 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Geum,299,299.0,3.4,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Geum,299,299.0,3.4,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Jockey,599,599.0,4.2,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-"Men's Polycotton V Neck T-Shirt Soft Breathable Fabric, Casual Half Sleeve Solid Tee, Slim Fit Styli",299,299.0,2.8,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Blisstone,299,299.0,3.7,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-NETCLICK,347,347.0,3.9,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Blisstone,299,299.0,,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Jockey,599,599.0,4.2,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Veirdo,399,399.0,4.1,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Veirdo,399,399.0,4.1,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-DBAX,399,399.0,5.0,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-U.S. POLO ASSN.,475,475.0,3.9,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-THALASI,399,399.0,3.0,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-U.S. POLO ASSN.,573,573.0,3.9,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Aventura Outfitters,"1,399",1399.0,4.0,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-V-Neck with Zip Closure Type T-Shirt || Half Sleeves Casual Regular Wear T-Shirt for Men (Pack of 1),299,299.0,2.9,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-DAMENSCH,549,549.0,4.1,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-U.S. POLO ASSN.,580,580.0,3.9,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-U.S. POLO ASSN.,566,566.0,3.9,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Van Heusen,437,437.0,4.1,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-Amazon Brand - Symbol,898,898.0,4.2,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
-RodZen,349,349.0,3.5,Amazon India,mens v neck tshirt,2026-09-17 23:00:42
+Max,198,198.0,4.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Levi's,399,399.0,4.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Sleepynuts,999,999.0,3.8,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Sleepynuts,998.,998.0,3.8,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Hangout Hub,125,125.0,2.9,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Max,199,199.0,4.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Levi's,399,399.0,4.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+LEOTUDE,298,298.0,3.7,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Leriya Fashion,679,679.0,3.8,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Sleepynuts,999,999.0,3.8,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Van Heusen,497,497.0,4.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Scott International,249,249.0,3.7,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Men’s Plain Polo Neck T-Shirt | Comfortable | Stylish Casual & Smart Wear | Half Sleeve | Regular Fi,299,299.0,3.8,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+LEOTUDE,298,298.0,3.9,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Generic,473,473.0,3.7,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+London Hills,249,249.0,3.7,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Jockey,599,599.0,4.2,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Veirdo,999,999.0,4.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+BULLMER,479,479.0,3.5,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Jockey,579,579.0,4.2,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Amul Comfy,199,199.0,3.9,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Amazon Brand - Symbol,348,348.0,4.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Plain Black Oversized T-Shirt for Men Cotton Drop Shoulder Loose Fit Streetwear Solid Casual Round N,299,299.0,5.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Levi's,399,399.0,4.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+Amazon Brand - Symbol,348,348.0,4.0,Amazon India,mens plain tshirt,2026-09-18 22:45:35
+AUSK,270,270.0,3.4,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+boffi ...,330,330.0,3.5,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+AUSK,270,270.0,3.0,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+KRYPTIC,321,321.0,3.8,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+DARREN LUKE,338,338.0,3.6,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+U.S. POLO ASSN.,"1,517",1517.0,4.1,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+JUGULAR,399,399.0,3.6,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+AUSK,348.,348.0,3.8,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+LEOTUDE,298,298.0,3.9,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+THALASI,467,467.0,3.5,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+boffi ...,349,349.0,3.5,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+LEOTUDE,798,798.0,4.0,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+Van Heusen,503,503.0,4.2,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+LEOTUDE,298,298.0,4.0,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+The Souled Store,"1,049",1049.0,4.3,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+The Souled Store,"1,048",1048.0,4.0,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+FORCE,399,399.0,2.9,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+LEOTUDE,298,298.0,3.9,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+Jump Cuts,370,370.0,3.3,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+AUSK,298,298.0,3.6,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+AUSK,298,298.0,3.1,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+BULLMER,479,479.0,3.5,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+BULLMER,477,477.0,3.5,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+Veirdo,479,479.0,4.3,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+The Souled Store,"1,498",1498.0,4.2,Amazon India,mens printed tshirt,2026-09-18 22:45:46
+Geum,299,299.0,3.4,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Geum,299,299.0,3.4,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Jockey,599,599.0,4.2,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+"Men's Polycotton V Neck T-Shirt Soft Breathable Fabric, Casual Half Sleeve Solid Tee, Slim Fit Styli",299,299.0,2.8,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Blisstone,299,299.0,3.7,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+NETCLICK,347,347.0,4.0,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Jockey,599,599.0,4.2,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Veirdo,399,399.0,4.1,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Blisstone,299,299.0,,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Veirdo,399,399.0,4.1,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+U.S. POLO ASSN.,573,573.0,3.9,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+DBAX,375,375.0,5.0,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+U.S. POLO ASSN.,475,475.0,3.9,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+THALASI,399,399.0,3.0,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Van Heusen,437,437.0,4.1,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Aventura Outfitters,"1,399",1399.0,4.0,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+U.S. POLO ASSN.,580,580.0,3.9,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+V-Neck with Zip Closure Type T-Shirt || Half Sleeves Casual Regular Wear T-Shirt for Men (Pack of 1),299,299.0,2.9,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+DAMENSCH,549,549.0,4.1,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+U.S. POLO ASSN.,566,566.0,3.9,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+Amazon Brand - Symbol,898,898.0,4.2,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+JANGOBOY,299,299.0,3.7,Amazon India,mens v neck tshirt,2026-09-18 22:46:13
+DEEMOON,499,499.0,3.4,Amazon India,mens casual shirts,2026-09-18 22:48:15
+DEEMOON,499,499.0,3.4,Amazon India,mens casual shirts,2026-09-18 22:48:15
+DEELMO,342,342.0,3.9,Amazon India,mens casual shirts,2026-09-18 22:48:15
+U TURN,398,398.0,3.5,Amazon India,mens casual shirts,2026-09-18 22:48:15
+DEELMO,495,495.0,3.5,Amazon India,mens casual shirts,2026-09-18 22:48:15
+CB-COLEBROOK,495,495.0,3.6,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Highlander,504,504.0,4.0,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Zilcon,499,499.0,3.5,Amazon India,mens casual shirts,2026-09-18 22:48:15
+THE INDIAN GARAGE CO,524,524.0,3.9,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Men's Brown Solid Full Sleeve Casual Shirt with Chest Pocket,299,299.0,2.6,Amazon India,mens casual shirts,2026-09-18 22:48:15
+U.S. POLO ASSN.,"1,563",1563.0,4.0,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Combo of Men’s Casual Cotton Blend Shirt || Long Sleeve Button Down with Spread Collar | Lightweight,495,495.0,3.6,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Peter England,899,899.0,3.9,Amazon India,mens casual shirts,2026-09-18 22:48:15
+GRECIILOOKS,498,498.0,4.0,Amazon India,mens casual shirts,2026-09-18 22:48:15
+NexaFlair,465,465.0,3.1,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Lymio,449,449.0,3.6,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Amazon Brand - INKAST,619,619.0,4.0,Amazon India,mens casual shirts,2026-09-18 22:48:15
+THE INDIAN GARAGE CO,495,495.0,3.8,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Peter England,"1,115",1115.0,4.0,Amazon India,mens casual shirts,2026-09-18 22:48:15
+IndoPrimo,499,499.0,5.0,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Louis Philippe,"1,079",1079.0,3.8,Amazon India,mens casual shirts,2026-09-18 22:48:15
+TOPLOT,449,449.0,4.0,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Allen Solly,"1,129",1129.0,3.9,Amazon India,mens casual shirts,2026-09-18 22:48:15
+DEELMO,495,495.0,3.5,Amazon India,mens casual shirts,2026-09-18 22:48:15
+Majestic Man,596.,596.0,4.0,Amazon India,mens casual shirts,2026-09-18 22:48:15
