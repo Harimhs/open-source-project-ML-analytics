@@ -1,26 +1,76 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-AUSK,270,270.0,3.4,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-boffi ...,330,330.0,3.5,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-LEOTUDE,292,292.0,3.9,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-boffi ...,349,349.0,3.5,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-Noble Monk,289,289.0,2.5,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-AUSK,286,286.0,3.6,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-THALASI,467,467.0,3.5,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-LEOTUDE,298,298.0,3.9,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-LEOTUDE,292,292.0,4.0,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-LEOTUDE,798,798.0,3.7,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-JACK & JONES,779,779.0,3.8,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-LEOTUDE,298,298.0,3.9,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-THALASI,467,467.0,3.5,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-LEOTUDE,764,764.0,3.8,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-LEOTUDE,292,292.0,3.7,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-LEOTUDE,298,298.0,3.6,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-The Souled Store,"1,049",1049.0,4.4,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-Veirdo,999,999.0,4.0,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-NOBERO,599,599.0,4.0,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-Modern Men's Big Cotton Blend T-Shirt | Round Neck Short Sleeve Printed Casual Top Oversized Fit Eve,200,200.0,,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-"Oversized T-Shirt for Men, Premium Combed Cotton, Drop Shoulder, Baggy Fit, Black/White/Charcoal Gre",249,249.0,,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-LEOTUDE,798,798.0,3.7,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-Veirdo,399,399.0,3.8,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-JACK & JONES,779,779.0,3.8,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
-The Souled Store,"1,799",1799.0,4.1,Amazon India,mens oversized tshirt,2026-09-23 23:04:50
+boffi ...,263,263.0,3.4,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+AUSK,270,270.0,3.5,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+DARREN LUKE,338,338.0,3.8,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+U.S. POLO ASSN.,"1,495",1495.0,4.0,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+AUSK,298,298.0,3.6,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+boffi ...,296,296.0,3.4,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+AUSK,298,298.0,3.5,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+KRYPTIC,321,321.0,3.8,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+BULLMER,559,559.0,3.4,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+LEOTUDE,269,269.0,3.9,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+The Souled Store,"1,048",1048.0,4.0,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+Maniac,499,499.0,3.9,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+LEOTUDE,269,269.0,4.0,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+Van Heusen,497,497.0,4.2,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+THALASI,469,469.0,3.5,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+London Hills,499,499.0,3.6,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+U.S. POLO ASSN.,"1,539",1539.0,3.9,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+Raymond,"1,006",1006.0,4.2,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+LEOTUDE,269,269.0,3.9,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+Jump Cuts,370,370.0,3.3,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+Peter England,"1,139",1139.0,4.2,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+FORCE,399,399.0,2.9,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+U.S. POLO ASSN.,562,562.0,4.0,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+BULLMER,559,559.0,3.4,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+Max,549,549.0,4.3,Amazon India,mens printed tshirt,2026-09-24 23:19:48
+Geum,299,299.0,3.5,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Geum,299,299.0,3.5,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Blisstone,299,299.0,3.7,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+"Men's Polycotton V Neck T-Shirt Soft Breathable Fabric, Casual Half Sleeve Solid Tee, Slim Fit Styli",299,299.0,2.8,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Veirdo,399,399.0,4.0,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Veirdo,399,399.0,4.0,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Veirdo,438,438.0,4.0,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+U.S. POLO ASSN.,573,573.0,3.9,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+U.S. POLO ASSN.,475,475.0,3.9,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Blisstone,299,299.0,,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Generic,206,206.0,,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Jockey,599,599.0,4.2,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+PUMA,599,599.0,3.7,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Van Heusen,425,425.0,4.1,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+JANGOBOY,299,299.0,3.6,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Jockey,579,579.0,4.2,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Men’s V-Neck Full Sleeve T-Shirt | Casual Slim Fit Cotton Blend Tee,299,299.0,3.5,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+U.S. POLO ASSN.,580,580.0,3.9,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+V-Neck with Zip Closure Type T-Shirt || Half Sleeves Casual Regular Wear T-Shirt for Men (Pack of 1),299,299.0,2.9,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Lux Cozi,378,378.0,3.9,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Aventura Outfitters,"1,399",1399.0,4.0,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Levi's,395,395.0,4.0,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+Amazon Brand - Symbol,798,798.0,4.2,Amazon India,mens v neck tshirt,2026-09-24 23:20:16
+AUSK,353,353.0,3.5,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+JVX,449,449.0,3.9,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+"Mens Stylish Half Zip Tshirt, Texture Striped Casual T-Shirt for Men, Formal Collared Neck Full Slee",359,359.0,3.5,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Men's Cotton Fleece Half Zipper Sweatshirt,499,499.0,,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Lymio,599,599.0,5.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Noble Monk,456,456.0,3.7,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Mens Fleece Half Zip High Neck Sweatshirt Full Sleeve Winter Casual Daily Comfort Pullover Apparel,270,270.0,4.5,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Mack Jonney,469,469.0,3.3,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Mack Jonney,379,379.0,,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Noble Monk,226,226.0,3.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Mack Jonney,379,379.0,,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Men's Striped Full Sleeve Sweatshirt | Round Neck Casual Pullover | Regular Fit Winter Wear for Men,350,350.0,5.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Allen Solly,918,918.0,4.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Allen Solly,"1,191",1191.0,4.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Alan Jones Clothing,553,553.0,3.9,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+PROSHARX,404,404.0,3.8,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Allen Solly,"1,499",1499.0,4.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Striped Sleeve Embroidered Sweatshirt,"1,723",1723.0,5.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+U.S. POLO ASSN.,"1,689",1689.0,5.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Boldfit,599,599.0,3.9,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Alan Jones Clothing,556,556.0,3.9,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Mack Jonney,379,379.0,,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Allen Solly,961,961.0,4.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Lux Cozi,585,585.0,3.8,Amazon India,mens sweatshirt,2026-09-24 23:22:15
+Half Zipper Solid Hoodie for Men | Sweatshirt for Men,459,459.0,5.0,Amazon India,mens sweatshirt,2026-09-24 23:22:15
