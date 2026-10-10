@@ -1,18 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01T00:05:31.799531",
-    "total_products": 174,
-    "avg_price": 613.7413793103449,
-    "price_std": 341.47053091030773,
-    "categories": 7,
-    "brands": 66,
-    "model_name": "Lasso (L1)",
-    "drift_detected": true,
-    "alerts": [
-      "\u26a0\ufe0f Product count changed by 248.0%"
-    ]
-  },
-  {
     "timestamp": "2026-09-04T22:32:14.306867",
     "total_products": 25,
     "avg_price": 343.4,
@@ -391,6 +378,19 @@
     "drift_detected": true,
     "alerts": [
       "\u26a0\ufe0f Product count changed by 44.4%"
+    ]
+  },
+  {
+    "timestamp": "2026-10-10T00:18:24.593150",
+    "total_products": 150,
+    "avg_price": 426.1,
+    "price_std": 245.37755458741947,
+    "categories": 6,
+    "brands": 48,
+    "model_name": "Random Forest (Small)",
+    "drift_detected": true,
+    "alerts": [
+      "\u26a0\ufe0f Product count changed by 40.0%"
     ]
   }
 ]
