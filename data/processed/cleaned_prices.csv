@@ -1,126 +1,76 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Max,189,189.0,4.0,Amazon India,mens white tshirt,2026-10-13 23:49:57,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,2,33,5
-Lymio,299,299.0,3.3,Amazon India,mens white tshirt,2026-10-13 23:49:57,Lymio,3.3,1,1,1,0,0,0,5,1,0,0,0,2,31,7
-Van Heusen,517,517.0,4.0,Amazon India,mens white tshirt,2026-10-13 23:49:57,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,2,49,2
-Peter England,500,500.0,4.0,Amazon India,mens white tshirt,2026-10-13 23:49:57,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,2,39,4
-Lymio,299,299.0,3.4,Amazon India,mens white tshirt,2026-10-13 23:49:57,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,2,31,7
-Levi's,363,363.0,4.0,Amazon India,mens white tshirt,2026-10-13 23:49:57,Levi,4.0,1,1,1,0,0,0,6,1,0,0,0,2,27,3
-T Shirt For Man | Men T-Shirts | Tshirt For Man Solid Cotton Blend Half Sleeve Regular Men Round Nec,209,209.0,3.7,Amazon India,mens white tshirt,2026-10-13 23:49:57,Lee,3.7,1,1,1,0,0,0,100,20,0,1,1,2,26,8
-AUSK,339,339.0,,Amazon India,mens white tshirt,2026-10-13 23:49:57,AUSK,3.9,0,1,1,0,0,0,4,1,0,0,0,2,2,6
-INKKR,258,258.0,3.4,Amazon India,mens white tshirt,2026-10-13 23:49:57,INKKR,3.4,1,1,1,0,0,0,5,1,0,0,0,2,16,1
-Lux Cozi,347,347.0,3.9,Amazon India,mens white tshirt,2026-10-13 23:49:57,Lux,3.9,1,1,1,0,0,0,8,2,0,0,0,2,30,3
-Max,248,248.0,3.9,Amazon India,mens white tshirt,2026-10-13 23:49:57,Max,3.9,1,1,1,0,0,0,3,1,0,0,0,2,33,5
-Amazon Brand - Symbol Men's Solid Cotton T Shirt | Round Neck | Half Sleeve | Plain-Regular Fit (Ava,249,249.0,4.0,Amazon India,mens white tshirt,2026-10-13 23:49:57,Amazon,4.0,1,1,1,0,0,0,100,19,0,1,1,2,4,2
-London Hills,229,229.0,3.7,Amazon India,mens white tshirt,2026-10-13 23:49:57,London,3.7,1,1,1,0,0,0,12,2,0,0,0,2,28,4
-Jockey,491,491.0,4.2,Amazon India,mens white tshirt,2026-10-13 23:49:57,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,2,22,3
-Van Heusen,413,413.0,4.0,Amazon India,mens white tshirt,2026-10-13 23:49:57,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,2,49,2
-Noble Monk,344,344.0,3.8,Amazon India,mens white tshirt,2026-10-13 23:49:57,Noble,3.8,1,1,1,0,0,0,10,2,0,0,0,2,37,1
-Amazon Brand - Symbol Men's Cotton Rich Solid Polo Tshirt | Collar Tshirts | Half Sleeves | Plain-Re,299,299.0,3.9,Amazon India,mens white tshirt,2026-10-13 23:49:57,Amazon,3.9,1,1,1,0,0,0,100,18,0,1,0,2,4,2
-Allen Solly,709,709.0,4.1,Amazon India,mens white tshirt,2026-10-13 23:49:57,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,2,3,3
-Louis Philippe,699,699.0,4.0,Amazon India,mens white tshirt,2026-10-13 23:49:57,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,2,29,4
-Jockey,549,549.0,4.2,Amazon India,mens white tshirt,2026-10-13 23:49:57,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,2,22,3
-Pepe Jeans,379,379.0,4.0,Amazon India,mens white tshirt,2026-10-13 23:49:57,Pepe,4.0,1,1,1,0,0,0,10,2,0,0,0,2,38,4
-Lux Cozi,359,359.0,3.8,Amazon India,mens white tshirt,2026-10-13 23:49:57,Lux,3.8,1,1,1,0,0,0,8,2,0,0,0,2,30,3
-Lux Cozi,249,249.0,4.0,Amazon India,mens white tshirt,2026-10-13 23:49:57,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,2,30,3
-Louis Philippe,899,899.0,4.1,Amazon India,mens white tshirt,2026-10-13 23:49:57,Louis,4.1,1,1,1,0,0,0,14,2,0,0,0,2,29,4
-Boldfit,363,363.0,3.8,Amazon India,mens white tshirt,2026-10-13 23:49:57,Boldfit,3.8,1,1,1,0,0,0,7,1,0,0,0,2,8,2
-Max,199,199.0,4.0,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Max,4.0,1,1,1,1,0,1,3,1,0,0,0,4,33,5
-LEOTUDE,267,267.0,3.6,Amazon India,womens plain tshirt,2026-10-13 23:50:23,LEOTUDE,3.6,1,1,1,1,0,1,7,1,0,0,0,4,24,2
-CLASSIC TEES,379,379.0,4.0,Amazon India,womens plain tshirt,2026-10-13 23:50:23,CLASSIC,4.0,1,1,1,1,0,1,12,2,0,0,0,4,10,4
-Fabricorn,926,926.0,4.1,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Fabricorn,4.1,1,1,1,1,0,1,9,1,0,0,0,4,13,1
-SLEEPY NUTS Women Boyfriend Plain Round Neck Half Sleeve T-Shirt,944,944.0,3.9,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Lee,3.9,1,1,1,1,0,1,64,10,0,0,0,4,26,8
-SLEEPY NUTS Women Boyfriend Plain Round Neck Half Sleeve T-Shirt,944,944.0,3.9,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Lee,3.9,1,1,1,1,0,1,64,10,0,0,0,4,26,8
-100% Cotton Plain Oversized T Shirt for Women | Round Neck T Shirt Women | Casual Plain Tshirt | Reg,259,259.0,3.9,Amazon India,womens plain tshirt,2026-10-13 23:50:23,100%,3.9,1,1,1,1,0,1,100,20,0,1,1,4,0,3
-CLASSIC TEES,399,399.0,4.0,Amazon India,womens plain tshirt,2026-10-13 23:50:23,CLASSIC,4.0,1,1,1,1,0,1,12,2,0,0,0,4,10,4
-100% Cotton Plain Oversized T Shirt for Women | Round Neck T Shirt Women | Casual Plain Tshirt | Reg,234,234.0,3.9,Amazon India,womens plain tshirt,2026-10-13 23:50:23,100%,3.9,1,1,1,1,0,1,100,20,0,1,1,4,0,3
-Istyle Can,280,280.0,3.6,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Istyle,3.6,1,1,1,1,0,1,10,2,0,0,0,4,17,1
-Jockey,549,549.0,4.2,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Jockey,4.2,1,1,1,1,0,1,6,1,0,0,0,4,22,3
-Hangout Hub,284,284.0,3.7,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Hangout,3.7,1,1,1,1,0,1,11,2,0,0,0,4,15,1
-Women’s Oversized Cotton T-Shirt | Plain Drop Shoulder Tee (S-7XL Plus Size),299,299.0,3.4,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Women’s,3.4,1,1,1,1,0,1,76,12,0,1,1,4,52,1
-JUNEBERRY,334,334.0,4.0,Amazon India,womens plain tshirt,2026-10-13 23:50:23,JUNEBERRY,4.0,1,1,1,1,0,1,9,1,0,0,0,4,18,4
-Dream Beauty Fashion,203,203.0,3.8,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Dream,3.8,1,1,1,1,0,1,20,3,0,0,0,4,12,2
-LEOTUDE,739,739.0,3.5,Amazon India,womens plain tshirt,2026-10-13 23:50:23,LEOTUDE,3.5,1,1,1,1,0,1,7,1,0,0,0,4,24,2
-Dream Beauty Fashion,231,231.0,3.9,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Dream,3.9,1,1,1,1,0,1,20,3,0,0,0,4,12,2
-"Oversize Cotton T Shirt for Women, Plain Solid Oversized, Round Neck,Half Sleeve,Loose Tshirt, Bagg ",265,265.0,4.5,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Lee,4.5,1,1,1,1,0,1,100,14,0,1,1,4,26,8
-"Women T-Shirt Plain Round Neck 100% Cotton Fabric Half Sleeve Summer Solid Pattern Wear Yoga, Gym, R",474,474.0,4.3,Amazon India,womens plain tshirt,2026-10-13 23:50:23,Lee,4.3,1,1,1,1,0,1,100,17,0,1,0,4,26,8
-100% Cotton Plain Oversized T Shirt for Women | Round Neck T Shirt Women | Casual Plain Tshirt | Reg,234,234.0,3.9,Amazon India,womens plain tshirt,2026-10-13 23:50:23,100%,3.9,1,1,1,1,0,1,100,20,0,1,1,4,0,3
-CLASSIC TEES,379,379.0,4.0,Amazon India,womens plain tshirt,2026-10-13 23:50:23,CLASSIC,4.0,1,1,1,1,0,1,12,2,0,0,0,4,10,4
-CLASSIC TEES,399,399.0,4.0,Amazon India,womens plain tshirt,2026-10-13 23:50:23,CLASSIC,4.0,1,1,1,1,0,1,12,2,0,0,0,4,10,4
-TWIN BIRDS,299,299.0,4.2,Amazon India,womens plain tshirt,2026-10-13 23:50:23,TWIN,4.2,1,1,1,1,0,1,10,2,0,0,0,4,45,2
-JUNEBERRY,842,842.0,4.2,Amazon India,womens plain tshirt,2026-10-13 23:50:23,JUNEBERRY,4.2,1,1,1,1,0,1,9,1,0,0,0,4,18,4
-TWIN BIRDS,299,299.0,4.2,Amazon India,womens plain tshirt,2026-10-13 23:50:23,TWIN,4.2,1,1,1,1,0,1,10,2,0,0,0,4,45,2
-AUSK,220,220.0,3.6,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,AUSK,3.6,1,1,1,1,1,0,4,1,0,0,0,3,2,6
-AUSK,231,231.0,3.6,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,AUSK,3.6,1,1,1,1,1,0,4,1,0,0,0,3,2,6
-"Women's Cotton Graphic Print Oversized T-Shirt, Loose Fit Round Neck Longline Tee, Soft and Breathab",299,299.0,3.7,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Women's,3.7,1,1,1,1,1,0,100,15,0,1,1,3,51,2
-TQH,259,259.0,3.8,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,TQH,3.8,1,1,1,1,1,0,3,1,0,0,0,3,44,1
-Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt,263,263.0,3.8,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Lee,3.8,1,1,1,1,1,0,79,15,0,1,0,3,26,8
-AUSK,449,449.0,3.6,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,AUSK,3.6,1,1,1,1,1,0,4,1,0,0,0,3,2,6
-SHAIRA FASHION,299,299.0,,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,SHAIRA,3.9,0,1,1,1,1,0,14,2,0,0,0,3,41,2
-"Women's Typography Round Neck Cotton-Blend T-Shirts, Oversized Drop Shoulder Boho Style T-Shirt",349,349.0,3.5,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Women's,3.5,1,1,1,1,1,0,95,12,0,1,1,3,51,2
-Brown Oversized T-Shirt for Women,299,299.0,3.4,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Brown,3.4,1,1,1,1,1,0,33,5,0,0,1,3,9,1
-SHAIRA FASHION,299,299.0,1.0,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,SHAIRA,1.0,1,1,1,1,1,0,14,2,0,0,0,3,41,2
-AUSK,249,249.0,3.3,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,AUSK,3.3,1,1,1,1,1,0,4,1,0,0,0,3,2,6
-SXV Style SOL Women Summer Loose Asymmetrical Neck Cocktail Fruit Orange Y2K Graphic Oversized T-Shi,650,650.0,4.4,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,SXV,4.4,1,1,1,1,1,0,100,15,0,0,1,3,42,1
-"Women's Graphic T-Shirt, White, Cute Girl Print, Short Sleeve, Casual Style",229,229.0,5.0,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Lee,5.0,1,1,1,1,1,0,75,11,0,0,0,3,26,8
-Cotton Blend Drop Shoulder Oversized T-Shirt for Women & Girls,280,280.0,3.8,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Cotton,3.8,1,1,1,1,1,0,62,10,0,1,1,3,11,1
-London Hills,349,349.0,3.8,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,London,3.8,1,1,1,1,1,0,12,2,0,0,0,3,28,4
-Max,249,249.0,3.9,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Max,3.9,1,1,1,1,1,0,3,1,0,0,0,3,33,5
-London Hills,279,279.0,3.3,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,London,3.3,1,1,1,1,1,0,12,2,0,0,0,3,28,4
-ADAM WHITE,299,299.0,4.2,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,ADAM,4.2,1,1,1,1,1,0,10,2,0,0,0,3,1,1
-Women Oversized V Neck T-Shirt | Number Graphic Printed Casual Tee | Cotton Blend Y2K Street Fashion,249,249.0,3.0,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Women,3.0,1,1,1,1,1,0,100,17,0,1,1,3,50,1
-Bewakoof,383,383.0,4.1,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Bewakoof,4.1,1,1,1,1,1,0,8,1,0,0,0,3,7,1
-JUNEBERRY,359,359.0,4.0,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,JUNEBERRY,4.0,1,1,1,1,1,0,9,1,0,0,0,3,18,4
-Women's Cotton Blend Oversized Fit Half Sleeve Printed Round Neck T-Shirt,317,317.0,3.9,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Lee,3.9,1,1,1,1,1,0,73,11,0,1,1,3,26,8
-JUNEBERRY,359,359.0,4.6,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,JUNEBERRY,4.6,1,1,1,1,1,0,9,1,0,0,0,3,18,4
-The Souled Store,699,699.0,4.4,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,The,4.4,1,1,1,1,1,0,16,3,0,0,0,3,47,2
-Jawdrobe,369,369.0,4.0,Amazon India,womens graphic tshirt,2026-10-13 23:50:39,Jawdrobe,4.0,1,1,1,1,1,0,8,1,0,0,0,3,21,1
-Lymio,419,419.0,3.8,Amazon India,mens hoodies,2026-10-13 23:51:23,Lymio,3.8,1,0,1,0,0,0,5,1,0,0,0,0,31,7
-TAGAS,479,479.0,4.1,Amazon India,mens hoodies,2026-10-13 23:51:23,Tagas,4.1,1,0,1,0,0,0,5,1,0,0,0,0,46,3
-Half Zipper Solid Hoodie for Men | Sweatshirt for Men,479,479.0,4.6,Amazon India,mens hoodies,2026-10-13 23:51:23,Half,4.6,1,0,1,0,0,0,53,10,0,0,0,0,14,2
-Allen Solly,764,764.0,3.9,Amazon India,mens hoodies,2026-10-13 23:51:23,Allen,3.9,1,0,1,0,0,0,11,2,0,0,0,0,3,3
-Half Zipper Solid Hoodie for Men | Sweatshirt for Men,479,479.0,4.6,Amazon India,mens hoodies,2026-10-13 23:51:23,Half,4.6,1,0,1,0,0,0,53,10,0,0,0,0,14,2
-BLACKSTEP,948,948.0,5.0,Amazon India,mens hoodies,2026-10-13 23:51:23,BLACKSTEP,5.0,1,0,1,0,0,0,9,1,0,0,0,0,6,2
-JVX,449,449.0,3.8,Amazon India,mens hoodies,2026-10-13 23:51:23,JVX,3.8,1,0,1,0,0,0,3,1,0,0,0,0,19,1
-NETCLICK,499,499.0,5.0,Amazon India,mens hoodies,2026-10-13 23:51:23,NETCLICK,5.0,1,0,1,0,0,0,8,1,0,0,0,0,36,1
-Boldfit,799,799.0,3.9,Amazon India,mens hoodies,2026-10-13 23:51:23,Boldfit,3.9,1,0,1,0,0,0,7,1,0,0,0,0,8,2
-TAGAS,679,679.0,5.0,Amazon India,mens hoodies,2026-10-13 23:51:23,Tagas,5.0,1,0,1,0,0,0,5,1,0,0,0,0,46,3
-BLACKSTEP,948,948.0,5.0,Amazon India,mens hoodies,2026-10-13 23:51:23,BLACKSTEP,5.0,1,0,1,0,0,0,9,1,0,0,0,0,6,2
-Men Regular Fit Colorblock Raglan Hoodie || Hoodie for Men,499,499.0,4.4,Amazon India,mens hoodies,2026-10-13 23:51:23,Men,4.4,1,0,1,0,0,0,58,10,0,0,1,0,34,1
-BE SAVAGE,788,788.0,4.0,Amazon India,mens hoodies,2026-10-13 23:51:23,BE,4.0,1,0,1,0,0,0,9,2,0,0,0,0,5,1
-TAGAS,679,679.0,5.0,Amazon India,mens hoodies,2026-10-13 23:51:23,Tagas,5.0,1,0,1,0,0,0,5,1,0,0,0,0,46,3
-Lymio,449,449.0,3.7,Amazon India,mens hoodies,2026-10-13 23:51:23,Lymio,3.7,1,0,1,0,0,0,5,1,0,0,0,0,31,7
-Lymio,449,449.0,3.7,Amazon India,mens hoodies,2026-10-13 23:51:23,Lymio,3.7,1,0,1,0,0,0,5,1,0,0,0,0,31,7
-Lymio,449,449.0,3.7,Amazon India,mens hoodies,2026-10-13 23:51:23,Lymio,3.7,1,0,1,0,0,0,5,1,0,0,0,0,31,7
-Allen Solly,950,950.0,3.9,Amazon India,mens hoodies,2026-10-13 23:51:23,Allen,3.9,1,0,1,0,0,0,11,2,0,0,0,0,3,3
-AUSK,296,296.0,3.3,Amazon India,mens hoodies,2026-10-13 23:51:23,AUSK,3.3,1,0,1,0,0,0,4,1,0,0,0,0,2,6
-Lymio,449,449.0,3.8,Amazon India,mens hoodies,2026-10-13 23:51:23,Lymio,3.8,1,0,1,0,0,0,5,1,0,0,0,0,31,7
-The Modern Soul,474,474.0,3.8,Amazon India,mens hoodies,2026-10-13 23:51:23,The,3.8,1,0,1,0,0,0,15,3,0,0,0,0,47,2
-Mens Colorblock Raglan Hooded Sweatshirt|| Hoodie for Men,499,499.0,,Amazon India,mens hoodies,2026-10-13 23:51:23,Mens,3.9,0,0,1,0,0,0,57,8,0,0,0,0,35,1
-Mack Jonney,399,399.0,3.8,Amazon India,mens hoodies,2026-10-13 23:51:23,Mack,3.8,1,0,1,0,0,0,11,2,0,0,0,0,32,1
-Alan Jones Clothing,553,553.0,3.9,Amazon India,mens hoodies,2026-10-13 23:51:23,Jones,3.9,1,0,1,0,0,0,19,3,0,0,0,0,23,2
-Alan Jones Clothing,646,646.0,4.1,Amazon India,mens hoodies,2026-10-13 23:51:23,Jones,4.1,1,0,1,0,0,0,19,3,0,0,0,0,23,2
-THE INDIAN GARAGE CO,491,491.0,4.1,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,THE,4.1,1,0,1,0,0,0,20,4,0,0,0,1,43,3
-Urbano Fashion,499,499.0,3.6,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,1,48,6
-Urbano Fashion,489,489.0,3.6,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,1,48,6
-Urbano Fashion,544,544.0,3.6,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,1,48,6
-Peter England,899,899.0,3.8,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Peter,3.8,1,0,1,0,0,0,13,2,0,0,0,1,39,4
-Urbano Fashion,509,509.0,3.6,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,1,48,6
-Pepe Jeans,999,999.0,3.7,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Pepe,3.7,1,0,1,0,0,0,10,2,0,0,0,1,38,4
-Urbano Fashion,474,474.0,3.6,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,1,48,6
-WROGN,699,699.0,5.0,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Wrogn,5.0,1,0,1,0,0,0,5,1,0,0,0,1,53,1
-Urbano Fashion,524,524.0,3.6,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,1,48,6
-"S R Men's Black Slim Fit Denim Jeans, 100% Cotton, Stretchable, Mid Rise, 5-Pocket Casual Wear",399,399.0,5.0,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,S,5.0,1,0,1,0,0,0,94,16,0,1,1,1,40,1
-LINARIA,373,373.0,3.4,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,LINARIA,3.4,1,0,1,0,0,0,7,1,0,0,0,1,25,1
-Louis Philippe,"1,247",1247.0,3.6,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Louis,3.6,1,0,1,0,0,0,14,2,0,0,0,1,29,4
-London Hills,649,649.0,3.7,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,London,3.7,1,0,1,0,0,0,12,2,0,0,0,1,28,4
-Levi's,799,799.0,3.8,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Levi,3.8,1,0,1,0,0,0,6,1,0,0,0,1,27,3
-Peter England,"1,049",1049.0,3.9,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Peter,3.9,1,0,1,0,0,0,13,2,0,0,0,1,39,4
-THE INDIAN GARAGE CO,439,439.0,3.8,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,THE,3.8,1,0,1,0,0,0,20,4,0,0,0,1,43,3
-Levi's,799,799.0,3.8,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Levi,3.8,1,0,1,0,0,0,6,1,0,0,0,1,27,3
-Louis Philippe,"1,299",1299.0,3.6,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Louis,3.6,1,0,1,0,0,0,14,2,0,0,0,1,29,4
-Peter England,899,899.0,3.6,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Peter,3.6,1,0,1,0,0,0,13,2,0,0,0,1,39,4
-JACK & JONES,"1,170",1170.0,,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Jack,3.9,0,0,1,0,0,0,12,3,0,0,0,1,20,1
-Pepe Jeans,"1,189",1189.0,4.1,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Pepe,4.1,1,0,1,0,0,0,10,2,0,0,0,1,38,4
-Pepe Jeans,999,999.0,3.7,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Pepe,3.7,1,0,1,0,0,0,10,2,0,0,0,1,38,4
-THE INDIAN GARAGE CO,629,629.0,4.0,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,THE,4.0,1,0,1,0,0,0,20,4,0,0,0,1,43,3
-Max,699,699.0,3.5,Amazon India,mens slim fit jeans,2026-10-13 23:52:06,Max,3.5,1,0,1,0,0,0,3,1,0,0,0,1,33,5
+BULLMER,426,426.0,3.5,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,BULLMER,3.5,1,1,1,0,0,0,7,1,0,0,0,0,3,2
+AUSK,184,184.0,3.3,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,AUSK,3.3,1,1,1,0,0,0,4,1,0,0,0,0,0,1
+Lux Cozi,249,249.0,4.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,0,22,4
+Max,189,189.0,4.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,25,4
+LEOTUDE,268,268.0,3.9,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,LEOTUDE,3.9,1,1,1,0,0,0,7,1,0,0,0,0,16,3
+JACK & JONES,449,449.0,4.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Jack,4.0,1,1,1,0,0,0,12,3,0,0,0,0,14,2
+Levi's,364,364.0,4.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Levi,4.0,1,1,1,0,0,0,6,1,0,0,0,0,19,2
+Trendy Printed Cotton Blend Crew Neck/Round Neck Half Sleeve Tshirt for Men,199,199.0,1.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Lee,1.0,1,1,1,0,0,0,75,12,0,1,0,0,17,6
+GAP,499,499.0,4.4,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Gap,4.4,1,1,1,0,0,0,3,1,0,0,0,0,10,1
+Jack&Jones Men's Cotton Logo Print Slim Fit T-Shirt,359,359.0,3.7,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Jack,3.7,1,1,1,0,0,0,51,8,0,1,1,0,14,2
+Dollar,133,133.0,3.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Dollar,3.0,1,1,1,0,0,0,6,1,0,0,0,0,7,1
+U.S. POLO ASSN.,475,475.0,3.8,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,0,31,5
+London Hills,250,250.0,3.4,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,London,3.4,1,1,1,0,0,0,12,2,0,0,0,0,20,3
+Max,189,189.0,4.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,25,4
+U.S. POLO ASSN.,714,714.0,4.2,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Polo,4.2,1,1,1,0,0,0,15,3,0,0,0,0,31,5
+BULLMER,299,299.0,3.7,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,BULLMER,3.7,1,1,1,0,0,0,7,1,0,0,0,0,3,2
+Van Heusen,406,406.0,4.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,34,3
+U.S. POLO ASSN.,593,593.0,4.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Polo,4.0,1,1,1,0,0,0,15,3,0,0,0,0,31,5
+London Hills,421,421.0,3.7,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,20,3
+DAMENSCH,589,589.0,4.1,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,DAMENSCH,4.1,1,1,1,0,0,0,8,1,0,0,0,0,6,1
+Cantabil,285,285.0,4.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Cantabil,4.0,1,1,1,0,0,0,8,1,0,0,0,0,5,1
+LEOTUDE,268,268.0,3.8,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,16,3
+SLEEPY NUTS Men's Regular Fit Round-Neck Half Sleeves Solid Casual Wear T-Shirt,944,944.0,3.8,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Lee,3.8,1,1,1,0,0,0,79,12,0,0,1,0,17,6
+Jockey,549,549.0,4.2,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,15,3
+U.S. POLO ASSN.,397,397.0,4.0,Amazon India,mens round neck tshirt,2026-10-15 23:12:45,Polo,4.0,1,1,1,0,0,0,15,3,0,0,0,0,31,5
+Max,189,189.0,4.0,Amazon India,mens white tshirt,2026-10-15 23:13:32,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,2,25,4
+Lymio,299,299.0,3.3,Amazon India,mens white tshirt,2026-10-15 23:13:32,Lymio,3.3,1,1,1,0,0,0,5,1,0,0,0,2,23,5
+Van Heusen,517,517.0,4.0,Amazon India,mens white tshirt,2026-10-15 23:13:32,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,2,34,3
+Peter England,500,500.0,4.0,Amazon India,mens white tshirt,2026-10-15 23:13:32,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,2,30,1
+Lymio,299,299.0,3.4,Amazon India,mens white tshirt,2026-10-15 23:13:32,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,2,23,5
+Levi's,376,376.0,4.0,Amazon India,mens white tshirt,2026-10-15 23:13:32,Levi,4.0,1,1,1,0,0,0,6,1,0,0,0,2,19,2
+T Shirt For Man | Men T-Shirts | Tshirt For Man Solid Cotton Blend Half Sleeve Regular Men Round Nec,209,209.0,3.7,Amazon India,mens white tshirt,2026-10-15 23:13:32,Lee,3.7,1,1,1,0,0,0,100,20,0,1,1,2,17,6
+Amazon Brand - Symbol Men's Solid Cotton T Shirt | Round Neck | Half Sleeve | Plain-Regular Fit (Ava,249,249.0,4.0,Amazon India,mens white tshirt,2026-10-15 23:13:32,Amazon,4.0,1,1,1,0,0,0,100,19,0,1,1,2,2,2
+Lux Cozi,347,347.0,3.9,Amazon India,mens white tshirt,2026-10-15 23:13:32,Lux,3.9,1,1,1,0,0,0,8,2,0,0,0,2,22,4
+Max,248,248.0,3.9,Amazon India,mens white tshirt,2026-10-15 23:13:32,Max,3.9,1,1,1,0,0,0,3,1,0,0,0,2,25,4
+London Hills,229,229.0,3.7,Amazon India,mens white tshirt,2026-10-15 23:13:32,London,3.7,1,1,1,0,0,0,12,2,0,0,0,2,20,3
+INKKR,258,258.0,3.4,Amazon India,mens white tshirt,2026-10-15 23:13:32,INKKR,3.4,1,1,1,0,0,0,5,1,0,0,0,2,12,1
+Amazon Brand - Symbol Men's Cotton Rich Solid Polo Tshirt | Collar Tshirts | Half Sleeves | Plain-Re,299,299.0,3.9,Amazon India,mens white tshirt,2026-10-15 23:13:32,Amazon,3.9,1,1,1,0,0,0,100,18,0,1,0,2,2,2
+Allen Solly,709,709.0,4.1,Amazon India,mens white tshirt,2026-10-15 23:13:32,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,2,1,4
+Van Heusen,413,413.0,4.0,Amazon India,mens white tshirt,2026-10-15 23:13:32,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,2,34,3
+Jockey,491,491.0,4.2,Amazon India,mens white tshirt,2026-10-15 23:13:32,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,2,15,3
+Noble Monk,344,344.0,3.8,Amazon India,mens white tshirt,2026-10-15 23:13:32,Noble,3.8,1,1,1,0,0,0,10,2,0,0,0,2,28,1
+Jockey,549,549.0,4.2,Amazon India,mens white tshirt,2026-10-15 23:13:32,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,2,15,3
+Pepe Jeans,417,417.0,4.0,Amazon India,mens white tshirt,2026-10-15 23:13:32,Pepe,4.0,1,1,1,0,0,0,10,2,0,0,0,2,29,1
+Louis Philippe,699,699.0,4.0,Amazon India,mens white tshirt,2026-10-15 23:13:32,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,2,21,2
+Louis Philippe,899,899.0,4.1,Amazon India,mens white tshirt,2026-10-15 23:13:32,Louis,4.1,1,1,1,0,0,0,14,2,0,0,0,2,21,2
+Leriya Fashion,379,379.0,4.2,Amazon India,mens white tshirt,2026-10-15 23:13:32,Leriya,4.2,1,1,1,0,0,0,14,2,0,0,0,2,18,1
+Lux Cozi,249,249.0,4.0,Amazon India,mens white tshirt,2026-10-15 23:13:32,Lux,4.0,1,1,1,0,0,0,8,2,0,0,0,2,22,4
+U.S. POLO ASSN.,531,531.0,3.8,Amazon India,mens white tshirt,2026-10-15 23:13:32,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,2,31,5
+Lux Cozi,338,338.0,3.8,Amazon India,mens white tshirt,2026-10-15 23:13:32,Lux,3.8,1,1,1,0,0,0,8,2,0,0,0,2,22,4
+JVX,449,449.0,3.8,Amazon India,mens sweatshirt,2026-10-15 23:15:02,JVX,3.8,1,1,1,0,0,0,3,1,0,0,0,1,13,1
+Lymio,419,419.0,3.8,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Lymio,3.8,1,1,1,0,0,0,5,1,0,0,0,1,23,5
+Allen Solly,764,764.0,3.9,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Allen,3.9,1,1,1,0,0,0,11,2,0,0,0,1,1,4
+Men's Cotton Fleece Half Zipper Sweatshirt,499,499.0,,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Lee,4.0,0,1,1,0,0,0,42,6,0,1,0,1,17,6
+Mack Jonney,389,389.0,3.4,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Mack,3.4,1,1,1,0,0,0,11,2,0,0,0,1,24,4
+LEOTUDE,425,425.0,3.6,Amazon India,mens sweatshirt,2026-10-15 23:15:02,LEOTUDE,3.6,1,1,1,0,0,0,7,1,0,0,0,1,16,3
+Lymio,529,529.0,4.2,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Lymio,4.2,1,1,1,0,0,0,5,1,0,0,0,1,23,5
+Mack Jonney,371,371.0,4.0,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Mack,4.0,1,1,1,0,0,0,11,2,0,0,0,1,24,4
+Mack Jonney,371,371.0,4.5,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Mack,4.5,1,1,1,0,0,0,11,2,0,0,0,1,24,4
+FN3,449,449.0,4.0,Amazon India,mens sweatshirt,2026-10-15 23:15:02,FN3,4.0,1,1,1,0,0,0,3,1,0,0,0,1,8,1
+Allen Solly,764,764.0,4.0,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,1,1,4
+Lymio,449,449.0,3.4,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,1,23,5
+NOBERO,999,999.0,4.3,Amazon India,mens sweatshirt,2026-10-15 23:15:02,NOBERO,4.3,1,1,1,0,0,0,6,1,0,0,0,1,27,2
+Men's Solid Quarter Zip Sweatshirt | Stand Collar Pullover Sweatshirt | Full Sleeve Casual Winter We,469,469.0,,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Lee,4.0,0,1,1,0,0,0,100,16,0,0,0,1,17,6
+TAGAS,399,399.0,4.0,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Tagas,4.0,1,1,1,0,0,0,5,1,0,0,0,1,33,2
+PUMA,"1,569",1569.0,4.3,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Puma,4.3,1,1,1,0,0,0,4,1,0,0,0,1,32,1
+Allen Solly,764,764.0,4.0,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,1,1,4
+Half Zipper Solid Hoodie for Men | Sweatshirt for Men,479,479.0,4.6,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Half,4.6,1,1,1,0,0,0,53,10,0,0,0,1,11,1
+GRECIILOOKS,369,369.0,3.8,Amazon India,mens sweatshirt,2026-10-15 23:15:02,GRECIILOOKS,3.8,1,1,1,0,0,0,11,1,0,0,0,1,9,1
+NOBERO,"1,099",1099.0,4.3,Amazon India,mens sweatshirt,2026-10-15 23:15:02,NOBERO,4.3,1,1,1,0,0,0,6,1,0,0,0,1,27,2
+Mens Fleece Half Zip High Neck Sweatshirt Full Sleeve Winter Casual Daily Comfort Pullover Apparel,280,280.0,5.0,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Lee,5.0,1,1,1,0,0,0,98,15,0,0,0,1,17,6
+TAGAS,549,549.0,4.9,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Tagas,4.9,1,1,1,0,0,0,5,1,0,0,0,1,33,2
+Mack Jonney,429,429.0,,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Mack,4.0,0,1,1,0,0,0,11,2,0,0,0,1,24,4
+NETCLICK,499,499.0,3.5,Amazon India,mens sweatshirt,2026-10-15 23:15:02,NETCLICK,3.5,1,1,1,0,0,0,8,1,0,0,0,1,26,1
+Boldfit,799,799.0,3.9,Amazon India,mens sweatshirt,2026-10-15 23:15:02,Boldfit,3.9,1,1,1,0,0,0,7,1,0,0,0,1,4,1
