@@ -1,75 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-AUSK,220,220.0,3.6,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,AUSK,3.6,1,1,1,1,1,0,4,1,0,0,0,0,2,5
-AUSK,231,231.0,3.6,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,AUSK,3.6,1,1,1,1,1,0,4,1,0,0,0,0,2,5
-Akar,299,299.0,3.7,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Akar,3.7,1,1,1,1,1,0,4,1,0,0,0,0,3,1
-TQH,255,255.0,3.8,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,TQH,3.8,1,1,1,1,1,0,3,1,0,0,0,0,30,1
-AUSK,249,249.0,3.3,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,AUSK,3.3,1,1,1,1,1,0,4,1,0,0,0,0,2,5
-"Women's Graphic T-Shirt, White, Cute Girl Print, Short Sleeve, Casual Style",229,229.0,5.0,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Lee,5.0,1,1,1,1,1,0,75,11,0,0,0,0,18,7
-Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt,263,263.0,3.7,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Lee,3.7,1,1,1,1,1,0,79,15,0,1,0,0,18,7
-"Women's Typography Round Neck Cotton-Blend T-Shirts, Oversized Drop Shoulder Boho Style T-Shirt",349,349.0,3.5,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Women's,3.5,1,1,1,1,1,0,95,12,0,1,1,0,34,2
-SHAIRA FASHION,299,299.0,,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,SHAIRA,3.8,0,1,1,1,1,0,14,2,0,0,0,0,28,2
-Jawdrobe,397,397.0,4.0,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Jawdrobe,4.0,1,1,1,1,1,0,8,1,0,0,0,0,16,2
-AUSK,449,449.0,3.6,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,AUSK,3.6,1,1,1,1,1,0,4,1,0,0,0,0,2,5
-London Hills,279,279.0,3.3,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,London,3.3,1,1,1,1,1,0,12,2,0,0,0,0,20,2
-London Hills,299,299.0,3.8,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,London,3.8,1,1,1,1,1,0,12,2,0,0,0,0,20,2
-The SV Style,650,650.0,4.3,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,The,4.3,1,1,1,1,1,0,12,3,0,0,0,0,32,3
-Generic,299,299.0,3.4,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Generic,3.4,1,1,1,1,1,0,7,1,0,0,0,0,13,3
-SHAIRA FASHION,299,299.0,1.0,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,SHAIRA,1.0,1,1,1,1,1,0,14,2,0,0,0,0,28,2
-Max,268,268.0,3.9,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Max,3.9,1,1,1,1,1,0,3,1,0,0,0,0,22,1
-AUSK,449,449.0,3.6,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,AUSK,3.6,1,1,1,1,1,0,4,1,0,0,0,0,2,5
-The Souled Store,699,699.0,4.8,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,The,4.8,1,1,1,1,1,0,16,3,0,0,0,0,32,3
-JUNEBERRY,387,387.0,4.0,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,JUNEBERRY,4.0,1,1,1,1,1,0,9,1,0,0,0,0,15,2
-Bewakoof,481,481.0,4.1,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Bewakoof,4.1,1,1,1,1,1,0,8,1,0,0,0,0,6,1
-Women Oversized V Neck T-Shirt | Number Graphic Printed Casual Tee | Cotton Blend Y2K Street Fashion,249,249.0,3.0,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Women,3.0,1,1,1,1,1,0,100,17,0,1,1,0,33,3
-JUNEBERRY,359,359.0,4.6,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,JUNEBERRY,4.6,1,1,1,1,1,0,9,1,0,0,0,0,15,2
-Jawdrobe,341,341.0,3.9,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,Jawdrobe,3.9,1,1,1,1,1,0,8,1,0,0,0,0,16,2
-The Souled Store,816,816.0,4.3,Amazon India,womens graphic tshirt,2026-10-18 22:34:28,The,4.3,1,1,1,1,1,0,16,3,0,0,0,0,32,3
-NETCLICK,499,499.0,4.8,Amazon India,womens hoodies,2026-10-18 22:35:18,NETCLICK,4.8,1,0,1,1,0,0,8,1,0,0,0,1,23,3
-Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,498,498.0,3.7,Amazon India,womens hoodies,2026-10-18 22:35:18,Lee,3.7,1,0,1,1,0,0,83,13,0,0,0,1,18,7
-TAGAS,449,449.0,3.8,Amazon India,womens hoodies,2026-10-18 22:35:18,Tagas,3.8,1,0,1,1,0,0,5,1,0,0,0,1,31,4
-TAGAS,499,499.0,3.9,Amazon India,womens hoodies,2026-10-18 22:35:18,Tagas,3.9,1,0,1,1,0,0,5,1,0,0,0,1,31,4
-Alan Jones Clothing,651,651.0,4.1,Amazon India,womens hoodies,2026-10-18 22:35:18,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,1,17,2
-Leriya Fashion,489,489.0,4.2,Amazon India,womens hoodies,2026-10-18 22:35:18,Leriya,4.2,1,0,1,1,0,0,14,2,0,0,0,1,19,1
-BLACKSTEP,999,999.0,4.0,Amazon India,womens hoodies,2026-10-18 22:35:18,BLACKSTEP,4.0,1,0,1,1,0,0,9,1,0,0,0,1,5,1
-Allen Solly,903,903.0,4.1,Amazon India,womens hoodies,2026-10-18 22:35:18,Allen,4.1,1,0,1,1,0,0,11,2,0,0,0,1,4,1
-Boldfit,860,860.0,4.2,Amazon India,womens hoodies,2026-10-18 22:35:18,Boldfit,4.2,1,0,1,1,0,0,7,1,0,0,0,1,7,1
-TAGAS,499,499.0,4.0,Amazon India,womens hoodies,2026-10-18 22:35:18,Tagas,4.0,1,0,1,1,0,0,5,1,0,0,0,1,31,4
-Alan Jones Clothing,641,641.0,4.1,Amazon India,womens hoodies,2026-10-18 22:35:18,Jones,4.1,1,0,1,1,0,0,19,3,0,0,0,1,17,2
-Women's Hooded Striped Casual Shirt,378,378.0,4.6,Amazon India,womens hoodies,2026-10-18 22:35:18,Women's,4.6,1,0,1,1,0,0,35,5,0,0,0,1,34,2
-TAGAS,449,449.0,3.8,Amazon India,womens hoodies,2026-10-18 22:35:18,Tagas,3.8,1,0,1,1,0,0,5,1,0,0,0,1,31,4
-Fleece Solid Long Hooded Neck Hoodie Zipper Crop Jacket for Women's,474,474.0,4.0,Amazon India,womens hoodies,2026-10-18 22:35:18,Lee,4.0,1,0,1,1,0,0,67,11,0,0,0,1,18,7
-ADBUCKS,734,734.0,3.8,Amazon India,womens hoodies,2026-10-18 22:35:18,ADBUCKS,3.8,1,0,1,1,0,0,7,1,0,0,0,1,0,1
-FUNKY MONKEY,629,629.0,4.1,Amazon India,womens hoodies,2026-10-18 22:35:18,FUNKY,4.1,1,0,1,1,0,0,12,2,0,0,0,1,11,2
-GAP,"1,495",1495.0,4.0,Amazon India,womens hoodies,2026-10-18 22:35:18,Gap,4.0,1,0,1,1,0,0,3,1,0,0,0,1,12,1
-NETCLICK,499,499.0,4.8,Amazon India,womens hoodies,2026-10-18 22:35:18,NETCLICK,4.8,1,0,1,1,0,0,8,1,0,0,0,1,23,3
-Mack Jonney,459,459.0,3.9,Amazon India,womens hoodies,2026-10-18 22:35:18,Mack,3.9,1,0,1,1,0,0,11,2,0,0,0,1,21,1
-DRAXSTAR,449,449.0,3.6,Amazon India,womens hoodies,2026-10-18 22:35:18,DRAXSTAR,3.6,1,0,1,1,0,0,8,1,0,0,0,1,9,2
-NETCLICK,499,499.0,4.8,Amazon India,womens hoodies,2026-10-18 22:35:18,NETCLICK,4.8,1,0,1,1,0,0,8,1,0,0,0,1,23,3
-FUNKY MONKEY,629,629.0,4.1,Amazon India,womens hoodies,2026-10-18 22:35:18,FUNKY,4.1,1,0,1,1,0,0,12,2,0,0,0,1,11,2
-DRAXSTAR,699,699.0,3.9,Amazon India,womens hoodies,2026-10-18 22:35:18,DRAXSTAR,3.9,1,0,1,1,0,0,8,1,0,0,0,1,9,2
-Oversized Sweatshirts for Women | Ribbed Cuffs Jade Blue Code Warm Hooded Hoodie for Women | Winter ,587,587.0,4.5,Amazon India,womens hoodies,2026-10-18 22:35:18,Oversized,4.5,1,0,1,1,0,0,100,17,0,0,1,1,25,1
-Womens Crepe Kurti | Straight Fit | Knee-Length | Crew Neck | 3/4 Sleeves | Casual & Office Wear,99,99.0,3.4,Amazon India,womens kurti,2026-10-18 22:36:01,Lee,3.4,1,0,1,1,0,0,96,19,0,0,0,2,18,7
-ANNI DESIGNER,450,450.0,3.2,Amazon India,womens kurti,2026-10-18 22:36:01,ANNI,3.2,1,0,1,1,0,0,13,2,1,0,0,2,1,5
-Women’s Viscose Blend Printed Short Kurti | Straight Fit Casual Ethnic Top | Square Neck Full Sleeve,349,349.0,3.8,Amazon India,womens kurti,2026-10-18 22:36:01,Lee,3.8,1,0,1,1,0,0,100,17,0,0,0,2,18,7
-Printed Design Kurti for Women,349,349.0,3.6,Amazon India,womens kurti,2026-10-18 22:36:01,Printed,3.6,1,0,1,1,0,0,30,5,0,0,0,2,27,1
-Women’s Embellished Khadi Cotton Kurti | Ethnic Straight Kurta Top | Breathable Casual Regular Fit,262,262.0,4.0,Amazon India,womens kurti,2026-10-18 22:36:01,Women’s,4.0,1,0,1,1,0,0,98,15,0,1,1,2,35,1
-New Cotton Leaf Printed Casual Straight Kurta for Women | Women Formal Kurti,249,249.0,3.8,Amazon India,womens kurti,2026-10-18 22:36:01,New,3.8,1,0,1,1,0,0,76,13,0,1,0,2,24,1
-Pinkmint,179,179.0,3.3,Amazon India,womens kurti,2026-10-18 22:36:01,Pinkmint,3.3,1,0,1,1,0,0,8,1,0,0,0,2,26,1
-GoSriKi,645,645.0,3.8,Amazon India,womens kurti,2026-10-18 22:36:01,GoSriKi,3.8,1,0,1,1,0,0,7,1,0,0,0,2,14,4
-FIRSTRAIN,379,379.0,3.8,Amazon India,womens kurti,2026-10-18 22:36:01,FIRSTRAIN,3.8,1,0,1,1,0,0,9,1,0,0,0,2,10,1
-GoSriKi,698,698.0,3.8,Amazon India,womens kurti,2026-10-18 22:36:01,GoSriKi,3.8,1,0,1,1,0,0,7,1,0,0,0,2,14,4
-Women Peach Embroidered Cotton Short Kurti | Casual Office & College Kurti Top for Girls,377.,377.0,3.7,Amazon India,womens kurti,2026-10-18 22:36:01,Women,3.7,1,0,1,1,0,0,88,15,0,1,0,2,33,3
-ANNI DESIGNER,322,322.0,3.1,Amazon India,womens kurti,2026-10-18 22:36:01,ANNI,3.1,1,0,1,1,0,0,13,2,1,0,0,2,1,5
-StyleScope,483,483.0,4.0,Amazon India,womens kurti,2026-10-18 22:36:01,StyleScope,4.0,1,0,1,1,0,0,10,1,0,0,0,2,29,1
-ANNI DESIGNER,731,731.0,3.4,Amazon India,womens kurti,2026-10-18 22:36:01,ANNI,3.4,1,0,1,1,0,0,13,2,1,0,0,2,1,5
-ANNI DESIGNER,450,450.0,3.9,Amazon India,womens kurti,2026-10-18 22:36:01,ANNI,3.9,1,0,1,1,0,0,13,2,1,0,0,2,1,5
-Women Rayon Chikankari Kurti with Palazzo Set | Embroidered Ethnic Wear Set | Traditional Indian Kur,959,959.0,3.1,Amazon India,womens kurti,2026-10-18 22:36:01,Women,3.1,1,0,1,1,0,0,100,16,0,0,0,2,33,3
-Celary,599,599.0,4.0,Amazon India,womens kurti,2026-10-18 22:36:01,Celary,4.0,1,0,1,1,0,0,6,1,0,0,0,2,8,1
-GoSriKi,655,655.0,3.8,Amazon India,womens kurti,2026-10-18 22:36:01,GoSriKi,3.8,1,0,1,1,0,0,7,1,0,0,0,2,14,4
-GoSriKi,783,783.0,3.8,Amazon India,womens kurti,2026-10-18 22:36:01,GoSriKi,3.8,1,0,1,1,0,0,7,1,0,0,0,2,14,4
-Generic,355,355.0,3.5,Amazon India,womens kurti,2026-10-18 22:36:01,Generic,3.5,1,0,1,1,0,0,7,1,0,0,0,2,13,3
-Yashika,989,989.0,4.1,Amazon India,womens kurti,2026-10-18 22:36:01,Yashika,4.1,1,0,1,1,0,0,7,1,0,0,0,2,36,1
-rytras,396,396.0,3.9,Amazon India,womens kurti,2026-10-18 22:36:01,rytras,3.9,1,0,1,1,0,0,6,1,0,0,0,2,37,1
-Generic,325,325.0,3.3,Amazon India,womens kurti,2026-10-18 22:36:01,Generic,3.3,1,0,1,1,0,0,7,1,0,0,0,2,13,3
-ANNI DESIGNER,322,322.0,3.6,Amazon India,womens kurti,2026-10-18 22:36:01,ANNI,3.6,1,0,1,1,0,0,13,2,1,0,0,2,1,5
-Rayon Long Kurti for Girls Printed Full Sleeve,349,349.0,4.1,Amazon India,womens kurti,2026-10-18 22:36:01,Lee,4.1,1,0,1,1,0,0,46,8,0,0,0,2,18,7
+THE INDIAN GARAGE CO,392,392.0,4.0,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,THE,4.0,1,0,1,0,0,0,20,4,0,0,0,0,9,3
+Levi's,767,767.0,3.8,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Levi,3.8,1,0,1,0,0,0,6,1,0,0,0,0,1,2
+Peter England,917,917.0,3.8,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Peter,3.8,1,0,1,0,0,0,13,2,0,0,0,0,6,1
+Urbano Fashion,645,645.0,3.6,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+Urbano Fashion,720,720.0,3.7,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Urban,3.7,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+Urbano Fashion,694,694.0,3.6,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+London Hills,649,649.0,3.6,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,London,3.6,1,0,1,0,0,0,12,2,0,0,0,0,2,1
+Urbano Fashion,588,588.0,3.7,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Urban,3.7,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+Urbano Fashion,656,656.0,3.6,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+Pepe Jeans,"1,279",1279.0,3.4,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Pepe,3.4,1,0,1,0,0,0,10,2,0,0,0,0,5,3
+Levi's,"1,049",1049.0,3.8,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Levi,3.8,1,0,1,0,0,0,6,1,0,0,0,0,1,2
+Pepe Jeans,"1,279",1279.0,3.4,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Pepe,3.4,1,0,1,0,0,0,10,2,0,0,0,0,5,3
+Max,489,489.0,3.6,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Max,3.6,1,0,1,0,0,0,3,1,0,0,0,0,4,1
+WROGN,"1,007",1007.0,3.2,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Wrogn,3.2,1,0,1,0,0,0,5,1,0,0,0,0,12,2
+Thomas Scott,509,509.0,3.7,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Thomas,3.7,1,0,1,0,0,0,12,2,0,0,0,0,10,1
+Louis Philippe,"1,221",1221.0,3.6,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Louis,3.6,1,0,1,0,0,0,14,2,0,0,0,0,3,3
+Generic,399,399.0,5.0,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Generic,5.0,1,0,1,0,0,0,7,1,0,0,0,0,0,1
+Louis Philippe,"1,339",1339.0,3.6,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Louis,3.6,1,0,1,0,0,0,14,2,0,0,0,0,3,3
+THE INDIAN GARAGE CO,578,578.0,4.0,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,THE,4.0,1,0,1,0,0,0,20,4,0,0,0,0,9,3
+Pepe Jeans,"1,009",1009.0,3.5,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Pepe,3.5,1,0,1,0,0,0,10,2,0,0,0,0,5,3
+THE INDIAN GARAGE CO,647,647.0,3.6,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,THE,3.6,1,0,1,0,0,0,20,4,0,0,0,0,9,3
+WROGN,799,799.0,3.9,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Wrogn,3.9,1,0,1,0,0,0,5,1,0,0,0,0,12,2
+Louis Philippe,"1,419",1419.0,3.6,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Louis,3.6,1,0,1,0,0,0,14,2,0,0,0,0,3,3
+Supernova Inc.,549,549.0,3.7,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Supernova,3.7,1,0,1,0,0,0,14,2,0,0,0,0,8,1
+Spykar,"1,079",1079.0,,Amazon India,mens slim fit jeans,2026-10-19 23:56:13,Spykar,3.6,0,0,1,0,0,0,6,1,0,0,0,0,7,1
