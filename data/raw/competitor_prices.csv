@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-JVX,299,299.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-AUSK,269,269.0,3.5,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-AUSK,213,213.0,3.4,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-LEOTUDE,268,268.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-AUSK,339,339.0,1.5,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-Mack Jonney,299,299.0,3.3,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-BULLMER,424,424.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-AUSK,219,219.0,3.3,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-Noble Monk,249,249.0,3.5,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-JVX,299,299.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-Sleepynuts,944,944.0,3.8,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-Noble Monk,260,260.0,3.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-London Hills,279,279.0,3.8,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-U.S. POLO ASSN.,692,692.0,3.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-LAZYCHUNKS,432,432.0,4.0,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-O3e,345,345.0,4.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-LEOTUDE,268,268.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-U.S. POLO ASSN.,712,712.0,3.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-U.S. POLO ASSN.,609,609.0,3.5,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-"Men's Polycotton Round Neck T-Shirt | Full Sleeve Casual T-Shirt for Men | Soft, Breathable Regular ",280,280.0,3.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-U.S. POLO ASSN.,761,761.0,3.8,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-Noble Monk,274,274.0,4.4,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-KAJARU,309,309.0,3.8,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-Jockey,779,779.0,4.1,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-FTX,192,192.0,4.2,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38
-Allen Solly,479,479.0,4.1,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Max,175,175.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Noble Monk,287,287.0,3.8,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Levi's,311,311.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58
-London Hills,209,209.0,3.7,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Lux Cozi,338,338.0,3.8,Amazon India,mens black tshirt,2026-10-25 22:45:58
-AUSK,225,225.0,3.4,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Amazon Brand - Symbol,379,379.0,3.9,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Van Heusen,419,419.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Allen Solly,675,675.0,4.1,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Amazon Brand - Symbol,329,329.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58
-KAJARU,309,309.0,3.8,Amazon India,mens black tshirt,2026-10-25 22:45:58
-AUSK,267,267.0,3.5,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Lymio,389,389.0,3.4,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Peter England,609,609.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Jockey,518,518.0,4.2,Amazon India,mens black tshirt,2026-10-25 22:45:58
-boffi ...,248,248.0,3.4,Amazon India,mens black tshirt,2026-10-25 22:45:58
-QNIM,305,305.0,3.6,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Van Heusen,599,599.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Pepe Jeans,386,386.0,3.9,Amazon India,mens black tshirt,2026-10-25 22:45:58
-JACK & JONES,542,542.0,3.7,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Peter England,550,550.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Men’s Plain Polo Neck T-Shirt | Comfortable | Stylish Casual & Smart Wear | Half Sleeve | Regular Fi,278,278.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58
-Louis Philippe,719,719.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58
-O3e,345,345.0,4.7,Amazon India,mens black tshirt,2026-10-25 22:45:58
+JVX,449,449.0,3.8,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+TAGAS,549,549.0,4.8,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Mack Jonney,399,399.0,4.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Lymio,419,419.0,3.9,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Men's Solid Quarter Zip Sweatshirt | Stand Collar Pullover Sweatshirt | Full Sleeve Casual Winter We,479,479.0,,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Men Regular Fit Colorblock Raglan Hoodie || Hoodie for Men,499,499.0,4.4,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+TAGAS,449,449.0,3.9,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Lymio,549,549.0,3.7,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Red Tape,779,779.0,,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Mens Fleece Half Zip High Neck Sweatshirt Full Sleeve Winter Casual Daily Comfort Pullover Apparel,280,280.0,5.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+NOBERO,"1,299",1299.0,4.3,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Allen Solly,959,959.0,3.9,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+JVX,449,449.0,3.6,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Lymio,449,449.0,3.4,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Mack Jonney,429,429.0,,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Allen Solly,819,819.0,4.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Mens Colorblock Raglan Hooded Sweatshirt|| Hoodie for Men,474,474.0,,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Mack Jonney,399,399.0,3.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+Mack Jonney,429,429.0,3.4,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+BLACKSTEP,948,948.0,4.3,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+GRECIILOOKS,399,399.0,3.8,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+TAGAS,499,499.0,4.1,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+The Modern Soul,599,599.0,3.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+TAGAS,449,449.0,4.1,Amazon India,mens sweatshirt,2026-10-27 23:58:07
+PUMA,"1,099",1099.0,4.1,Amazon India,mens sweatshirt,2026-10-27 23:58:07

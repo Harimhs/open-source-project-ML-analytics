@@ -1,51 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-JVX,299,299.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,JVX,3.6,1,1,1,0,0,0,3,1,0,0,0,1,5,2
-AUSK,269,269.0,3.5,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,AUSK,3.5,1,1,1,0,0,0,4,1,0,0,0,1,0,6
-AUSK,213,213.0,3.4,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,1,0,6
-LEOTUDE,268,268.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,LEOTUDE,3.6,1,1,1,0,0,0,7,1,0,0,0,1,10,2
-AUSK,339,339.0,1.5,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,AUSK,1.5,1,1,1,0,0,0,4,1,0,0,0,1,0,6
-Mack Jonney,299,299.0,3.3,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Mack,3.3,1,1,1,0,0,0,11,2,0,0,0,1,17,1
-BULLMER,424,424.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,BULLMER,3.6,1,1,1,0,0,0,7,1,0,0,0,1,3,1
-AUSK,219,219.0,3.3,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,AUSK,3.3,1,1,1,0,0,0,4,1,0,0,0,1,0,6
-Noble Monk,249,249.0,3.5,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Noble,3.5,1,1,1,0,0,0,10,2,0,0,0,1,19,4
-JVX,299,299.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,JVX,3.6,1,1,1,0,0,0,3,1,0,0,0,1,5,2
-Sleepynuts,944,944.0,3.8,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Lee,3.8,1,1,1,0,0,0,10,1,0,0,0,1,11,2
-Noble Monk,260,260.0,3.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Noble,3.7,1,1,1,0,0,0,10,2,0,0,0,1,19,4
-London Hills,279,279.0,3.8,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,London,3.8,1,1,1,0,0,0,12,2,0,0,0,1,13,2
-U.S. POLO ASSN.,692,692.0,3.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Polo,3.7,1,1,1,0,0,0,15,3,0,0,0,1,23,5
-LAZYCHUNKS,432,432.0,4.0,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,LAZYCHUNKS,4.0,1,1,1,0,0,0,10,1,0,0,0,1,9,1
-O3e,345,345.0,4.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,O3e,4.7,1,1,1,0,0,0,3,1,0,0,0,1,20,2
-LEOTUDE,268,268.0,3.6,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,LEOTUDE,3.6,1,1,1,0,0,0,7,1,0,0,0,1,10,2
-U.S. POLO ASSN.,712,712.0,3.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Polo,3.7,1,1,1,0,0,0,15,3,0,0,0,1,23,5
-U.S. POLO ASSN.,609,609.0,3.5,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Polo,3.5,1,1,1,0,0,0,15,3,0,0,0,1,23,5
-"Men's Polycotton Round Neck T-Shirt | Full Sleeve Casual T-Shirt for Men | Soft, Breathable Regular ",280,280.0,3.7,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Lee,3.7,1,1,1,0,0,0,100,16,0,1,1,1,11,2
-U.S. POLO ASSN.,761,761.0,3.8,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,1,23,5
-Noble Monk,274,274.0,4.4,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Noble,4.4,1,1,1,0,0,0,10,2,0,0,0,1,19,4
-KAJARU,309,309.0,3.8,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,KAJARU,3.8,1,1,1,0,0,0,6,1,0,0,0,1,8,2
-Jockey,779,779.0,4.1,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,Jockey,4.1,1,1,1,0,0,0,6,1,0,0,0,1,7,2
-FTX,192,192.0,4.2,Amazon India,mens full sleeve tshirt,2026-10-25 22:45:38,FTX,4.2,1,1,1,0,0,0,3,1,0,0,0,1,4,1
-Allen Solly,479,479.0,4.1,Amazon India,mens black tshirt,2026-10-25 22:45:58,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,2
-Max,175,175.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,18,1
-Noble Monk,287,287.0,3.8,Amazon India,mens black tshirt,2026-10-25 22:45:58,Noble,3.8,1,1,1,0,0,0,10,2,0,0,0,0,19,4
-Levi's,311,311.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58,Levi,4.0,1,1,1,0,0,0,6,1,0,0,0,0,12,1
-London Hills,209,209.0,3.7,Amazon India,mens black tshirt,2026-10-25 22:45:58,London,3.7,1,1,1,0,0,0,12,2,0,0,0,0,13,2
-Lux Cozi,338,338.0,3.8,Amazon India,mens black tshirt,2026-10-25 22:45:58,Lux,3.8,1,1,1,0,0,0,8,2,0,0,0,0,15,1
-AUSK,225,225.0,3.4,Amazon India,mens black tshirt,2026-10-25 22:45:58,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,0,6
-Amazon Brand - Symbol,379,379.0,3.9,Amazon India,mens black tshirt,2026-10-25 22:45:58,Amazon,3.9,1,1,1,0,0,0,21,4,0,0,0,0,2,2
-Van Heusen,419,419.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,25,2
-Allen Solly,675,675.0,4.1,Amazon India,mens black tshirt,2026-10-25 22:45:58,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,2
-Amazon Brand - Symbol,329,329.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58,Amazon,4.0,1,1,1,0,0,0,21,4,0,0,0,0,2,2
-KAJARU,309,309.0,3.8,Amazon India,mens black tshirt,2026-10-25 22:45:58,KAJARU,3.8,1,1,1,0,0,0,6,1,0,0,0,0,8,2
-AUSK,267,267.0,3.5,Amazon India,mens black tshirt,2026-10-25 22:45:58,AUSK,3.5,1,1,1,0,0,0,4,1,0,0,0,0,0,6
-Lymio,389,389.0,3.4,Amazon India,mens black tshirt,2026-10-25 22:45:58,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,0,16,1
-Peter England,609,609.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,0,22,2
-Jockey,518,518.0,4.2,Amazon India,mens black tshirt,2026-10-25 22:45:58,Jockey,4.2,1,1,1,0,0,0,6,1,0,0,0,0,7,2
-boffi ...,248,248.0,3.4,Amazon India,mens black tshirt,2026-10-25 22:45:58,boffi,3.4,1,1,1,0,0,0,9,2,0,0,0,0,26,1
-QNIM,305,305.0,3.6,Amazon India,mens black tshirt,2026-10-25 22:45:58,QNIM,3.6,1,1,1,0,0,0,4,1,0,0,0,0,24,1
-Van Heusen,599,599.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,25,2
-Pepe Jeans,386,386.0,3.9,Amazon India,mens black tshirt,2026-10-25 22:45:58,Pepe,3.9,1,1,1,0,0,0,10,2,0,0,0,0,21,1
-JACK & JONES,542,542.0,3.7,Amazon India,mens black tshirt,2026-10-25 22:45:58,Jack,3.7,1,1,1,0,0,0,12,3,0,0,0,0,6,1
-Peter England,550,550.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,0,22,2
-Men’s Plain Polo Neck T-Shirt | Comfortable | Stylish Casual & Smart Wear | Half Sleeve | Regular Fi,278,278.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58,Polo,4.0,1,1,1,0,0,0,100,19,0,0,1,0,23,5
-Louis Philippe,719,719.0,4.0,Amazon India,mens black tshirt,2026-10-25 22:45:58,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,0,14,1
-O3e,345,345.0,4.7,Amazon India,mens black tshirt,2026-10-25 22:45:58,O3e,4.7,1,1,1,0,0,0,3,1,0,0,0,0,20,2
+JVX,449,449.0,3.8,Amazon India,mens sweatshirt,2026-10-27 23:58:07,JVX,3.8,1,1,1,0,0,0,3,1,0,0,0,0,3,2
+TAGAS,549,549.0,4.8,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Tagas,4.8,1,1,1,0,0,0,5,1,0,0,0,0,12,4
+Mack Jonney,399,399.0,4.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Mack,4.0,1,1,1,0,0,0,11,2,0,0,0,0,6,4
+Lymio,419,419.0,3.9,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Lymio,3.9,1,1,1,0,0,0,5,1,0,0,0,0,5,3
+Men's Solid Quarter Zip Sweatshirt | Stand Collar Pullover Sweatshirt | Full Sleeve Casual Winter We,479,479.0,,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Lee,3.9,0,1,1,0,0,0,100,16,0,0,0,0,4,2
+Men Regular Fit Colorblock Raglan Hoodie || Hoodie for Men,499,499.0,4.4,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Men,4.4,1,1,1,0,0,0,58,10,0,0,1,0,7,1
+TAGAS,449,449.0,3.9,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Tagas,3.9,1,1,1,0,0,0,5,1,0,0,0,0,12,4
+Lymio,549,549.0,3.7,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Lymio,3.7,1,1,1,0,0,0,5,1,0,0,0,0,5,3
+Red Tape,779,779.0,,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Red,3.9,0,1,1,0,0,0,8,2,0,0,0,0,11,1
+Mens Fleece Half Zip High Neck Sweatshirt Full Sleeve Winter Casual Daily Comfort Pullover Apparel,280,280.0,5.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Lee,5.0,1,1,1,0,0,0,98,15,0,0,0,0,4,2
+NOBERO,"1,299",1299.0,4.3,Amazon India,mens sweatshirt,2026-10-27 23:58:07,NOBERO,4.3,1,1,1,0,0,0,6,1,0,0,0,0,9,1
+Allen Solly,959,959.0,3.9,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Allen,3.9,1,1,1,0,0,0,11,2,0,0,0,0,0,2
+JVX,449,449.0,3.6,Amazon India,mens sweatshirt,2026-10-27 23:58:07,JVX,3.6,1,1,1,0,0,0,3,1,0,0,0,0,3,2
+Lymio,449,449.0,3.4,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Lymio,3.4,1,1,1,0,0,0,5,1,0,0,0,0,5,3
+Mack Jonney,429,429.0,,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Mack,3.9,0,1,1,0,0,0,11,2,0,0,0,0,6,4
+Allen Solly,819,819.0,4.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Allen,4.0,1,1,1,0,0,0,11,2,0,0,0,0,0,2
+Mens Colorblock Raglan Hooded Sweatshirt|| Hoodie for Men,474,474.0,,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Mens,3.9,0,1,1,0,0,0,57,8,0,0,0,0,8,1
+Mack Jonney,399,399.0,3.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Mack,3.0,1,1,1,0,0,0,11,2,0,0,0,0,6,4
+Mack Jonney,429,429.0,3.4,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Mack,3.4,1,1,1,0,0,0,11,2,0,0,0,0,6,4
+BLACKSTEP,948,948.0,4.3,Amazon India,mens sweatshirt,2026-10-27 23:58:07,BLACKSTEP,4.3,1,1,1,0,0,0,9,1,0,0,0,0,1,1
+GRECIILOOKS,399,399.0,3.8,Amazon India,mens sweatshirt,2026-10-27 23:58:07,GRECIILOOKS,3.8,1,1,1,0,0,0,11,1,0,0,0,0,2,1
+TAGAS,499,499.0,4.1,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Tagas,4.1,1,1,1,0,0,0,5,1,0,0,0,0,12,4
+The Modern Soul,599,599.0,3.0,Amazon India,mens sweatshirt,2026-10-27 23:58:07,The,3.0,1,1,1,0,0,0,15,3,0,0,0,0,13,1
+TAGAS,449,449.0,4.1,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Tagas,4.1,1,1,1,0,0,0,5,1,0,0,0,0,12,4
+PUMA,"1,099",1099.0,4.1,Amazon India,mens sweatshirt,2026-10-27 23:58:07,Puma,4.1,1,1,1,0,0,0,4,1,0,0,0,0,10,1
