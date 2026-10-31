@@ -1,26 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-CLASSIC TEES,329,329.0,4.1,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,CLASSIC,4.1,1,1,1,1,0,0,12,2,0,0,0,0,2,5
-Fabricorn,926,926.0,4.1,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Fabricorn,4.1,1,1,1,1,0,0,9,1,0,0,0,0,4,3
-Amazon Brand - Symbol,399,399.0,4.0,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Amazon,4.0,1,1,1,1,0,0,21,4,0,0,0,0,0,2
-Amazon Brand - Symbol,399,399.0,4.0,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Amazon,4.0,1,1,1,1,0,0,21,4,0,0,0,0,0,2
-"Women's Casual V-Neck T-Shirt, Short Sleeve, Cotton Blend, Solid Black, Relaxed Fit, Rolled Cuff Sum",399,399.0,3.8,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Lee,3.8,1,1,1,1,0,0,100,15,0,1,1,0,6,4
-CLASSIC TEES,329,329.0,4.1,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,CLASSIC,4.1,1,1,1,1,0,0,12,2,0,0,0,0,2,5
-Women Oversized V Neck T-Shirt | Number Graphic Printed Casual Tee | Cotton Blend Y2K Street Fashion,249,249.0,2.8,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Women,2.8,1,1,1,1,0,0,100,17,0,1,1,0,9,2
-Women's Oversized Varsity Graphic T-Shirt | Brown V-Neck Half Sleeve Loose Fit Athletic Jersey Top f,249,249.0,3.5,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Lee,3.5,1,1,1,1,0,0,100,16,0,0,1,0,6,4
-CLASSIC TEES,329,329.0,4.1,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,CLASSIC,4.1,1,1,1,1,0,0,12,2,0,0,0,0,2,5
-Fabricorn,310,310.0,3.9,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Fabricorn,3.9,1,1,1,1,0,0,9,1,0,0,0,0,4,3
-CLASSIC TEES,690,690.0,5.0,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,CLASSIC,5.0,1,1,1,1,0,0,12,2,0,0,0,0,2,5
-Women Solid V Neck T-Shirt | Cotton Blend Short Sleeve Casual Tee | Stylish Everyday Fashion Collect,183,183.0,,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Lee,3.8,0,1,1,1,0,0,100,17,0,1,0,0,6,4
-CLASSIC TEES,329,329.0,4.1,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,CLASSIC,4.1,1,1,1,1,0,0,12,2,0,0,0,0,2,5
-JUNEBERRY,341,341.0,3.7,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,JUNEBERRY,3.7,1,1,1,1,0,0,9,1,0,0,0,0,5,4
-Women Oversized V Neck T-Shirt | Number Graphic Printed Casual Tee | Cotton Blend Y2K Street Fashion,249,249.0,2.8,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Women,2.8,1,1,1,1,0,0,100,17,0,1,1,0,9,2
-JUNEBERRY,359,359.0,3.7,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,JUNEBERRY,3.7,1,1,1,1,0,0,9,1,0,0,0,0,5,4
-FLEXIMAA,599,599.0,3.6,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,FLEXIMAA,3.6,1,1,1,1,0,0,8,1,0,0,0,0,3,1
-Patche,389,389.0,,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Patche,3.8,0,1,1,1,0,0,6,1,0,0,0,0,7,1
-JUNEBERRY,339,339.0,3.7,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,JUNEBERRY,3.7,1,1,1,1,0,0,9,1,0,0,0,0,5,4
-Zurity,399,399.0,4.0,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Zurity,4.0,1,1,1,1,0,0,6,1,0,0,0,0,10,1
-Fabricorn,403,403.0,3.7,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Fabricorn,3.7,1,1,1,1,0,0,9,1,0,0,0,0,4,3
-"Women’s Solid Slim Fit Cotton T-Shirt – Mandarin Collar, Button-Front Design, Half Sleeves, Soft & B",403,403.0,4.1,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,Lee,4.1,1,1,1,1,0,0,100,16,0,1,1,0,6,4
-JUNEBERRY,361,361.0,3.8,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,JUNEBERRY,3.8,1,1,1,1,0,0,9,1,0,0,0,0,5,4
-BLACK BUDDY,299,299.0,3.6,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,BLACK,3.6,1,1,1,1,0,0,11,2,0,0,0,0,1,1
-UZARUS,379,379.0,3.6,Amazon India,womens v neck tshirt,2026-10-29 00:16:19,UZARUS,3.6,1,1,1,1,0,0,6,1,0,0,0,0,8,1
+AUSK,219,219.0,3.4,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,0,2
+LEOTUDE,268,268.0,3.9,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,LEOTUDE,3.9,1,1,1,0,0,0,7,1,0,0,0,0,9,9
+boffi ...,278,278.0,3.4,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,boffi,3.4,1,1,1,0,0,0,9,2,0,0,0,0,22,3
+boffi ...,247,247.0,3.4,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,boffi,3.4,1,1,1,0,0,0,9,2,0,0,0,0,22,3
+LEOTUDE,269,269.0,3.8,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,9,9
+Noble Monk,260,260.0,3.4,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,Noble,3.4,1,1,1,0,0,0,10,2,0,0,0,0,15,1
+AUSK,199,199.0,3.4,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,0,2
+THALASI,405,405.0,3.5,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,THALASI,3.5,1,1,1,0,0,0,7,1,0,0,0,0,17,1
+Leriya Fashion,389,389.0,3.7,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,Leriya,3.7,1,1,1,0,0,0,14,2,0,0,0,0,11,1
+JACK & JONES,532,532.0,3.9,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,Jack,3.9,1,1,1,0,0,0,12,3,0,0,0,0,8,2
+LEOTUDE,399,399.0,5.0,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,LEOTUDE,5.0,1,1,1,0,0,0,7,1,0,0,0,0,9,9
+LEOTUDE,267,267.0,4.0,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,LEOTUDE,4.0,1,1,1,0,0,0,7,1,0,0,0,0,9,9
+boffi ...,234,234.0,3.4,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,boffi,3.4,1,1,1,0,0,0,9,2,0,0,0,0,22,3
+LEOTUDE,249,249.0,4.7,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,LEOTUDE,4.7,1,1,1,0,0,0,7,1,0,0,0,0,9,9
+CHKOKKO,370,370.0,3.7,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,CHKOKKO,3.7,1,1,1,0,0,0,7,1,0,0,0,0,5,1
+LEOTUDE,715,715.0,3.8,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,LEOTUDE,3.8,1,1,1,0,0,0,7,1,0,0,0,0,9,9
+"Oversized T Shirt for Men Gym, Gym T Shirts for Men Workout Oversized, Cotton Blend, Color Blocked (",297,297.0,1.0,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,Oversized,1.0,1,1,1,0,0,0,100,18,0,1,1,0,16,1
+LEOTUDE,258,258.0,3.9,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,LEOTUDE,3.9,1,1,1,0,0,0,7,1,0,0,0,0,9,9
+The Souled Store,"1,041",1041.0,4.3,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,The,4.3,1,1,1,0,0,0,16,3,0,0,0,0,19,2
+JACK & JONES,571,571.0,3.6,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,Jack,3.6,1,1,1,0,0,0,12,3,0,0,0,0,8,2
+Veirdo,849,849.0,4.0,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,Veirdo,4.0,1,1,1,0,0,0,6,1,0,0,0,0,20,1
+LEOTUDE,262,262.0,3.6,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,LEOTUDE,3.6,1,1,1,0,0,0,7,1,0,0,0,0,9,9
+BULLMER,389,389.0,3.6,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,BULLMER,3.6,1,1,1,0,0,0,7,1,0,0,0,0,3,1
+Max,215,215.0,4.0,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,14,7
+The Souled Store,"1,349",1349.0,4.6,Amazon India,mens oversized tshirt,2026-10-30 23:58:52,The,4.6,1,1,1,0,0,0,16,3,0,0,0,0,19,2
+MIKRAM,99,99.0,4.0,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,MIKRAM,4.0,1,1,1,1,0,0,6,1,0,0,0,1,13,2
+Sleepynuts,944,944.0,3.9,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Lee,3.9,1,1,1,1,0,0,10,1,0,0,0,1,10,4
+Bewakoof,450,450.0,4.1,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Bewakoof,4.1,1,1,1,1,0,0,8,1,0,0,0,1,4,1
+LEOTUDE,569,569.0,3.8,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,LEOTUDE,3.8,1,1,1,1,0,0,7,1,0,0,0,1,9,9
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,264,264.0,3.5,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Lee,3.5,1,1,1,1,0,0,100,19,0,1,0,1,10,4
+TQH,242,242.0,3.8,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,TQH,3.8,1,1,1,1,0,0,3,1,0,0,0,1,18,1
+JUNEBERRY,882,882.0,4.1,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,JUNEBERRY,4.1,1,1,1,1,0,0,9,1,0,0,0,1,7,2
+Amazon Brand - Symbol,549,549.0,4.1,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Amazon,4.1,1,1,1,1,0,0,21,4,0,0,0,1,2,2
+London Hills,759,759.0,3.9,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,London,3.9,1,1,1,1,0,0,12,2,0,0,0,1,12,3
+Amazon Brand - Symbol,399,399.0,4.0,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Amazon,4.0,1,1,1,1,0,0,21,4,0,0,0,1,2,2
+MIKRAM,230,230.0,,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,MIKRAM,3.9,0,1,1,1,0,0,6,1,0,0,0,1,13,2
+Max,189,189.0,4.0,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Max,4.0,1,1,1,1,0,0,3,1,0,0,0,1,14,7
+CLASSIC TEES,329,329.0,4.1,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,CLASSIC,4.1,1,1,1,1,0,0,12,2,0,0,0,1,6,1
+London Hills,649,649.0,4.0,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,London,4.0,1,1,1,1,0,0,12,2,0,0,0,1,12,3
+Max,379,379.0,4.0,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Max,4.0,1,1,1,1,0,0,3,1,0,0,0,1,14,7
+Allen Solly,369,369.0,4.0,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Allen,4.0,1,1,1,1,0,0,11,2,0,0,0,1,1,1
+Max,359,359.0,4.0,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Max,4.0,1,1,1,1,0,0,3,1,0,0,0,1,14,7
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt,299,299.0,3.7,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Lee,3.7,1,1,1,1,0,0,79,15,0,1,0,1,10,4
+London Hills,839,839.0,3.7,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,London,3.7,1,1,1,1,0,0,12,2,0,0,0,1,12,3
+Women’s Slim Fit Graphic Printed T-Shirt | Soft 100% Cotton Fabric | Round Neck Half Sleeve Casual T,474,474.0,4.0,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Lee,4.0,1,1,1,1,0,0,100,18,0,1,1,1,10,4
+Max,269,269.0,4.2,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Max,4.2,1,1,1,1,0,0,3,1,0,0,0,1,14,7
+Women's Oversized Printed Cotton T-Shirt | Bio Washed Soft Cotton | Relaxed Fit | Round Neck | Half ,399,399.0,3.6,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Women's,3.6,1,1,1,1,0,0,100,18,0,1,1,1,21,1
+JUNEBERRY,336,336.0,4.1,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,JUNEBERRY,4.1,1,1,1,1,0,0,9,1,0,0,0,1,7,2
+Max,215,215.0,4.2,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Max,4.2,1,1,1,1,0,0,3,1,0,0,0,1,14,7
+Max,269,269.0,4.1,Amazon India,womens cotton tshirt,2026-10-31 00:00:02,Max,4.1,1,1,1,1,0,0,3,1,0,0,0,1,14,7
