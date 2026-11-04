@@ -1,26 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Allen Solly,479,479.0,4.1,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Louis Philippe,918,918.0,4.1,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Peter England,699,699.0,4.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-AUSK,199,199.0,3.3,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Men's Cotton Rich Polo T-Shirt with Crest Emblem,473,473.0,3.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-GRECIILOOKS,399,399.0,4.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-GRECIILOOKS,539,539.0,4.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Men’s Polo T-Shirt with Contrast Collar | Premium Slim Fit Half Sleeve Casual Polo Tee,349,349.0,3.5,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Lymio,629,629.0,3.5,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-U.S. POLO ASSN.,804,804.0,3.8,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Louis Philippe,643,643.0,4.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-London Hills,369,369.0,3.8,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Louis Philippe,599.,599.0,4.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Allen Solly,748,748.0,4.1,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Peter England,599,599.0,4.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Peter England,539,539.0,4.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Lymio,349,349.0,3.5,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-boffi ...,320,320.0,3.4,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-AUSK,339,339.0,1.2,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-LEOTUDE,731,731.0,3.9,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Levi's,311,311.0,4.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Peter England,649,649.0,4.1,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Van Heusen,486,486.0,4.0,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Men T-Shirt | Cotton Casual T Shirt for Men (T-52-53),513,513.0,4.9,Amazon India,mens premium tshirt,2026-10-31 23:35:37
-Peter England,554,554.0,4.1,Amazon India,mens premium tshirt,2026-10-31 23:35:37
+LEOTUDE,599,599.0,3.8,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+AUSK,220,220.0,3.6,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+AUSK,231,231.0,3.6,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+MIKRAM,199,199.0,2.8,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Jawdrobe,369,369.0,4.0,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+London Hills,759,759.0,3.9,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+LEOTUDE,557,557.0,3.8,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Jawdrobe,317,317.0,3.9,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Max,398,398.0,4.0,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+"Women's Typography Round Neck Cotton-Blend T-Shirts, Oversized Drop Shoulder Boho Style T-Shirt",349,349.0,3.5,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,264,264.0,3.5,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+London Hills,299,299.0,3.8,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+LEOTUDE,268,268.0,4.1,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Brave One,265,265.0,4.2,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+TQH,255,255.0,3.8,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+London Hills,249,249.0,4.0,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Max,379,379.0,4.0,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Max,215,215.0,4.1,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Max,299,299.0,4.3,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+LEOTUDE,279,279.0,,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+AUSK,249,249.0,3.4,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+LEOTUDE,292,292.0,3.8,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+London Hills,559,559.0,3.9,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Jawdrobe,369,369.0,3.9,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+Max,269,269.0,4.2,Amazon India,womens printed tshirt,2026-11-04 00:49:27
+NETCLICK,499,499.0,3.7,Amazon India,womens hoodies,2026-11-04 00:50:21
+Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,498,498.0,3.7,Amazon India,womens hoodies,2026-11-04 00:50:21
+Boldfit,799,799.0,4.2,Amazon India,womens hoodies,2026-11-04 00:50:21
+NETCLICK,499,499.0,3.7,Amazon India,womens hoodies,2026-11-04 00:50:21
+TAGAS,499,499.0,3.8,Amazon India,womens hoodies,2026-11-04 00:50:21
+"Spider Graphic Printed Pullover Hoodie with Kangaroo Pocket, Drawstring Hood & Full Sleeves",499,499.0,5.0,Amazon India,womens hoodies,2026-11-04 00:50:21
+Alan Jones Clothing,677,677.0,4.1,Amazon India,womens hoodies,2026-11-04 00:50:21
+NETCLICK,499,499.0,3.7,Amazon India,womens hoodies,2026-11-04 00:50:21
+Fleece Solid Long Hooded Neck Hoodie Zipper Crop Jacket for Women's,474,474.0,4.0,Amazon India,womens hoodies,2026-11-04 00:50:21
+Casual Solid Full Sleeves Stylish Winter Hooded Neck Fleece Zipper Hoodie for Women,499,499.0,5.0,Amazon India,womens hoodies,2026-11-04 00:50:21
+BLACKSTEP,920,920.0,4.0,Amazon India,womens hoodies,2026-11-04 00:50:21
+FUNKY MONKEY,664,664.0,4.1,Amazon India,womens hoodies,2026-11-04 00:50:21
+TAGAS,519,519.0,3.9,Amazon India,womens hoodies,2026-11-04 00:50:21
+TAGAS,529,529.0,4.0,Amazon India,womens hoodies,2026-11-04 00:50:21
+FUNKY MONKEY,692,692.0,4.1,Amazon India,womens hoodies,2026-11-04 00:50:21
+Alan Jones Clothing,665,665.0,4.1,Amazon India,womens hoodies,2026-11-04 00:50:21
+DRAXSTAR,449,449.0,3.6,Amazon India,womens hoodies,2026-11-04 00:50:21
+Women's Solid Long Hooded Neck Fleece Hoodie Zipper Crop Jacket,499,499.0,4.1,Amazon India,womens hoodies,2026-11-04 00:50:21
+TAGAS,629,629.0,4.8,Amazon India,womens hoodies,2026-11-04 00:50:21
+ADBUCKS,740,740.0,3.8,Amazon India,womens hoodies,2026-11-04 00:50:21
+Alan Jones Clothing,677,677.0,4.1,Amazon India,womens hoodies,2026-11-04 00:50:21
+"Women Collar Button Hoodie/Sweatshirt | Polycotton Hoodies for Gym, Travel & Everyday Wear | Warm & ",449,449.0,3.9,Amazon India,womens hoodies,2026-11-04 00:50:21
+FUNKY MONKEY,664,664.0,4.1,Amazon India,womens hoodies,2026-11-04 00:50:21
+Women’s Full Zip Mask Hoodie | Hooded Sweatshirt with Front Graphic Print & Kangaroo Pockets | Casua,699,699.0,5.0,Amazon India,womens hoodies,2026-11-04 00:50:21
+Everyday Cropped Hoodie,399,399.0,,Amazon India,womens hoodies,2026-11-04 00:50:21
