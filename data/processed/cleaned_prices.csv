@@ -1,26 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Allen Solly,683,683.0,4.1,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,4
-AUSK,233,233.0,3.4,Amazon India,mens polo tshirt,2026-11-07 00:14:35,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,0,4
-Louis Philippe,884,884.0,4.0,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,0,5,4
-Amazon Brand - Symbol,339,339.0,3.8,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Amazon,3.8,1,1,1,0,0,0,21,4,0,0,0,0,2,2
-AUSK,225,225.0,3.8,Amazon India,mens polo tshirt,2026-11-07 00:14:35,AUSK,3.8,1,1,1,0,0,0,4,1,0,0,0,0,0,4
-AUSK,259,259.0,3.1,Amazon India,mens polo tshirt,2026-11-07 00:14:35,AUSK,3.1,1,1,1,0,0,0,4,1,0,0,0,0,0,4
-QNIM,360,360.0,3.5,Amazon India,mens polo tshirt,2026-11-07 00:14:35,QNIM,3.5,1,1,1,0,0,0,4,1,0,0,0,0,8,1
-AUSK,339,339.0,3.4,Amazon India,mens polo tshirt,2026-11-07 00:14:35,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,0,4
-Allen Solly,681,681.0,4.1,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,4
-Lymio,429,429.0,3.6,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Lymio,3.6,1,1,1,0,0,0,5,1,0,0,0,0,6,3
-Van Heusen,604,604.0,4.0,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,9,3
-Lymio,399,399.0,3.3,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Lymio,3.3,1,1,1,0,0,0,5,1,0,0,0,0,6,3
-Lymio,399,399.0,3.8,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Lymio,3.8,1,1,1,0,0,0,5,1,0,0,0,0,6,3
-Louis Philippe,674,674.0,4.0,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,0,5,4
-Louis Philippe,969,969.0,4.0,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,0,5,4
-Van Heusen,538,538.0,4.0,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,9,3
-Max,399,399.0,4.0,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Max,4.0,1,1,1,0,0,0,3,1,0,0,0,0,7,2
-Amazon Brand - Symbol,339,339.0,3.8,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Amazon,3.8,1,1,1,0,0,0,21,4,0,0,0,0,2,2
-GRECIILOOKS,549,549.0,3.9,Amazon India,mens polo tshirt,2026-11-07 00:14:35,GRECIILOOKS,3.9,1,1,1,0,0,0,11,1,0,0,0,0,3,1
-Van Heusen,582,582.0,4.0,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,9,3
-Allen Solly,797,797.0,4.1,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,4
-Louis Philippe,"1,239",1239.0,4.1,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Louis,4.1,1,1,1,0,0,0,14,2,0,0,0,0,5,4
-Allen Solly,459,459.0,4.1,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,4
-London Hills,369,369.0,3.8,Amazon India,mens polo tshirt,2026-11-07 00:14:35,London,3.8,1,1,1,0,0,0,12,2,0,0,0,0,4,1
-Max,599,599.0,4.2,Amazon India,mens polo tshirt,2026-11-07 00:14:35,Max,4.2,1,1,1,0,0,0,3,1,0,0,0,0,7,2
+Max,199,199.0,3.9,Amazon India,womens white tshirt,2026-11-07 23:51:59,Max,3.9,1,1,1,1,0,0,3,1,0,0,0,0,15,3
+London Hills,277,277.0,3.8,Amazon India,womens white tshirt,2026-11-07 23:51:59,London,3.8,1,1,1,1,0,0,12,2,0,0,0,0,14,1
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,284,284.0,3.6,Amazon India,womens white tshirt,2026-11-07 23:51:59,Lee,3.6,1,1,1,1,0,0,100,19,0,1,0,0,13,1
+CLASSIC TEES,329,329.0,4.0,Amazon India,womens white tshirt,2026-11-07 23:51:59,CLASSIC,4.0,1,1,1,1,0,0,12,2,0,0,0,0,4,1
+TWIN BIRDS,299,299.0,4.2,Amazon India,womens white tshirt,2026-11-07 23:51:59,TWIN,4.2,1,1,1,1,0,0,10,2,0,0,0,0,18,1
+Dream Beauty Fashion,250,250.0,3.8,Amazon India,womens white tshirt,2026-11-07 23:51:59,Dream,3.8,1,1,1,1,0,0,20,3,0,0,0,0,5,3
+Bewakoof,429,429.0,4.0,Amazon India,womens white tshirt,2026-11-07 23:51:59,Bewakoof,4.0,1,1,1,1,0,0,8,1,0,0,0,0,3,1
+Amazon Brand - Symbol,349,349.0,4.2,Amazon India,womens white tshirt,2026-11-07 23:51:59,Amazon,4.2,1,1,1,1,0,0,21,4,0,0,0,0,2,1
+FYLTR,349,349.0,3.7,Amazon India,womens white tshirt,2026-11-07 23:51:59,FYLTR,3.7,1,1,1,1,0,0,5,1,0,0,0,0,7,1
+Allen Solly,402,402.0,4.1,Amazon India,womens white tshirt,2026-11-07 23:51:59,Allen,4.1,1,1,1,1,0,0,11,2,0,0,0,0,1,1
+JUNEBERRY,396,396.0,4.0,Amazon India,womens white tshirt,2026-11-07 23:51:59,JUNEBERRY,4.0,1,1,1,1,0,0,9,1,0,0,0,0,10,1
+Max,219,219.0,3.5,Amazon India,womens white tshirt,2026-11-07 23:51:59,Max,3.5,1,1,1,1,0,0,3,1,0,0,0,0,15,3
+Max,199,199.0,4.3,Amazon India,womens white tshirt,2026-11-07 23:51:59,Max,4.3,1,1,1,1,0,0,3,1,0,0,0,0,15,3
+Jawdrobe,459,459.0,3.9,Amazon India,womens white tshirt,2026-11-07 23:51:59,Jawdrobe,3.9,1,1,1,1,0,0,8,1,0,0,0,0,11,2
+Dream Beauty Fashion,241,241.0,3.9,Amazon India,womens white tshirt,2026-11-07 23:51:59,Dream,3.9,1,1,1,1,0,0,20,3,0,0,0,0,5,3
+Enamor,284,284.0,4.2,Amazon India,womens white tshirt,2026-11-07 23:51:59,Enamor,4.2,1,1,1,1,0,0,6,1,0,0,0,0,6,1
+SHAIRA FASHION,299,299.0,4.1,Amazon India,womens white tshirt,2026-11-07 23:51:59,SHAIRA,4.1,1,1,1,1,0,0,14,2,0,0,0,0,16,1
+100% Cotton Plain Oversized T Shirt for Women | Round Neck T Shirt Women | Casual Plain Tshirt | Reg,255,255.0,3.8,Amazon India,womens white tshirt,2026-11-07 23:51:59,100%,3.8,1,1,1,1,0,0,100,20,0,1,1,0,0,1
+Dream Beauty Fashion,255,255.0,4.0,Amazon India,womens white tshirt,2026-11-07 23:51:59,Dream,4.0,1,1,1,1,0,0,20,3,0,0,0,0,5,3
+Istyle Can,264,264.0,3.6,Amazon India,womens white tshirt,2026-11-07 23:51:59,Istyle,3.6,1,1,1,1,0,0,10,2,0,0,0,0,9,1
+TQH,274,274.0,3.8,Amazon India,womens white tshirt,2026-11-07 23:51:59,TQH,3.8,1,1,1,1,0,0,3,1,0,0,0,0,17,1
+Jawdrobe,469,469.0,3.9,Amazon India,womens white tshirt,2026-11-07 23:51:59,Jawdrobe,3.9,1,1,1,1,0,0,8,1,0,0,0,0,11,2
+Wear Your Opinion,450,450.0,4.0,Amazon India,womens white tshirt,2026-11-07 23:51:59,Wear,4.0,1,1,1,1,0,0,17,3,0,0,0,0,19,1
+Hangout Hub,299,299.0,3.6,Amazon India,womens white tshirt,2026-11-07 23:51:59,Hangout,3.6,1,1,1,1,0,0,11,2,0,0,0,0,8,1
+Jockey,549,549.0,4.2,Amazon India,womens white tshirt,2026-11-07 23:51:59,Jockey,4.2,1,1,1,1,0,0,6,1,0,0,0,0,12,1
