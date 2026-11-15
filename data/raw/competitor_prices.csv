@@ -1,26 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Allen Solly,681,681.0,4.1,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Max,199,199.0,4.0,Amazon India,mens black tshirt,2026-11-08 23:56:49
-London Hills,209,209.0,3.7,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Amazon Brand - Symbol,339,339.0,3.8,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Lux Cozi,338,338.0,3.8,Amazon India,mens black tshirt,2026-11-08 23:56:49
-QNIM,360,360.0,3.5,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Amazon Brand - Symbol,299,299.0,4.0,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Jockey,579,579.0,4.2,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Levi's,421,421.0,4.0,Amazon India,mens black tshirt,2026-11-08 23:56:49
-London Hills,227,227.0,3.8,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Van Heusen,486,486.0,4.0,Amazon India,mens black tshirt,2026-11-08 23:56:49
-"Oversized T-Shirt for Men, Premium Combed Cotton, Drop Shoulder, Baggy Fit, Black/White/Charcoal Gre",299,299.0,3.6,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Boldfit,350,350.0,4.2,Amazon India,mens black tshirt,2026-11-08 23:56:49
-XYXX,386,386.0,3.9,Amazon India,mens black tshirt,2026-11-08 23:56:49
-AUSK,225,225.0,3.4,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Louis Philippe,809,809.0,4.0,Amazon India,mens black tshirt,2026-11-08 23:56:49
-AUSK,266,266.0,3.6,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Veirdo,399,399.0,3.8,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Van Heusen,594.,594.0,4.0,Amazon India,mens black tshirt,2026-11-08 23:56:49
-O3e,345,345.0,4.7,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Lymio,399,399.0,3.4,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Leriya Fashion,449,449.0,3.8,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Men’s Plain Polo Neck T-Shirt | Comfortable | Stylish Casual & Smart Wear | Half Sleeve | Regular Fi,299,299.0,3.9,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Trillion,398,398.0,3.8,Amazon India,mens black tshirt,2026-11-08 23:56:49
-Allen Solly,899,899.0,4.1,Amazon India,mens black tshirt,2026-11-08 23:56:49
+Allen Solly,637,637.0,4.1,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+AUSK,300,300.0,3.4,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+AUSK,378,378.0,2.6,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Louis Philippe,644,644.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Leriya Fashion,499,499.0,4.9,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+QNIM,360,360.0,3.6,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Amazon Brand - Symbol,398,398.0,3.9,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Lux Cozi,351,351.0,3.8,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+London Hills,399,399.0,3.9,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Allen Solly,594.,594.0,4.1,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Van Heusen,604,604.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+AUSK,359,359.0,3.2,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Lymio,429,429.0,3.6,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Van Heusen,538,538.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Louis Philippe,823.,823.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Van Heusen,594.,594.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Max,395,395.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+AUSK,300,300.0,3.7,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Amazon Brand - Symbol,399,399.0,3.9,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Peter England,691.,691.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Lymio,399,399.0,3.8,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Max,349,349.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Lymio,388,388.0,3.3,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Peter England,500,500.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Louis Philippe,"1,099",1099.0,4.0,Amazon India,mens polo tshirt,2026-11-15 00:06:43
+Women's Korean Style 3/4 Sleeve Oversized Button Down|| Workwear Top Shirt for Office & Casual Wear ,485,485.0,3.2,Amazon India,womens casual top,2026-11-15 00:09:03
+RIEKA,645,645.0,4.1,Amazon India,womens casual top,2026-11-15 00:09:03
+RIEKA,695,695.0,4.0,Amazon India,womens casual top,2026-11-15 00:09:03
+Generic,269,269.0,3.7,Amazon India,womens casual top,2026-11-15 00:09:03
+Dream Beauty Fashion,241,241.0,3.9,Amazon India,womens casual top,2026-11-15 00:09:03
+AUSK,358,358.0,3.1,Amazon India,womens casual top,2026-11-15 00:09:03
+"Women Short Sleeve Polo T-Shirts, Lady's Summer Striped Shirt, Collar Neck Casual Tank Tops",387,387.0,4.0,Amazon India,womens casual top,2026-11-15 00:09:03
+Pinkmint,199,199.0,3.6,Amazon India,womens casual top,2026-11-15 00:09:03
+Cotton Short Kurti for Women | Full Sleeves Kurti | Ethnic Kurta for Girls | Casual Shirt for Girl |,299,299.0,3.8,Amazon India,womens casual top,2026-11-15 00:09:03
+RIEKA,695,695.0,4.0,Amazon India,womens casual top,2026-11-15 00:09:03
+"Women's Denim Shirt, Blue, Puff Sleeve, Breeze Top Button Front, Casual Top",499,499.0,3.3,Amazon India,womens casual top,2026-11-15 00:09:03
+LITZO,499,499.0,3.6,Amazon India,womens casual top,2026-11-15 00:09:03
+LITZO,489,489.0,3.7,Amazon India,womens casual top,2026-11-15 00:09:03
+Womens Regular Fit Shirt | Premium Chiffon Allover Print Sleeveless Shirts for Casual & Office Wear ,508,508.0,3.8,Amazon India,womens casual top,2026-11-15 00:09:03
+RIEKA,645,645.0,4.1,Amazon India,womens casual top,2026-11-15 00:09:03
+Dream Beauty Fashion,210,210.0,4.0,Amazon India,womens casual top,2026-11-15 00:09:03
+Max,215,215.0,4.2,Amazon India,womens casual top,2026-11-15 00:09:03
+Zilcon,399,399.0,3.9,Amazon India,womens casual top,2026-11-15 00:09:03
+Dream Beauty Fashion,236,236.0,4.0,Amazon India,womens casual top,2026-11-15 00:09:03
+Women’s Polo T-Shirt | Long Sleeve Casual T-Shirt for Womens || Soft Comfortable Korean Style Trendy,358,358.0,3.3,Amazon India,womens casual top,2026-11-15 00:09:03
+Leriya Fashion,449,449.0,4.0,Amazon India,womens casual top,2026-11-15 00:09:03
+GRECIILOOKS,548,548.0,3.7,Amazon India,womens casual top,2026-11-15 00:09:03
+LATEST CHIKAN,499,499.0,3.1,Amazon India,womens casual top,2026-11-15 00:09:03
+Pinkmint,198,198.0,4.1,Amazon India,womens casual top,2026-11-15 00:09:03
+Generic,284,284.0,3.7,Amazon India,womens casual top,2026-11-15 00:09:03
