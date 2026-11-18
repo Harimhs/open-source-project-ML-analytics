@@ -1,26 +1,26 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-Max,199,199.0,4.0,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Max,4.0,1,1,1,1,0,1,3,1,0,0,0,0,9,4
-CLASSIC TEES,299,299.0,4.0,Amazon India,womens plain tshirt,2026-11-17 03:05:00,CLASSIC,4.0,1,1,1,1,0,1,12,2,0,0,0,0,2,2
-Sleepynuts,999,999.0,3.9,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Lee,3.9,1,1,1,1,0,1,10,1,0,0,0,0,7,3
-Sleepynuts,999,999.0,3.9,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Lee,3.9,1,1,1,1,0,1,10,1,0,0,0,0,7,3
-LEOTUDE,319,319.0,3.6,Amazon India,womens plain tshirt,2026-11-17 03:05:00,LEOTUDE,3.6,1,1,1,1,0,1,7,1,0,0,0,0,6,1
-JUNEBERRY,999,999.0,4.2,Amazon India,womens plain tshirt,2026-11-17 03:05:00,JUNEBERRY,4.2,1,1,1,1,0,1,9,1,0,0,0,0,5,2
-CLASSIC TEES,299,299.0,4.0,Amazon India,womens plain tshirt,2026-11-17 03:05:00,CLASSIC,4.0,1,1,1,1,0,1,12,2,0,0,0,0,2,2
-Fabricorn,372,372.0,4.0,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Fabricorn,4.0,1,1,1,1,0,1,9,1,0,0,0,0,3,2
-Fabricorn,979,979.0,4.1,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Fabricorn,4.1,1,1,1,1,0,1,9,1,0,0,0,0,3,2
-TWIN BIRDS,299,299.0,4.2,Amazon India,womens plain tshirt,2026-11-17 03:05:00,TWIN,4.2,1,1,1,1,0,1,10,2,0,0,0,0,10,2
-Amazon Brand - Symbol,447,447.0,4.2,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Amazon,4.2,1,1,1,1,0,1,21,4,0,0,0,0,1,3
-100% Cotton Plain Oversized T Shirt for Women | Round Neck T Shirt Women | Casual Plain Tshirt | Reg,246,246.0,3.8,Amazon India,womens plain tshirt,2026-11-17 03:05:00,100%,3.8,1,1,1,1,0,1,100,20,0,1,1,0,0,1
-London Hills,399,399.0,3.9,Amazon India,womens plain tshirt,2026-11-17 03:05:00,London,3.9,1,1,1,1,0,1,12,2,0,0,0,0,8,2
-Hangout Hub,125,125.0,1.3,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Hangout,1.3,1,1,1,1,0,1,11,2,0,0,0,0,4,2
-JUNEBERRY,396,396.0,4.0,Amazon India,womens plain tshirt,2026-11-17 03:05:00,JUNEBERRY,4.0,1,1,1,1,0,1,9,1,0,0,0,0,5,2
-Max,199,199.0,3.9,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Max,3.9,1,1,1,1,0,1,3,1,0,0,0,0,9,4
-Max,199,199.0,4.0,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Max,4.0,1,1,1,1,0,1,3,1,0,0,0,0,9,4
-Amazon Brand - Symbol,628,628.0,4.1,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Amazon,4.1,1,1,1,1,0,1,21,4,0,0,0,0,1,3
-Amazon Brand - Symbol,477,477.0,4.0,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Amazon,4.0,1,1,1,1,0,1,21,4,0,0,0,0,1,3
-London Hills,899,899.0,3.7,Amazon India,womens plain tshirt,2026-11-17 03:05:00,London,3.7,1,1,1,1,0,1,12,2,0,0,0,0,8,2
-Women’s Oversized Cotton T-Shirt | Plain Drop Shoulder Tee (S-7XL Plus Size),299,299.0,3.3,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Women’s,3.3,1,1,1,1,0,1,76,12,0,1,1,0,11,1
-TWIN BIRDS,299,299.0,4.2,Amazon India,womens plain tshirt,2026-11-17 03:05:00,TWIN,4.2,1,1,1,1,0,1,10,2,0,0,0,0,10,2
-Hangout Hub,299,299.0,3.6,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Hangout,3.6,1,1,1,1,0,1,11,2,0,0,0,0,4,2
-Max,199,199.0,3.9,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Max,3.9,1,1,1,1,0,1,3,1,0,0,0,0,9,4
-Sleepynuts,999,999.0,3.9,Amazon India,womens plain tshirt,2026-11-17 03:05:00,Lee,3.9,1,1,1,1,0,1,10,1,0,0,0,0,7,3
+Urbano Fashion,600,600.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+THE INDIAN GARAGE CO,599,599.0,3.5,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,THE,3.5,1,0,1,0,0,0,20,4,0,0,0,0,10,5
+Urbano Fashion,616,616.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+London Hills,741,741.0,3.5,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,London,3.5,1,0,1,0,0,0,12,2,0,0,0,0,4,1
+Urbano Fashion,699,699.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+Urbano Fashion,656,656.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+Urbano Fashion,672,672.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Urban,3.6,1,0,1,0,0,0,14,2,0,0,0,0,11,5
+WROGN,839,839.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Wrogn,3.6,1,0,1,0,0,0,5,1,0,0,0,0,12,2
+Amazon Brand - Symbol,749,749.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Amazon,3.6,1,0,1,0,0,0,21,4,0,0,0,0,0,1
+THE INDIAN GARAGE CO,599,599.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,THE,3.6,1,0,1,0,0,0,20,4,0,0,0,0,10,5
+Peter England,"1,026",1026.0,3.8,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Peter,3.8,1,0,1,0,0,0,13,2,0,0,0,0,8,2
+Levi's,990,990.0,3.8,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Levi,3.8,1,0,1,0,0,0,6,1,0,0,0,0,3,2
+Highlander,569,569.0,3.8,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Highlander,3.8,1,0,1,0,0,0,10,1,0,0,0,0,2,1
+Louis Philippe,"1,609",1609.0,3.8,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Louis,3.8,1,0,1,0,0,0,14,2,0,0,0,0,5,2
+Max,599,599.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Max,3.6,1,0,1,0,0,0,3,1,0,0,0,0,6,1
+Louis Philippe,"1,247",1247.0,3.8,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Louis,3.8,1,0,1,0,0,0,14,2,0,0,0,0,5,2
+Generic,399,399.0,5.0,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Generic,5.0,1,0,1,0,0,0,7,1,0,0,0,0,1,1
+THE INDIAN GARAGE CO,619,619.0,3.7,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,THE,3.7,1,0,1,0,0,0,20,4,0,0,0,0,10,5
+Spykar,"1,055",1055.0,3.4,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Spykar,3.4,1,0,1,0,0,0,6,1,0,0,0,0,9,1
+Peter England,999,999.0,3.6,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Peter,3.6,1,0,1,0,0,0,13,2,0,0,0,0,8,2
+Levi's,990,990.0,3.8,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Levi,3.8,1,0,1,0,0,0,6,1,0,0,0,0,3,2
+THE INDIAN GARAGE CO,619,619.0,3.7,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,THE,3.7,1,0,1,0,0,0,20,4,0,0,0,0,10,5
+Pepe Jeans,"1,231.",1231.0,3.3,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Pepe,3.3,1,0,1,0,0,0,10,2,0,0,0,0,7,1
+THE INDIAN GARAGE CO,854,854.0,3.9,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,THE,3.9,1,0,1,0,0,0,20,4,0,0,0,0,10,5
+WROGN,923,923.0,3.2,Amazon India,mens slim fit jeans,2026-11-18 02:34:17,Wrogn,3.2,1,0,1,0,0,0,5,1,0,0,0,0,12,2
