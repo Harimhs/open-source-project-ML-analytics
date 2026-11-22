@@ -1,26 +1,76 @@
 product_name,price_raw,price,rating,source,category,scraped_at,brand,rating_filled,has_rating,is_tshirt,is_mens,is_womens,is_printed,is_plain,name_length,word_count,has_premium_keyword,has_cotton,has_fit_type,category_encoded,brand_encoded,brand_frequency
-AUSK,298,298.0,3.4,Amazon India,mens premium tshirt,2026-11-21 01:41:17,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,0,2
-Allen Solly,587,587.0,4.1,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,2
-Van Heusen,604,604.0,4.0,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Van Heusen,4.0,1,1,1,0,0,0,10,2,0,0,0,0,11,3
-Lymio,429,429.0,3.6,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Lymio,3.6,1,1,1,0,0,0,5,1,0,0,0,0,7,2
-Men's Cotton Rich Polo T-Shirt with Crest Emblem,468,468.0,3.2,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Polo,3.2,1,1,1,0,0,0,48,8,0,1,0,0,10,2
-GRECIILOOKS,599,599.0,3.9,Amazon India,mens premium tshirt,2026-11-21 01:41:17,GRECIILOOKS,3.9,1,1,1,0,0,0,11,1,0,0,0,0,3,2
-London Hills,299,299.0,3.4,Amazon India,mens premium tshirt,2026-11-21 01:41:17,London,3.4,1,1,1,0,0,0,12,2,0,0,0,0,5,2
-Peter England,879,879.0,4.0,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,0,9,5
-Louis Philippe,809,809.0,4.0,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,0,6,2
-NOBERO,"1,179",1179.0,4.1,Amazon India,mens premium tshirt,2026-11-21 01:41:17,NOBERO,4.1,1,1,1,0,0,0,6,1,0,0,0,0,8,1
-Lymio,569,569.0,3.5,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Lymio,3.5,1,1,1,0,0,0,5,1,0,0,0,0,7,2
-Men’s Polo T-Shirt with Contrast Collar | Premium Slim Fit Half Sleeve Casual Polo Tee,448,448.0,3.6,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Polo,3.6,1,1,1,0,0,0,86,15,1,0,1,0,10,2
-London Hills,399,399.0,3.9,Amazon India,mens premium tshirt,2026-11-21 01:41:17,London,3.9,1,1,1,0,0,0,12,2,0,0,0,0,5,2
-Van Heusen,"1,089",1089.0,4.4,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Van Heusen,4.4,1,1,1,0,0,0,10,2,0,0,0,0,11,3
-Allen Solly,713,713.0,4.1,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Allen,4.1,1,1,1,0,0,0,11,2,0,0,0,0,1,2
-Levi's,389,389.0,4.0,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Levi,4.0,1,1,1,0,0,0,6,1,0,0,0,0,4,1
-Van Heusen,"1,049",1049.0,4.1,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Van Heusen,4.1,1,1,1,0,0,0,10,2,0,0,0,0,11,3
-Peter England,699,699.0,4.0,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,0,9,5
-AUSK,398,398.0,1.1,Amazon India,mens premium tshirt,2026-11-21 01:41:17,AUSK,1.1,1,1,1,0,0,0,4,1,0,0,0,0,0,2
-GRECIILOOKS,548,548.0,3.9,Amazon India,mens premium tshirt,2026-11-21 01:41:17,GRECIILOOKS,3.9,1,1,1,0,0,0,11,1,0,0,0,0,3,2
-Peter England,669,669.0,4.0,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Peter,4.0,1,1,1,0,0,0,13,2,0,0,0,0,9,5
-DAMENSCH,"1,499",1499.0,3.7,Amazon India,mens premium tshirt,2026-11-21 01:41:17,DAMENSCH,3.7,1,1,1,0,0,0,8,1,0,0,0,0,2,1
-Louis Philippe,823.,823.0,4.0,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Louis,4.0,1,1,1,0,0,0,14,2,0,0,0,0,6,2
-Peter England,"1,079",1079.0,4.2,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Peter,4.2,1,1,1,0,0,0,13,2,0,0,0,0,9,5
-Peter England,805,805.0,4.1,Amazon India,mens premium tshirt,2026-11-21 01:41:17,Peter,4.1,1,1,1,0,0,0,13,2,0,0,0,0,9,5
+JVX,399,399.0,3.6,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,JVX,3.6,1,1,1,0,0,0,3,1,0,0,0,0,15,1
+Leriya Fashion,399,399.0,4.1,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Leriya,4.1,1,1,1,0,0,0,14,2,0,0,0,0,24,2
+LEOTUDE,377,377.0,3.7,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,LEOTUDE,3.7,1,1,1,0,0,0,7,1,0,0,0,0,21,3
+Lymio,599,599.0,4.4,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Lymio,4.4,1,1,1,0,0,0,5,1,0,0,0,0,26,1
+BULLMER,484,484.0,3.6,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,BULLMER,3.6,1,1,1,0,0,0,7,1,0,0,0,0,5,1
+O3e,365,365.0,4.3,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,O3e,4.3,1,1,1,0,0,0,3,1,0,0,0,0,30,1
+AUSK,270,270.0,3.4,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,AUSK,3.4,1,1,1,0,0,0,4,1,0,0,0,0,1,5
+LEOTUDE,359,359.0,3.6,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,LEOTUDE,3.6,1,1,1,0,0,0,7,1,0,0,0,0,21,3
+AUSK,398,398.0,3.5,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,AUSK,3.5,1,1,1,0,0,0,4,1,0,0,0,0,1,5
+London Hills,276,276.0,3.6,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,London,3.6,1,1,1,0,0,0,12,2,0,0,0,0,25,5
+Imsa Moda,299,299.0,3.9,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Imsa,3.9,1,1,1,0,0,0,9,2,0,0,0,0,12,2
+KAJARU,345,345.0,3.8,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,KAJARU,3.8,1,1,1,0,0,0,6,1,0,0,0,0,17,1
+London Hills,399,399.0,3.0,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,London,3.0,1,1,1,0,0,0,12,2,0,0,0,0,25,5
+GRECIILOOKS,499,499.0,3.8,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,GRECIILOOKS,3.8,1,1,1,0,0,0,11,1,0,0,0,0,10,2
+Pepe Jeans,649,649.0,3.5,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Pepe,3.5,1,1,1,0,0,0,10,2,0,0,0,0,31,1
+U.S. POLO ASSN.,759,759.0,3.8,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,0,32,2
+LAZYCHUNKS,493,493.0,4.0,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,LAZYCHUNKS,4.0,1,1,1,0,0,0,10,1,0,0,0,0,20,1
+JUGULAR,274,274.0,3.5,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,JUGULAR,3.5,1,1,1,0,0,0,7,1,0,0,0,0,13,1
+Imsa Moda,299,299.0,3.5,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Imsa,3.5,1,1,1,0,0,0,9,2,0,0,0,0,12,2
+"Mens Stylish Half Zip Tshirt, Texture Striped Casual T-Shirt for Men, Formal Collared Neck Full Slee",599,599.0,3.4,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Lee,3.4,1,1,1,0,0,0,100,16,0,0,0,0,23,4
+TAGAS,489,489.0,3.7,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Tagas,3.7,1,1,1,0,0,0,5,1,0,0,0,0,38,1
+FTX,192,192.0,4.3,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,FTX,4.3,1,1,1,0,0,0,3,1,0,0,0,0,9,1
+London Hills,799,799.0,3.8,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,London,3.8,1,1,1,0,0,0,12,2,0,0,0,0,25,5
+Veirdo,429,429.0,3.9,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Veirdo,3.9,1,1,1,0,0,0,6,1,0,0,0,0,39,1
+U.S. POLO ASSN.,750,750.0,3.8,Amazon India,mens full sleeve tshirt,2026-11-22 00:36:19,Polo,3.8,1,1,1,0,0,0,15,3,0,0,0,0,32,2
+AUSK,297,297.0,3.7,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,AUSK,3.7,1,1,1,1,1,0,4,1,0,0,0,2,1,5
+MIKRAM,199,199.0,3.3,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,MIKRAM,3.3,1,1,1,1,1,0,6,1,0,0,0,2,27,1
+"Women's Typography Round Neck Cotton-Blend T-Shirts, Oversized Drop Shoulder Boho Style T-Shirt",349,349.0,3.5,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Women's,3.5,1,1,1,1,1,0,95,12,0,1,1,2,40,2
+AUSK,298,298.0,3.7,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,AUSK,3.7,1,1,1,1,1,0,4,1,0,0,0,2,1,5
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt,283,283.0,3.7,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Lee,3.7,1,1,1,1,1,0,79,15,0,1,0,2,23,4
+Women's Oversized Varsity Graphic T-Shirt | Brown V-Neck Half Sleeve Loose Fit Athletic Jersey Top f,249,249.0,3.8,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Lee,3.8,1,1,1,1,1,0,100,16,0,0,1,2,23,4
+Akar,299,299.0,3.8,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Akar,3.8,1,1,1,1,1,0,4,1,0,0,0,2,2,1
+TQH,293,293.0,3.8,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,TQH,3.8,1,1,1,1,1,0,3,1,0,0,0,2,37,1
+London Hills,379,379.0,3.8,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,London,3.8,1,1,1,1,1,0,12,2,0,0,0,2,25,5
+Women's Oversized Printed Cotton T-Shirt | Bio Washed Soft Cotton | Relaxed Fit | Round Neck | Half ,399,399.0,4.0,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Women's,4.0,1,1,1,1,1,0,100,18,0,1,1,2,40,2
+AUSK,358,358.0,3.6,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,AUSK,3.6,1,1,1,1,1,0,4,1,0,0,0,2,1,5
+Jawdrobe,381,381.0,3.9,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Jawdrobe,3.9,1,1,1,1,1,0,8,1,0,0,0,2,16,2
+SXV STYLE,664,664.0,4.3,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,SXV,4.3,1,1,1,1,1,0,9,2,0,0,0,2,35,1
+Jawdrobe,396,396.0,4.0,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Jawdrobe,4.0,1,1,1,1,1,0,8,1,0,0,0,2,16,2
+"Women's Graphic T-Shirt, White, Cute Girl Print, Short Sleeve, Casual Style",279,279.0,5.0,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Lee,5.0,1,1,1,1,1,0,75,11,0,0,0,2,23,4
+Max,497,497.0,4.0,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Max,4.0,1,1,1,1,1,0,3,1,0,0,0,2,28,2
+BLACKSTEP,348,348.0,4.0,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,BLACKSTEP,4.0,1,1,1,1,1,0,9,1,0,0,0,2,4,1
+JUNEBERRY,399,399.0,4.1,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,JUNEBERRY,4.1,1,1,1,1,1,0,9,1,0,0,0,2,14,2
+SHAIRA FASHION,299,299.0,4.1,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,SHAIRA,4.1,1,1,1,1,1,0,14,2,0,0,0,2,34,1
+JUNEBERRY,399,399.0,4.1,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,JUNEBERRY,4.1,1,1,1,1,1,0,9,1,0,0,0,2,14,2
+Cotton Blend Drop Shoulder Oversized T-Shirt for Women & Girls,280,280.0,3.5,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Cotton,3.5,1,1,1,1,1,0,62,10,0,1,1,2,8,1
+LEOTUDE,369,369.0,5.0,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,LEOTUDE,5.0,1,1,1,1,1,0,7,1,0,0,0,2,21,3
+London Hills,299,299.0,3.2,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,London,3.2,1,1,1,1,1,0,12,2,0,0,0,2,25,5
+Brave One,265,265.0,4.1,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Brave,4.1,1,1,1,1,1,0,9,2,0,0,0,2,6,1
+Max,249,249.0,3.9,Amazon India,womens graphic tshirt,2026-11-22 00:37:14,Max,3.9,1,1,1,1,1,0,3,1,0,0,0,2,28,2
+LOUIS LUXE,599,599.0,3.6,Amazon India,womens dress,2026-11-22 00:38:36,LOUIS,3.6,1,0,1,1,0,0,10,2,0,0,0,1,22,1
+Amayra,897,897.0,4.2,Amazon India,womens dress,2026-11-22 00:38:36,Amayra,4.2,1,0,1,1,0,0,6,1,0,0,0,1,3,1
+GoSriKi,699,699.0,3.6,Amazon India,womens dress,2026-11-22 00:38:36,GoSriKi,3.6,1,0,1,1,0,0,7,1,0,0,0,1,11,6
+GoSriKi,652,652.0,3.6,Amazon India,womens dress,2026-11-22 00:38:36,GoSriKi,3.6,1,0,1,1,0,0,7,1,0,0,0,1,11,6
+KLOSIA,799,799.0,4.1,Amazon India,womens dress,2026-11-22 00:38:36,KLOSIA,4.1,1,0,1,1,0,0,6,1,0,0,0,1,18,6
+KZULLY,399,399.0,4.2,Amazon India,womens dress,2026-11-22 00:38:36,KZULLY,4.2,1,0,1,1,0,0,6,1,0,0,0,1,19,2
+Shasmi,589,589.0,4.4,Amazon India,womens dress,2026-11-22 00:38:36,Shasmi,4.4,1,0,1,1,0,0,6,1,0,0,0,1,36,2
+GoSriKi,755,755.0,3.7,Amazon India,womens dress,2026-11-22 00:38:36,GoSriKi,3.7,1,0,1,1,0,0,7,1,0,0,0,1,11,6
+KLOSIA,799,799.0,4.1,Amazon India,womens dress,2026-11-22 00:38:36,KLOSIA,4.1,1,0,1,1,0,0,6,1,0,0,0,1,18,6
+KZULLY,428,428.0,4.2,Amazon India,womens dress,2026-11-22 00:38:36,KZULLY,4.2,1,0,1,1,0,0,6,1,0,0,0,1,19,2
+GRECIILOOKS,648,648.0,4.0,Amazon India,womens dress,2026-11-22 00:38:36,GRECIILOOKS,4.0,1,0,1,1,0,0,11,1,0,0,0,1,10,2
+Shasmi,589,589.0,4.4,Amazon India,womens dress,2026-11-22 00:38:36,Shasmi,4.4,1,0,1,1,0,0,6,1,0,0,0,1,36,2
+Leriya Fashion,499,499.0,3.7,Amazon India,womens dress,2026-11-22 00:38:36,Leriya,3.7,1,0,1,1,0,0,14,2,0,0,0,1,24,2
+Preneum,577,577.0,4.0,Amazon India,womens dress,2026-11-22 00:38:36,Preneum,4.0,1,0,1,1,0,0,7,1,0,0,0,1,33,1
+KLOSIA,799,799.0,3.9,Amazon India,womens dress,2026-11-22 00:38:36,KLOSIA,3.9,1,0,1,1,0,0,6,1,0,0,0,1,18,6
+KLOSIA,799,799.0,4.1,Amazon India,womens dress,2026-11-22 00:38:36,KLOSIA,4.1,1,0,1,1,0,0,6,1,0,0,0,1,18,6
+KLOSIA,899,899.0,4.4,Amazon India,womens dress,2026-11-22 00:38:36,KLOSIA,4.4,1,0,1,1,0,0,6,1,0,0,0,1,18,6
+KLOSIA,799,799.0,4.1,Amazon India,womens dress,2026-11-22 00:38:36,KLOSIA,4.1,1,0,1,1,0,0,6,1,0,0,0,1,18,6
+ANNI DESIGNER,787,787.0,4.1,Amazon India,womens dress,2026-11-22 00:38:36,ANNI,4.1,1,0,1,1,0,0,13,2,1,0,0,1,0,2
+Celary,789,789.0,3.7,Amazon India,womens dress,2026-11-22 00:38:36,Celary,3.7,1,0,1,1,0,0,6,1,0,0,0,1,7,1
+GoSriKi,999,999.0,3.7,Amazon India,womens dress,2026-11-22 00:38:36,GoSriKi,3.7,1,0,1,1,0,0,7,1,0,0,0,1,11,6
+GoSriKi,759,759.0,3.1,Amazon India,womens dress,2026-11-22 00:38:36,GoSriKi,3.1,1,0,1,1,0,0,7,1,0,0,0,1,11,6
+GoSriKi,749,749.0,3.8,Amazon India,womens dress,2026-11-22 00:38:36,GoSriKi,3.8,1,0,1,1,0,0,7,1,0,0,0,1,11,6
+ANNI DESIGNER,763,763.0,3.1,Amazon India,womens dress,2026-11-22 00:38:36,ANNI,3.1,1,0,1,1,0,0,13,2,1,0,0,1,0,2
+Nermosa,799,799.0,3.8,Amazon India,womens dress,2026-11-22 00:38:36,Nermosa,3.8,1,0,1,1,0,0,7,1,0,0,0,1,29,1
